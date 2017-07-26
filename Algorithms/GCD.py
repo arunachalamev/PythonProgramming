@@ -17,3 +17,6 @@ def gcd(a,b):
     print "GCD:", a
     
 gcd(4,12)
+gcd(4,4)
+gcd(3,7)
+
