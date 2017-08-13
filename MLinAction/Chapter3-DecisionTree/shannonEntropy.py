@@ -24,7 +24,7 @@ def calcShannonEnt(dataset):
 
 
 def createDataSet():
-    dataSet = [ [1, 1, 'maybe'],
+    dataSet = [ [1, 1, 'yes'],
                 [1, 1, 'yes'],
                 [1, 0, 'no'],
                 [0, 1, 'no'],
@@ -33,7 +33,3 @@ def createDataSet():
     return dataSet, labels
 
 
-myData, labels = createDataSet()
-print calcShannonEnt(myData)
-
-        
