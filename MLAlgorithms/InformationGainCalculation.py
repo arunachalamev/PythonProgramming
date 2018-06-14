@@ -39,7 +39,7 @@ def information_gain(feature,label):
     x = entropy(label)
     y = len(f0)*1.0/len(feature)*entropy(c0)
     z = len(f1)*1.0/len(feature)*entropy(c1)
-    print x-y-z
+    print (x-y-z)
     
 information_gain(X1,label)
 information_gain(X2,label)
