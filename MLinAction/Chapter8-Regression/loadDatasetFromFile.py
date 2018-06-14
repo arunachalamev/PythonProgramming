@@ -24,7 +24,7 @@ def standRegress(xArr,yArr):
     xMat = mat(xArr); yMat = mat(yArr).T
     xTx = xMat.T*xMat
     if linalg.det(xTx) == 0.0:
-        print "This matrix is singular, cannot do inverse"
+        print ("This matrix is singular, cannot do inverse")
         return
     ws = xTx.I*(xMat.T*yMat)
     return ws

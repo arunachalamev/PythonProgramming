@@ -30,8 +30,8 @@ for i in range(n_bootstraps):
     coefs[i][0]=lr.coef_[0]
     coefs[i][1]=lr.coef_[1]
     coefs[i][2]=lr.coef_[2]
-print "Linear Regression :"
-print coefs
+print ("Linear Regression :")
+print (coefs)
 
     
 r = Ridge()
@@ -51,14 +51,14 @@ for i in range(n_bootstraps):
     coefs_r[i][0]=r.coef_[0]
     coefs_r[i][1]=r.coef_[1]
     coefs_r[i][2]=r.coef_[2]
-print "Ridge Regression :"
-print coefs_r
+print ("Ridge Regression :")
+print (coefs_r)
 
-print "Mean of coeff difference :"
-print np.mean(coefs- coefs_r, axis=0)
+print ("Mean of coeff difference :")
+print (np.mean(coefs- coefs_r, axis=0))
 
-print "Variance of coeff :"
-print np.var(coefs, axis=0)
+print ("Variance of coeff :")
+print (np.var(coefs, axis=0))
 
-print "Variance of coeff_r :"
-print np.var(coefs_r, axis=0)
+print ("Variance of coeff_r :")
+print (np.var(coefs_r, axis=0))

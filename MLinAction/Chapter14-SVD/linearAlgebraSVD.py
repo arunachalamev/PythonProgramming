@@ -8,7 +8,7 @@ Created on Thu Aug 24 20:35:25 2017
 from numpy import linalg
 U,Sigma,VT = linalg.svd([[1,1],[7,7]])
 
-print U,"\n",Sigma,"\n",VT
+print (U,"\n",Sigma,"\n",VT)
 
 
 Data = [[1,1,1,0,0],
@@ -21,7 +21,7 @@ Data = [[1,1,1,0,0],
         
 U,Sigma,VT = linalg.svd(Data)
 #print Data
-print Sigma
+print (Sigma)
 
 Sig3 = mat([[Sigma[0],0,0],
            [0,Sigma[1],0],

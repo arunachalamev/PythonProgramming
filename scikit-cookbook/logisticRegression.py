@@ -28,7 +28,7 @@ print (y_test_predictions == y_test).sum().astype(float) / y_test.shape[0]
 
 #Class imbalance
 X,y = make_classification(n_samples=1000,n_features=4,weights=[0.95])
-print sum(y)/(len(y)*1.)    # Only 5% positive class
+print (sum(y)/(len(y)*1.))   # Only 5% positive class
 
 X_train = X[:-500] 
 X_test = X[-500:]

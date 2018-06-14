@@ -36,4 +36,4 @@ ax = f.add_subplot(111)
 ax.hist(coefs,bins=50)
 ax.set_title("Histogram of the lr.coef_[0].")
 
-print np.percentile(coefs,[2.5,97.5])
+print (np.percentile(coefs,[2.5,97.5]))

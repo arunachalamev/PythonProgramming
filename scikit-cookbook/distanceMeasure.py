@@ -13,24 +13,24 @@ import numpy as np
 A = np.random.uniform(0, 10, 10)
 B = np.random.uniform(0, 10, 10)
 
-print A
-print B
+print (A)
+print (B)
 
 # Perform distance measurements 
-print '\nEuclidean distance is', dist.euclidean(A, B)
-print 'Manhattan distance is', dist.cityblock(A, B)
-print 'Chebyshev distance is', dist.chebyshev(A, B)
-print 'Canberra distance is', dist.canberra(A, B)
-print 'Cosine distance is', dist.cosine(A, B)
+print ('\nEuclidean distance is', dist.euclidean(A, B))
+print ('Manhattan distance is', dist.cityblock(A, B))
+print ('Chebyshev distance is', dist.chebyshev(A, B))
+print ('Canberra distance is', dist.canberra(A, B))
+print ('Cosine distance is', dist.cosine(A, B))
 
 # Prepare 2 vectors of 100 dimensions
 AA = np.random.uniform(0, 10, 100)
 BB = np.random.uniform(0, 10, 100)
 
 # Perform distance measurements
-print '\nEuclidean distance is', dist.euclidean(AA, BB)
-print 'Manhattan distance is', dist.cityblock(AA, BB)
-print 'Chebyshev distance is', dist.chebyshev(AA, BB)
-print 'Canberra distance is', dist.canberra(AA, BB)
-print 'Cosine distance is', dist.cosine(AA, BB)
+print ('\nEuclidean distance is', dist.euclidean(AA, BB))
+print ('Manhattan distance is', dist.cityblock(AA, BB))
+print ('Chebyshev distance is', dist.chebyshev(AA, BB))
+print ('Canberra distance is', dist.canberra(AA, BB))
+print ('Cosine distance is', dist.cosine(AA, BB))
 

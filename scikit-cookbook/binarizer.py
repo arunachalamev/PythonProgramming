@@ -17,14 +17,14 @@ boston = datasets.load_boston()
 #preprocessing.Binarizer
 
 new_target = preprocessing.binarize(boston.target, threshold= boston.target.mean())
-print "New Target after Binarization :"
-print new_target[:5]
-print "To Verify :"
-print (boston.target[:5]>boston.target.mean()).astype(int)
+print ("New Target after Binarization :")
+print (new_target[:5])
+print ("To Verify :")
+print ((boston.target[:5]>boston.target.mean()).astype(int))
 
 bin = preprocessing.Binarizer(boston.target.mean())
 new_target = bin.fit_transform(boston.target)
-print new_target[:5]
+print (new_target[:5])
 
 
 #-----------------------------------------------
@@ -45,7 +45,7 @@ d = np.column_stack((X,y))
 
 #convert text colum to 3 feature
 text_encoder = preprocessing.OneHotEncoder()
-print text_encoder.fit_transform(d[:,-1:]).toarray()[:5]
+print (text_encoder.fit_transform(d[:,-1:]).toarray()[:5])
 
 #----------------------------------------------------
 # DictVectorizer
@@ -53,8 +53,8 @@ print text_encoder.fit_transform(d[:,-1:]).toarray()[:5]
 from sklearn.feature_extraction import DictVectorizer
 dv = DictVectorizer()
 my_dict = [{'Species':iris.target_names[i]} for i in y]
-print "Print dic vectorizer :"
-print dv.fit_transform(my_dict).toarray()[:5]
+print ("dic vectorizer :")
+print (dv.fit_transform(my_dict).toarray()[:5])
 
 
 
@@ -65,11 +65,11 @@ from sklearn.preprocessing import LabelBinarizer
 label_binarizer = LabelBinarizer()
 
 new_target = label_binarizer.fit_transform(y)
-print "Label Binarizer shape :"
-print new_target.shape
-print new_target[:5]
-print new_target[-5:]
-print label_binarizer.classes_
+print ("Label Binarizer shape :")
+print (new_target.shape)
+print (new_target[:5])
+print (new_target[-5:])
+print (label_binarizer.classes_)
 
 
 label_binarizer.transform([3])

@@ -15,11 +15,11 @@ lr.fit(boston.data,boston.target)
 
 predictions = lr.predict(boston.data)
 
-print "Printing Coefficient :"
-print lr.coef_
+print ("Printing Coefficient :")
+print (lr.coef_)
 
-print "Coefficient along with feature Name :"
-print zip(boston.feature_names,lr.coef_)
+print ("Coefficient along with feature Name :")
+print (zip(boston.feature_names,lr.coef_))
 
 
 #Fitting by normalizing the data
@@ -27,8 +27,8 @@ lr2 = LinearRegression(normalize= True)
 lr2.fit(boston.data,boston.target)
 preiction2 = lr2.predict(boston.data)
 
-print "Coefficient along with feature Name :"
-print zip(boston.feature_names,lr2.coef_)
+print ("Coefficient along with feature Name :")
+print (zip(boston.feature_names,lr2.coef_))
 
 
 #Plotting the residuals
@@ -39,8 +39,8 @@ ax = f.add_subplot(111)
 ax.hist(boston.target-predictions,bins=50)
 ax.set_title("Histogram of Residuals")
 
-print "Mean of residuals :"
-print np.mean(boston.target-predictions)
+print ("Mean of residuals :")
+print (np.mean(boston.target-predictions))
 
 
 #plotting q-q plot
@@ -60,9 +60,9 @@ def MAD(target,predictions):
     absolute_deviation = np.abs(target-predictions)
     return np.mean(absolute_deviation)
     
-print "Mean squared Error :"    
-print MSE(boston.target,predictions)
+print ("Mean squared Error :")
+print (MSE(boston.target,predictions))
 
-print "Mean Absolute Error :"    
-print MAD(boston.target,predictions)
+print ("Mean Absolute Error :")
+print (MAD(boston.target,predictions))
 

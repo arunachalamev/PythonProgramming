@@ -48,4 +48,4 @@ dataSet = [ [0, 1, 'yes'],
 
 #splitDataset(dataSet,1,6)
 
-print chooseBestFeatureToSplit(dataSet)
+print (chooseBestFeatureToSplit(dataSet))

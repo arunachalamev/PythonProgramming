@@ -26,8 +26,8 @@ lr_preds = lr.predict(X)
 gbr_residuals = y - gbr_preds
 lr_residuals = y - lr_preds
 
-print np.percentile(gbr_residuals,[2.5,97.5])
-print np.percentile(lr_residuals,[2.5,97.5])
+print (np.percentile(gbr_residuals,[2.5,97.5]))
+print (np.percentile(lr_residuals,[2.5,97.5]))
 
 import matplotlib.pyplot as plt
 f = plt.figure(figsize=(7,5))
@@ -41,7 +41,7 @@ gbrs = [GBR(n_estimators=i) for i in n_estimators ]
 rediduals = {} # dictionary
 for i, gbr in enumerate(gbrs):
     gbr.fit(X,y)
-    print gbr.n_estimators
+    print (gbr.n_estimators)
     #assigning key with value
     rediduals[gbr.n_estimators] = y - gbr.predict(X)
 

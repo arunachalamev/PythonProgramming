@@ -11,14 +11,14 @@ reg_data, reg_target = make_regression(n_samples=100,n_features=2,effective_rank
 
 from sklearn.linear_model import RidgeCV
 rcv = RidgeCV(alphas=np.array([0.1,0.2,0.3,0.4]))
-#print rcv
+#print (rcv
 rcv.fit(reg_data,reg_target)
-print rcv.alpha_
+print (rcv.alpha_)
 
 rcv2 = RidgeCV(alphas=np.array([0.08,0.09,0.1,0.11,0.12]))
-#print rcv2
+#print (rcv2
 rcv2.fit(reg_data,reg_target)
-print rcv2.alpha_
+print (rcv2.alpha_)
 
 
 alphas_to_test = np.linspace(0.01,1)
@@ -26,12 +26,12 @@ rcv3 = RidgeCV(alphas = alphas_to_test,store_cv_values= True)
 rcv3.fit(reg_data,reg_target)
 
 
-print rcv3.cv_values_.shape
+print (rcv3.cv_values_.shape)
 
 
 smallest_idx = rcv3.cv_values_.mean(axis=0).argmin()
-print alphas_to_test[smallest_idx]
-print rcv3.alpha_
+print (alphas_to_test[smallest_idx])
+print (rcv3.alpha_)
 
 #with different scorer
 
@@ -45,4 +45,4 @@ rcv4 = RidgeCV(alphas=alphas_to_test,store_cv_values=True,scoring=MAD)
 rcv4.fit(reg_data,reg_target)
 
 smallest_idx = rcv4.cv_values_.mean(axis=0).argmin()
-print alphas_to_test[smallest_idx]
+print (alphas_to_test[smallest_idx])
