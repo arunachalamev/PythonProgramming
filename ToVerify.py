@@ -5,7 +5,6 @@ Created on Wed Jul 19 16:31:29 2017
 @author: arellave
 """
 
-#%%
 
 Denomination = [1,2]
 Value = 1
@@ -51,4 +50,3 @@ def MinCoinChange(amount):
 if __name__ == "__main__": main()
 
 
-#%%
