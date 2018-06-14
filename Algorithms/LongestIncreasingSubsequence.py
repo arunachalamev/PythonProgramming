@@ -16,14 +16,14 @@ def LongestIncreasingSubsequence(A):
         maximum = 0
         ans = 0
         for j in range(0,i):
-#            print "i=",i,"j=",j,"LIS[",j,"]=",LIS[j]
+#            print ("i=",i,"j=",j,"LIS[",j,"]=",LIS[j]
             maximum = max(maximum,LIS[j])
             if (A[i]>A[j]):
                 ans = maximum + 1
             else:
                 ans =LIS[i-1] 
         LIS.append(ans)
-    print LIS
+    print (LIS)
     
 
 A=[1,2,1,4,0,6]

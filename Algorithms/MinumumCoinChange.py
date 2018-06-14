@@ -32,4 +32,4 @@ def min_change(V, C):
     
     
 if __name__ == "__main__":
-    print min_change([1,2,3],10)    
+    print (min_change([1,2,3],10))

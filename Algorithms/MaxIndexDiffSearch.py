@@ -21,8 +21,8 @@ def main():
     for j in range(len(A)-2,-1,-1):
         Max[j] = max(A[j],Max[j+1])
 
-    print Min
-    print Max
+    print (Min)
+    print (Max)
     i,j,Diff=0,0,-1
 #    print i,j
     while (i<len(A) and j <len(A)):
@@ -33,7 +33,7 @@ def main():
         else:
             i = i+1
             
-    print Diff
+    print (Diff)
 
 if __name__ == "__main__": main()
 

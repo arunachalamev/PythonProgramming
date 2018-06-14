@@ -41,17 +41,17 @@ def median_of_medians(A,i):
 # Assumption: Input array needs to be unique
 A = [1,2,3,4,5,1000,8,9]
 
-print A
+print (A)
 #To print smallest element
 for i in range (0,len(A)):
-    print median_of_medians(A,i)    
-    print  "<<<---- ", i ," th smallest element "
+    print (median_of_medians(A,i))    
+    print  ("<<<---- ", i ," th smallest element ")
     
 #To Print largest element
 for i in range (0,len(A)):
     x = len(A) - i -1
-    print median_of_medians(A,x)    
-    print  "<<<---- ", i ," th largest element "
+    print (median_of_medians(A,x))    
+    print  ("<<<---- ", i ," th largest element ")
 
         
 #%%

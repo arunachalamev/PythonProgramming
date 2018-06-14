@@ -11,10 +11,10 @@ def gcd(a,b):
         b= a
         a = temp
     
-    print a, b
+    print (a, b)
     while (b!=0):
         a, b = b, a%b
-    print "GCD:", a
+    print ("GCD:", a)
     
 gcd(4,12)
 gcd(4,4)

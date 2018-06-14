@@ -13,7 +13,7 @@ def main():
     Second = range(5,10)
 #    print A,B
 #    print "Start of Main:"
-    print median(First,Second)
+    print (median(First,Second))
 #    print "End of Main"    
     
 def median(A,B):
@@ -29,7 +29,7 @@ def median(A,B):
     m2 = B[SecondArrayMid]
 #    print FirstArrayMid, SecondArrayMid
     if m1 == m2:
-        print m1
+        print (m1)
         return m1
         
     if m1 > m2:

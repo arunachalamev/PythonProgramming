@@ -7,7 +7,7 @@ Created on Thu Jul 20 20:04:01 2017
 #%%
 def main():
     k,n = 2,10
-    print exponential(k,n)
+    print (exponential(k,n))
     
 def exponential(k,n):
     if (n==0): 

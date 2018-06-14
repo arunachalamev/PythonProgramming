@@ -25,6 +25,6 @@ def LCM(a,b):
         temp = b/GCD(a,b)
         return a*temp
     
-print LCM(10,20)
-print LCM(10,10)
-print LCM(3,4)
+print (LCM(10,20))
+print (LCM(10,10))
+print (LCM(3,4))

@@ -14,7 +14,7 @@ def main():
     for i in range (1, len(A)):
         if Max < A[i]:
             Max = A[i]
-    print Max 
+    print (Max) 
 
 
     FirstMax = max(A[0],A[1])
@@ -27,6 +27,6 @@ def main():
         elif A[i] > SecondMax:
             SecondMax = A[i]
     
-    print FirstMax, SecondMax
+    print (FirstMax, SecondMax)
 
 if __name__ == "__main__": main()

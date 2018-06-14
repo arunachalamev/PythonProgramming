@@ -15,7 +15,7 @@ lenSS = len(SS)
 
 LCS = [[0 for j in range(lenSS+1)] for i in range(lenFS+1)]
 
-print LCS
+print (LCS)
 
 for i in range(lenFS-1,-1,-1):
     for j in range(lenSS-1,-1,-1):
@@ -25,8 +25,8 @@ for i in range(lenFS-1,-1,-1):
         else:
             LCS[i][j] = max(LCS[i][j],LCS[i+1][j],LCS[i][j+1])
 
-print LCS
-print LCS[0][0]
+print (LCS)
+print (LCS[0][0])
                 
 
 #%%

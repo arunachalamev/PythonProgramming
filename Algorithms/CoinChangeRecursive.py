@@ -23,7 +23,7 @@ def MakingChange(n):
         
     ans = -1
     for i in range(length):
-        print "i,n, n- D[i], MakingChange(n-D[i]): ->",i, n, n-Denomination[i], MakingChange(n-Denomination[i])
+        print ("i,n, n- D[i], MakingChange(n-D[i]): ->",i, n, n-Denomination[i], MakingChange(n-Denomination[i]))
         ans = min (ans,MakingChange(n-Denomination[i]) )
     
     Table[n] = ans +1

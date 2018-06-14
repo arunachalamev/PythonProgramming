@@ -21,7 +21,7 @@ def MaxContSum(A):
    
 
 A = [1,0,-3,5,-6,-7]
-print "Maximum Contiguous sum in and array = " ,MaxContSum(A)
+print ("Maximum Contiguous sum in and array = " ,MaxContSum(A))
 
 
     

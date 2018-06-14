@@ -14,14 +14,14 @@ def main():
     
     while (first <= last):
         if (first == last):
-            print A[first],first
+            print (A[first],first)
             return
         if (first == last -1):
-            print "Only two elements"
-            print first, last -1
+            print ("Only two elements")
+            print (first, last -1)
         mid = first + (last - first)/2
         if (A[mid]>A[mid+1] and A[mid-1] < A[mid]):
-            print mid, A[mid]
+            print (mid, A[mid])
             return
         if (A[mid-1] < A[mid] and A[mid] < A[mid+1])
         

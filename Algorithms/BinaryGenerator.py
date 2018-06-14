@@ -12,7 +12,7 @@ B = [-1]*n
 def Binary(n):
     global B
     if (n<=0):
-        print B
+        print (B)
         return
     B[n-1]=0
     Binary(n-1)
