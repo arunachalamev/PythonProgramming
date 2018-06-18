@@ -1,0 +1,8 @@
+Generated in Excel
+
+feature_a
+=NORM.INV(RAND(), 0.15,10)
+feature_b
+=NORM.INV(RAND(), 0.35,10)
+label
+=IF(A405+B405-0.5>NORM.INV(RAND(), 0,2),1,0)
