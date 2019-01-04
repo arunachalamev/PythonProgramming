@@ -1,0 +1,2600 @@
+2017/03/01	Discover 2017 data driven content marketing innovations
+2017/03/01	Process Blog #6 — Visualization
+2017/03/01	The Process
+2017/03/02	A candid conversation about data science with Allen Downey
+2017/03/02	The 3 Things About Data You Probably Don’t Know, But Need To
+2017/03/02	Data Manipulation with N-Queens
+2017/03/02	Exploratory analysis and regression model helping fight Zika
+2017/03/03	Vehicle Detection and Distance Estimation
+2017/03/03	Tackling the Quora Questions dataset
+2017/03/03	Udacity Self-Driving Car Nanodegree Project 4 — Advanced Lane-Finding
+2017/03/03	Becoming Data Driven Level 2: Using Data to Avoid Shitty Decisions
+2017/03/03	Efficiency vs. Clarity
+2017/03/03	Seeing the Road — Getting Started with Self-Driving Cars
+2017/03/03	The Next Big Wave
+2017/03/03	Jokowi’s Cabinet Reshuffle Buzz
+2017/03/03	Background
+2017/03/04	Linear algebra cheat sheet for deep learning
+2017/03/04	We used data science to explore Ed Sheeran’s songs, here’s what we found
+2017/03/04	Kalman filter: Intuition and discrete case derivation
+2017/03/04	Introduction
+2017/03/04	The News of Our Times
+2017/03/04	Introduction
+2017/03/04	A Machine Learning Story: How do We Recognize
+2017/03/05	Exploratory Data Analysis (JHU Coursera, Course 4)
+2017/03/05	Submitting your article — checklist
+2017/03/05	Seeds, satellites and sensors — how technology is planting this year’s crop
+2017/03/05	Recommending Books from Project Gutenberg
+2017/03/05	AlphaGo Research Review
+2017/03/05	Preparing For The End Of Moore’s Law
+2017/03/05	Top advice for a Data Scientists
+2017/03/05	Data Science: The Poet and the Bureaucrat
+2017/03/06	Simple Machine Learning Model in Python in 5 lines of code
+2017/03/06	Visualization
+2017/03/06	What?
+2017/03/07	Can neural networks solve any problem?
+2017/03/07	Predicting video game hits with Machine Learning
+2017/03/07	Speech Recognition: a Lazy Dog Primer
+2017/03/07	A Layman’s Guide to Computer Vision
+2017/03/07	Data Science Competition Platform — Kaggle vs Tianchi
+2017/03/07	Implementing Analytics: Scaling Up!
+2017/03/07	Can Machine Learning Answer the Question “Where Did We Come From?”
+2017/03/07	The Data Game: Building Analytics Capability in International Education
+2017/03/08	SPRITE Case Study #2: The Case of the Polarizing Porterhouse (And Some Updates)
+2017/03/08	Biometric Authentication using typing pattern
+2017/03/08	How To Transition From Adobe Analytics To Google Analytics 360
+2017/03/08	The Century of Movies
+2017/03/08	Predicting Future Pesticide Sample Results to Promote Intelligent Pesticide Use
+2017/03/08	Teaching Data Science at General Assembly: Week 5
+2017/03/08	The Humanity In Artificial Intelligence
+2017/03/08	Tools of the Trade
+2017/03/09	Composing Deep-Learning Microservices for the Hybrid Internet of Things
+2017/03/09	How to have your work featured as one of our top picks?
+2017/03/09	It’s me, not you: Measuring and Mapping the Emotional Content of Text.
+2017/03/09	Book review: “Clojure for machine learning”
+2017/03/09	Is the future human or robot?
+2017/03/09	Comparing the performance of models
+2017/03/10	Adding Uncertainty to Deep Learning
+2017/03/10	Write the code:
+2017/03/10	Data Visualization for Extinct and Endangered Language
+2017/03/10	Political Gap on Abortion
+2017/03/10	Visualizing Translation Quality Data
+2017/03/10	There is no knowledge that is not power
+2017/03/10	HCDE 210 Sprint 4 — Visualization
+2017/03/10	Promise and Pitfalls of Data, or Not all Data is Created the Same.
+2017/03/11	Feature Engineering: Bayesian Methods for Binning
+2017/03/11	From “what is numpy? 🤔” to “I love numpy!💪🏼”
+2017/03/11	Becoming a Machine Learning Geek
+2017/03/11	Data Visualization Design and the Eye Candy Imperative
+2017/03/11	Open Data Day Seattle 2017
+2017/03/11	Weekly Selection
+2017/03/12	The Udacity Self Driving Car Nanodegree — Term 1
+2017/03/12	Digit recognition
+2017/03/12	Introduction
+2017/03/12	eCommerce: How to use statistics to increase sales?
+2017/03/12	DC Bikeshare: Where do they all go?
+2017/03/13	Tensorflow for absolute beginners
+2017/03/13	Introduction to Q-Learning
+2017/03/13	Why I’m getting a (nano)degree in Deep Learning
+2017/03/13	AI and the Operating System
+2017/03/13	How learning about Neural Nets gave me an existential crisis
+2017/03/13	And the Oscar Goes to…Data Analytics?
+2017/03/13	Tests of Normality
+2017/03/13	How Does Seeding Correlate To Success in March Madness?
+2017/03/13	Test Set Usage
+2017/03/14	Big Data Analytics and Retail — What Does the Future Have in Store?
+2017/03/14	Analytics in a Nutshell: An Introductory Look at Setting Up Google Analytics for CRO
+2017/03/14	How an AI would solve the “Mary’s Room” thought experiment
+2017/03/15	The Blockchain and AI
+2017/03/15	The Data-rich Are Getting Richer — The Current State of Artificial Intelligence (Part 1)
+2017/03/15	Is there Intelligence in the Nordics? — The Current State of Artificial Intelligence (Part 2)
+2017/03/15	Data, Data Everywhere and Lots of Drops to Drink (with apologies to Samuel Taylor Coleridge)
+2017/03/15	Patterns within Patterns
+2017/03/15	Why I think AI can take over humans.
+2017/03/16	Predictive Employee Turnover Analytics Part I
+2017/03/16	Finding patterns in deaths in Game of Thrones using Machine Learning
+2017/03/16	House Prices and Regressions
+2017/03/16	Small Business, Big Data, and the Myth of Self-Service Analytics
+2017/03/16	My Upwork Secretary in Python
+2017/03/16	Why SoundHound, our Portfolio company was named One of 2017’s Most Innovative Companies
+2017/03/16	Using humanity and big data to solve problems
+2017/03/16	Data scientists: seeking their place within the organisational chart
+2017/03/16	#FunWithData — Episode 1: I like Data Science, but where to start?
+2017/03/17	LSTM by Example using Tensorflow
+2017/03/17	Why Overlapping Confidence Intervals mean Nothing about Statistical Significance
+2017/03/17	A short introduction to NLP in Python with spaCy
+2017/03/17	Web Scraping the List of Greatest Video Games from Wikipedia
+2017/03/17	Business Transformation: How Big Data Analytics Helps
+2017/03/17	What Data Science Mostly Ignores
+2017/03/17	Machines Eradicating Cancer
+2017/03/18	persistent data for docker and the cloud
+2017/03/18	Avoid presenting product test results with false precision
+2017/03/18	Weekly Selection
+2017/03/19	Document feature extraction and classification
+2017/03/19	BLOCKCHAIN VS. ARTIFICIAL INTELLIGENCE
+2017/03/19	Automatic Vehicle Detection for Self Driving Cars
+2017/03/19	Automatic Lane Detection for Self Driving Cars
+2017/03/19	Data and Mental Health: The OSMI Survey 2016
+2017/03/19	The Nirvana Fallacy and Why Probability Beats Certainty
+2017/03/20	Solve Slide Puzzle with Hill Climbing Search Algorithm
+2017/03/20	Real Time Analytics using Python and SAS Event Stream Processing
+2017/03/20	Depth First Search In Undirected Graphs
+2017/03/20	SAT Data — 2001
+2017/03/20	Moving On …
+2017/03/20	Fight AI with AI: The Data Warfare
+2017/03/20	Here’s why I just invested in PiwikPRO, the privacy-compliant analytics solution
+2017/03/20	Markets Dynamics FRANCE Vs USA
+2017/03/20	Are we taking care of our pregnant women?
+2017/03/21	Create a Heat Map from your Google Location History in 3 easy Steps
+2017/03/21	Python Exploratory Data Analysis Tutorial
+2017/03/21	AI 101, Part I: What You Need to Know about Predictive Models
+2017/03/21	Becoming a Better Data Scientist
+2017/03/21	Intelligent Logistics
+2017/03/21	European AI Startups Landscape
+2017/03/21	4 Essential Characteristics of Modern Business intelligence dashboards
+2017/03/21	Diet Economy
+2017/03/21	Introspection Engine: Snowden’s Mobile Security Solution
+2017/03/21	Prospective Forensic Data Science — Is it possible to predict a crime and prevent it?
+2017/03/21	Ethical AI Index
+2017/03/21	AI And Its Impact On Humanity
+2017/03/21	Why do we fear the AI?
+2017/03/22	Facial Recognition Using Deep Learning
+2017/03/22	A Beginner’s Guide to Neural Networks: Part One
+2017/03/22	In Defense of Simplicity, A Data Visualization Journey
+2017/03/22	Cloud computer vision
+2017/03/22	My Name is Inigo Montoya. A Case for Empathizing with Speech Recognition Apps.
+2017/03/22	How to Take on the Megabanks with Predictive Analytics and AI
+2017/03/22	Manifesto: Time for Humanness Learning
+2017/03/22	Glowworms, Hot Hand, and Other (Alleged) Fallacies in Data-Interpretation.
+2017/03/23	Neural Network Architectures
+2017/03/23	HowTo profile TensorFlow:
+2017/03/23	Hardware for Deep Learning
+2017/03/23	I like Deep Learning …
+2017/03/23	Linear Time vs. Logarithmic Time — Big O Notation
+2017/03/23	Thoughts on artificial intelligence, just for fun.
+2017/03/23	Thoughts on Data, Science, and Epistemology
+2017/03/24	The Mathematics of Machine Learning
+2017/03/24	The Dummy’s Guide to Creating Dummy Variables
+2017/03/24	Understanding “Enough”
+2017/03/24	Expert View: ‘The Way A User Interacts With VR Allows For Extremely Pervasive Information Collection
+2017/03/24	Thank you Medium for monetising and thriving
+2017/03/25	How to ask questions data science can solve.
+2017/03/25	Exploratory Data Analysis: Visualizing Police Killings in the U.S for the year 2015.
+2017/03/25	Morning, Afternoon, or Night? Clustering hours of the week using a data driven approach.
+2017/03/25	Social technology takes the blame for the failures of clergy, executives, and politicians
+2017/03/25	Measuring “Response Complexity” of a Machine Learning Problem
+2017/03/25	Weekly Selection
+2017/03/25	#0014: Holidaying kangaroos
+2017/03/26	Road Lane Lines Detection using Advanced Computer Vision Techniques
+2017/03/26	Data Scientists: What Do They Know? Do They Know Things?? Let’s Find Out!
+2017/03/26	Becoming Data Driven Level 3: Using Data to Make Awesome Decisions
+2017/03/26	Intuition of Kalman Filter for Self-Driving-Car Applications
+2017/03/27	A Beginner’s Guide to Neural Networks: Part Two
+2017/03/27	Course 1 — Algorithmic toolbox — Part 1: Introduction
+2017/03/27	How to Remake Historical Data Visualization and Why You Should
+2017/03/27	Make sense of Kalman Filter
+2017/03/27	The Data Scientist’s Tools
+2017/03/27	Construction of data processing systems, databases, visualization tools…
+2017/03/27	Noise is Not an Enemy of Data. Noise IS Data.
+2017/03/27	Data- and Experiment-Driven Policy Development
+2017/03/28	Vehicle Detection with HOG and Linear SVM
+2017/03/28	Is LDA a dimensionality reduction technique or a classifier algorithm?
+2017/03/28	Introduction
+2017/03/28	AI generational clash
+2017/03/29	Personality for Your Chatbot with Recurrent Neural Networks
+2017/03/29	From Graduate to Data Science: How to get a job that doesn’t yet exist
+2017/03/29	State of the Smart Home 2017
+2017/03/29	Designing Sound for Empathy
+2017/03/30	GAN by Example using Keras on Tensorflow Backend
+2017/03/30	Machine learning, meet the ocean
+2017/03/30	Messing with German Tanks, or the Fundamental Intuition of Statistics (and Data Inference Problems in General)
+2017/03/30	Who needs Big Data anyway?
+2017/03/30	Why artificial intelligence may supersede all other technologies.
+2017/03/30	…what is data…
+2017/03/31	Markov Chains— A take on Life
+2017/03/31	4.1 Artificial Intelligent Algorithms
+2017/03/31	From Memes to Machines: Transferring Ourselves to our AI Pets
+2017/03/31	A Look into alcohol consumption
+2017/03/31	Providing Insight into Growth Possibilities and Potential Risks
+2017/04/01	How DBSCAN works and why should we use it?
+2017/04/01	Course 1 — Algorithmic toolbox — Part 2: Big-O and Greedy
+2017/04/01	BIG DATA — ANALYTICS (abstract / study)
+2017/04/01	What Can You Learn From Burlington Police Data
+2017/04/01	April Edition: Towards Deep Learning
+2017/04/01	How Twitter responded an hour after the Westminster attack
+2017/04/01	Drink preferences around the world
+2017/04/02	Multi-label image classification with Inception net
+2017/04/02	My nephew vs ML
+2017/04/02	The Paradox Of The Elusive Market Edge
+2017/04/02	Predictive Modeling with Iowa State Liquor Sales Data
+2017/04/02	Introduction to Numpy for Data Analysis
+2017/04/02	Data job salary via H-1B info
+2017/04/02	Subterfuge: Who’s the best?
+2017/04/02	Fair Warning: Islands of women, property, and budgets
+2017/04/03	A study of Classification Problems using Logistic Regression and an insight to the admissions problem
+2017/04/03	Abstract:
+2017/04/03	Parameter Inference — Maximum Likelihood
+2017/04/03	Things you need to know about becoming a Data Scientist
+2017/04/03	Backward Propagation for Feed Forward Networks
+2017/04/03	A MapReduce overview
+2017/04/03	K nearest neighbors, it’s purpose and how to use it
+2017/04/03	A Modification of Drew Conway’s Data Science Venn Diagram
+2017/04/03	Tagging Documents Based on Important Words
+2017/04/03	AgTech 2.0 — Rise of the machines
+2017/04/03	The Music of Data Science
+2017/04/03	Machine Learning for the programmatically handicapped
+2017/04/03	The Next Frontier — From Recognition to Understanding
+2017/04/03	The Data Science Process
+2017/04/04	Practical Reinforcement Learning — 02 Getting started with Q-learning
+2017/04/04	Vision Needed
+2017/04/04	The Quantamental Investing Buzz
+2017/04/04	Single-layer Perceptron in Pharo
+2017/04/04	Top 5 IT trends ruling Dubai’s technology industry in 2017
+2017/04/04	Linear Regression Sucks.
+2017/04/04	Sales crystal ball — An AI driven B2B sales platform
+2017/04/04	A primer on visual overview of data frame
+2017/04/04	The Danger of Looking at Problems Through a Single Lens
+2017/04/04	Hamilton and Silicon Valley
+2017/04/05	Understand these 5 basic concepts to sound like a machine learning expert
+2017/04/05	Record linking with Apache Spark’s MLlib & GraphX
+2017/04/05	Activation Functions
+2017/04/05	What are activation functions ?
+2017/04/05	Check your assumptions about your data
+2017/04/05	The Fallacy of Forecasting in a Complex World
+2017/04/05	Fascinating Tales of a Strange Tomorrow
+2017/04/05	AI: Science vs. Fiction
+2017/04/05	Explore Machine Learning Models Without Writing Code or Installing Packages
+2017/04/05	Imagenet and why it’s exciting
+2017/04/05	ISPs Can Now Sell Your Browser History: Here’s Why You Shouldn’t Panic
+2017/04/05	My Silica Sand Data Adventure
+2017/04/05	Utility Bills & IT: Why It’s Time for an Unlikely Match to Come Together
+2017/04/06	Parameter Inference — Maximum Aposteriori
+2017/04/06	The AI Winter is Over. Here’s Why.
+2017/04/06	My Quick-Start Docker Image for Data Science
+2017/04/06	AI OK? WTF! LOL
+2017/04/07	Python Environment Management with Conda (Python 2 + 3, Using Multiple Versions of Python)
+2017/04/07	Using Deep Learning to Clone Driving Behavior
+2017/04/07	Notes On Anomaly Detection #1: The Dumbest Crime
+2017/04/07	Vehicle Recognition in External Environments through Image Processing
+2017/04/07	PyData London Meetup April 2017 Review, by a beginner.
+2017/04/07	Patterns and Anti-Patterns
+2017/04/07	We are building a formidable system for measuring science… but what about innovation?
+2017/04/07	Artificial Intelligence: your key to success :)
+2017/04/07	Ideology Vs Reality? Insights from the Remarks by president Trump after meeting the King of Jordan
+2017/04/08	Beginning my journey in Self Driving Car (Udacity -Nano Degree)
+2017/04/08	5 ways to fail at machine learning
+2017/04/08	All of Statistics, Science, and Epistemology in 8 minutes.
+2017/04/08	Weekly Selection
+2017/04/09	Notes On Anomaly Detection #2: Full Fat or Low-Calorie Fraud?
+2017/04/09	Data fabrication is dumb.
+2017/04/09	Using Tableau to Visualize the List of Greatest Video Games from Wikipedia
+2017/04/09	Introduction to Machine Learning
+2017/04/09	Data Science for the LGBTQIA+ community?
+2017/04/10	Neural Network Plays Flappy Bird
+2017/04/10	The Simplest Introduction to Neural Networks
+2017/04/10	Kaggle Competition: Intel & MobileODT Cervical Cancer Screening
+2017/04/10	The Nordic.AI Festival — what you missed
+2017/04/10	What’s the most important factor in buying?
+2017/04/10	Seismic activities around the world
+2017/04/10	Understanding Press Briefing through the Lens of TEXT Analytics: President Trump’s Meetings with President Xi of China
+2017/04/11	Artificial Intelligence — Demystified
+2017/04/11	Computational Thinking with Reddit at the Wolfram Summer School
+2017/04/11	A candid conversation about machine learning with Madison May
+2017/04/11	Don’t be a Data Science Wannabe
+2017/04/11	COGNITIVE ROBOTICS: LEARNING ENVIRONMENT PERCEPTION
+2017/04/11	In Pursuit of Happiness (Part I)
+2017/04/11	JYOTI MISHRA BRINGS POCKETCONFIDANT TO THE NATIONAL FINAL OF IMAGINE CUP
+2017/04/11	Alternative “Facts” vs. Alternative “Inferences”
+2017/04/12	Course 1 — Algorithmic toolbox — Part 3: Divide and Conquer
+2017/04/12	Before Artificial Intelligence takes over our jobs, it will organize our work.
+2017/04/12	All Models are Wrong: Week 3 Data Science Immersive
+2017/04/12	Searching for Energy in a Random Forest
+2017/04/13	Transfer learning using pytorch — Part 1
+2017/04/13	Tracking pedestrians for self driving cars
+2017/04/13	The Periodic Table of Data Science
+2017/04/13	Cherry Tree and Global Warming: to bloom or not to bloom?
+2017/04/13	A call to connect the dots in analytics @ MeasureCamp
+2017/04/14	An introduction to the MXNet API — part 4
+2017/04/14	Feed Forward Networks: Hierarchical Language Model
+2017/04/14	My First Battle with Web Scraping
+2017/04/14	Will Artificial Intelligence Remove Designers from the Design Process?
+2017/04/14	Amp up Salesforce with Artificial Intelligence and Machine Learning
+2017/04/14	More about The Gradient
+2017/04/14	Will Humans Ever Allow Artificial Intelligence to be Truly Useful as the Designer?
+2017/04/14	Identification of Type 2 Diabetes Subgroups through Topological Data Analysis of Patient Similarity
+2017/04/14	#socialMediaOuch!
+2017/04/14	The Shape of the Genome: going beyond the double helix with Topological Data Analysis
+2017/04/14	Understanding the disease cycle: groundbreaking research from Stanford using TDA
+2017/04/14	Moving Forward, Looking Backward
+2017/04/14	Why the United incident will not happen in the economy of the future
+2017/04/14	Overadaptation and Mass Extinctions
+2017/04/15	CityClass project
+2017/04/15	The power of simulation: birthday paradox
+2017/04/15	Fact/Factoid; Data/Data-Driven? When Media conjure but forget to burst the science bubbles
+2017/04/15	Spiking Interpersonal Motives in this Weekly address by President Trump!
+2017/04/16	Course 1 — Algorithmic toolbox — Part 4: Dynamic programming
+2017/04/16	My 3 Month Deep Learning Career Pivot
+2017/04/16	Seeing the random forest from the decision trees: An explanation of Random Forest
+2017/04/16	Keep it Simple!! — How to simplify understanding of algorithms like Gradient Descent
+2017/04/16	Diving into the world of self-driving cars
+2017/04/16	The PAC Framework: How Non-Technical Executives Should Think About Artificial Intelligence
+2017/04/16	No, you can’t get from Narrow AI to AGI
+2017/04/16	Visualization of 10 Years Twitter Data (Part 1 — Datasets)
+2017/04/16	Weekly Selection
+2017/04/17	A One-Stop Shop for Principal Component Analysis
+2017/04/17	Predicting house value using regression analysis
+2017/04/17	INTRODUCTION
+2017/04/17	Playing with Prophet on Bike Sharing Demand in Washington, D.C.
+2017/04/17	Natural Language Processing with Python
+2017/04/17	Part 1 of Riot API: Data Downpour
+2017/04/17	Forecasting gas and electricity utilization using Facebook prophet
+2017/04/17	Visualization of 10 Years Twitter Data (Part 2 — Design)
+2017/04/17	There’s no single version of the truth
+2017/04/17	Why I Forfeited My Masters Program for General Assembly
+2017/04/17	Zines vs. Google Vision API — Part 1: Process
+2017/04/17	What happens when a machine tells your HR manager who to hire?
+2017/04/18	A Quick Introduction to the “Pandas” Python Library
+2017/04/18	Some Background
+2017/04/18	Building an AI Chat bot!
+2017/04/18	TensorFlow or TensorNo?
+2017/04/18	How to optimize online purchases with Python
+2017/04/18	Artificial intelligence use cases/application areas in offline/digital marketing
+2017/04/18	Getting data science to work
+2017/04/18	Paper Summary — Opinion Mining with Deep Recurrent Neural Networks
+2017/04/18	How Text Summarization Could Change the Way we Educate
+2017/04/18	Artificial Intelligence Aids Medical Researchers in Uncovering Genetic Signature for Severe Asthma
+2017/04/18	Choosing the Best Model …For Life
+2017/04/18	Torture and Interrogation as an Information Problem
+2017/04/19	Transfer Learning using PyTorch — Part 2
+2017/04/19	Natural Language Processing on multiple columns in python
+2017/04/19	Solving Staff Attrition with Data
+2017/04/19	Plotting a map of London Crime Data using R
+2017/04/19	My Journey into Data Science
+2017/04/19	Artificial Intelligence Newsletters to Subscribe to
+2017/04/19	Data Science Case Study: Classification in IoT
+2017/04/19	Introduction
+2017/04/19	Forecasting software project’s completion date through Monte Carlo Simulation
+2017/04/19	Kaggle Kernels: Predicting Students’ Grades
+2017/04/19	We know they are listening, but what do they hear?
+2017/04/19	What is Quantamental? The Definitive Guide and FAQ
+2017/04/19	A.I is the Genie of the lamp
+2017/04/19	Analysis Gone Wrong
+2017/04/19	Company Data Sci news: It’s almost all Google with a splash of Amazon, IBM, and AT&T
+2017/04/20	Machine Learning: Regression — predict house price (lesson 2)
+2017/04/20	An interview with Peter Voss
+2017/04/20	Adaptive Authentication And Machine Learning
+2017/04/20	Step by Step: How to Cluster-match your Data with Deep Machine Learning
+2017/04/20	Attention and “Explainability” in RNNs
+2017/04/20	Neural Networks = Black Box?
+2017/04/20	Making AI Intelligible via Design
+2017/04/20	ChiPy Data Science Mentorship, pt. 1
+2017/04/20	RESIST THE ROBOTS!
+2017/04/21	Predictive analytics, Blockchain, Big data AI and Machine learning are the technologies shaping the new business world.
+2017/04/21	Simple Metrics for a Successful Data Governance
+2017/04/21	Embarking on a Quest to Learn More Math
+2017/04/21	Own your own learning
+2017/04/21	A Look at Robotics
+2017/04/21	UCSF Scientists use Artificial Intelligence to Uncover Hallmarks of Traumatic Brain Injury
+2017/04/21	Abstraction and Reality in Model Building
+2017/04/21	Found This Week #51
+2017/04/21	Stowers Scientists use Artificial Intelligence to Uncover New Relationships and Organizational Principles in Protein Interaction Networks
+2017/04/22	Probability in a Weighted Coin-flip Game using Python and Numpy
+2017/04/22	The “Right Answer” Bias and the Statistical Problem
+2017/04/22	Thoughts on Autoregressive Processes, Crickets, and Weather Forecasting in the Wolfram Language
+2017/04/22	Data science diversions
+2017/04/23	Build a Deep Learning PC for $1,000 CAD
+2017/04/23	Deep learning gender from name -LSTM Recurrent Neural Networks
+2017/04/23	Course 2 — Data structure — Part 1: The Basic data structures
+2017/04/23	How to Do Linear Regression using Gradient Descent
+2017/04/23	Spam, Hip-Hop, & Natural Language Processing
+2017/04/23	Debating Ethics in the Digital Disruption
+2017/04/24	How to build a simple song recommender system
+2017/04/24	Boost Your Jupyter Notebook Productivity
+2017/04/24	Jupyter (IPython) notebooks features
+2017/04/24	Intro to Pandas for Excel Super Users
+2017/04/24	Scraping the Internet’s Most Popular Websites
+2017/04/24	My experience participating in Kaggle Data Science Bowl 2017 (Lung Cancer Detection)
+2017/04/24	Clustering: Why to Use it
+2017/04/24	Utilising epidemic modelling to improve advertising click rates on Facebook
+2017/04/24	Part 2 of Riot API : Surface level stories.
+2017/04/24	When Should I Ride the Bus in Chicago?
+2017/04/24	Emulate how the world creates… to create the best interaction with the world.
+2017/04/24	What if the best way to…
+2017/04/24	3 Simple ways to scale up Data Governance function
+2017/04/25	How I used machine learning to classify emails and turn them into insights (part 1).
+2017/04/25	Detecting vehicles using machine learning and computer vision
+2017/04/25	Regression prediction intervals with XGBOOST
+2017/04/25	Devanagari Script Character Recognition Using Machine Learning
+2017/04/25	Artificial Neural Networks and Neuroscience
+2017/04/25	TL;DR
+2017/04/25	How to choose statistical software tools
+2017/04/25	5 Artificial Intelligence and Data Predictions for 2017
+2017/04/25	Some thoughts on machine learning in healthcare
+2017/04/25	Should We Be Afraid of AI?
+2017/04/25	Is Innovation in Advanced AI the Apocalypse?
+2017/04/25	How to Reduce Marketing Bloat with Basic Data Science Techniques
+2017/04/25	Spend Less on Marketing without…
+2017/04/26	A Quick Introduction to the NumPy Library
+2017/04/26	Predicting Amazon product reviews’ ratings
+2017/04/26	Deep Learning and Poisonous Mushrooms
+2017/04/26	Data and the Future of Value
+2017/04/26	Artificial Intelligence is not Product Differentiation, but Affordance
+2017/04/26	Statistical vs. Practical Significance
+2017/04/26	The AI Sense and Respond Framework: A way to find AI opportunities for executives and entrepreneurs
+2017/04/26	Not Location, not Location, not Location
+2017/04/26	Self Driving Cars: Regulate or Free-Market?
+2017/04/26	Weekly Selection
+2017/04/27	Tweet Like Trump with a One2Seq Model
+2017/04/27	Data And Mental Health: The OSMI Survey 2016 — Part 2
+2017/04/27	Data to Business Bridge model: Extract, Apply & Track actionable insights to answer your business development challenges
+2017/04/27	#GE2017 Positive Psychology Analysis — Part 2 — Prospection, Affect, Optimism
+2017/04/27	Introduction
+2017/04/27	More on Science, Truth, and Consistency
+2017/04/28	Deep Learning #1: Setting up AWS & Image Recognition
+2017/04/28	How Simulations will evolve Data Science
+2017/04/28	The Royal Society report on Machine Learning (April 2017)
+2017/04/28	Analytics on the New York rental market | Top 15% on Kaggle!
+2017/04/28	States
+2017/04/28	How We Built the World’s Finest Cognitive Content Platform
+2017/04/28	Found This Week #52
+2017/04/28	Mixture of Experts with Covariance
+2017/04/28	Making Data Valuable: Accuracy and Governance
+2017/04/28	Adamant.
+2017/04/29	Boosting algorithm: AdaBoost
+2017/04/29	NLP for the LGBTQIA+ community: A Primer on Natural Language Processing Part 1
+2017/04/29	Concerns in the…
+2017/04/29	How to sabotage your first production model.
+2017/04/29	This is contrAnalyst, your personalized guide to contract risk management
+2017/04/30	Course 2 — Data structure — Part 2: Priority queues and Disjoint set
+2017/04/30	Five ways to spend a Thursday
+2017/04/30	Hardhat Bots Takeover Construction Sites
+2017/04/30	Getting to know the meteorites
+2017/04/30	[ML] Network Training — Getting into some details
+2017/04/30	TL;DR
+2017/04/30	Weekly Selection
+2017/05/01	How to get started in NLP
+2017/05/01	Tracking a self-driving car with high precision
+2017/05/01	Data Cleaning Web Scraped Job Data
+2017/05/01	Reinforcement Learning : Its necessity and challenges
+2017/05/01	A Mistake Most Humans Make
+2017/05/01	What does make America great? A scientist’s perspective
+2017/05/01	Exploratory Analysis: Data Scientist Salaries Across the USA
+2017/05/01	The Challenge and Importance of Data Flow in Distributed IoT Systems
+2017/05/01	Hacking Discrimination
+2017/05/01	Hair Today, Gone Tomorrow
+2017/05/02	Why Quizlet chose Apache Airflow for executing data workflows
+2017/05/02	My Journey to Data Science (For beginner with zero-coding experience)
+2017/05/02	Teaching the data science process
+2017/05/02	On the Wisdom of Crowds: Collective Predictive Analytics
+2017/05/02	Check Mate Deep Learning
+2017/05/02	AI, why now?
+2017/05/02	Data Curious 02.05.2017: A roundup of data stories, resources and visualizations from last week
+2017/05/02	«I just don’t have time to take better decisions…»
+2017/05/03	Learning to rank with Python scikit-learn
+2017/05/03	Crime and Virtual Punishment
+2017/05/03	The process of data science is underrated
+2017/05/04	How to build an FAQ Chatbot with API.AI using Node.js — and PHP
+2017/05/04	Deep Learning #2: Convolutional Neural Networks
+2017/05/04	Stupid TensorFlow tricks
+2017/05/04	AI, BI, and BS: Demystifying Enterprise Scale Artificial Intelligence
+2017/05/04	Artificial Intelligence…coming to a Fortune 500 near you!
+2017/05/04	The hiring process is due for a change, and AI could help
+2017/05/04	Using Unsupervised Learning to optimise Children’s T-shirt Sizing
+2017/05/04	Maybe the glass is half full after all…
+2017/05/04	FinTech Exchange 2017 Puts the Focus on Data
+2017/05/04	What’s the Distribution, Kenneth?
+2017/05/04	User Experience, Trust, and FOFU
+2017/05/05	What is the best programming language for Machine Learning?
+2017/05/05	A new kind of deep neural networks
+2017/05/05	Balancing Bias and Variance to Control Errors in Machine Learning
+2017/05/05	A simple Word Sense Disambiguation application
+2017/05/05	Keras Tutorial: Deep Learning in Python
+2017/05/05	Training MXNet — part 4: distributed training
+2017/05/05	Doing More with Less Data: Achieving Near State-of-the-Art Results on Real Estate Valuations
+2017/05/05	M2M Day 185: My attempt to intuitively explain how this self-driving car algorithm works
+2017/05/05	Data Visualization is Overrated
+2017/05/05	San Diego County Crime Incidents
+2017/05/05	How We Build a Completely New Way of Doing Predictive Analytics
+2017/05/05	First — This is the main problem with…
+2017/05/05	Visualization helps us “run” with the AI
+2017/05/05	May Edition: Data Visualization
+2017/05/05	April Was a Good Month For the U.S. Economy
+2017/05/06	From Scikit-learn to TensorFlow : Part 1
+2017/05/06	Introduction
+2017/05/06	My deep learning job interview experience sharing
+2017/05/06	1000x faster Spelling Correction
+2017/05/06	Hard-earned advice for AI products
+2017/05/06	How did Federer beat Nadal | Aus Open ‘17
+2017/05/06	The words add up! Why “baseball – USA + India = cricket”
+2017/05/06	Nine Opportunities and Risks of Algorithmic Decision-Making
+2017/05/06	1. Normative principles
+2017/05/06	Data Donors: Prevent cancer with big data from supermarket loyalty cards
+2017/05/06	When machines judge humans
+2017/05/06	How to change the number of breaks on a datetime axis with R and ggplot2
+2017/05/07	Boosting algorithm: GBM
+2017/05/07	Tree models
+2017/05/07	Supervised, unsupervised and deep learning
+2017/05/07	The “Cybersecurity Marketing Scam” that is contributing to Cyber-attacks
+2017/05/07	Data is the New Oil
+2017/05/07	Deep Love: A Modern Love article generator
+2017/05/07	Grant Gochnauer: Awesome Humans — Issue #89
+2017/05/07	Awesome Human
+2017/05/08	Simple and Multiple Linear Regression in Python
+2017/05/08	Lightning Talk: Clustering with HDBScan
+2017/05/08	How to use Twitter’s API
+2017/05/08	The Modern Marketer’s Guide to Machine Learning Algorithms
+2017/05/08	Data Curious 08.05.2017: A roundup of data stories, datasets and visualizations from last week
+2017/05/08	B.C. Politics: Sentiment Analysis Predicts Horgan Win
+2017/05/08	Dissecting Algorithms
+2017/05/09	Text Summarization with Amazon Reviews
+2017/05/09	Predicting the number of likes on Instagram
+2017/05/09	Building a NARX in MATLAB to forecast time series data.
+2017/05/09	What Color is that Swan?
+2017/05/09	Why Your A.I is Biased & How to Fix it
+2017/05/09	Flokka: Supervised Learning, Made Easy
+2017/05/09	Will data science eliminate data science?
+2017/05/09	M2M Day 189: I think I taught my computer how to steer a self-driving car. But, I just can’t figure out how to…
+2017/05/09	Data and Mental Health : The OSMI Survey — Part 3
+2017/05/09	A glimpse into AI potential between today and tomorrow (part 1)
+2017/05/09	Client Portfolio: Membership Sales Analysis at Arts Non-Profit
+2017/05/09	Analytics is also about solving little problems — like finding a parking space at the beach….
+2017/05/10	Lane Detection with Deep Learning (Part 1)
+2017/05/10	How to run Unity on Amazon Cloud or without Monitor
+2017/05/10	Lessons Learned: Digital Ocean for Python 3
+2017/05/10	Making a Replier and Follow Bot for Twitter using Node.js
+2017/05/10	The most and least expensive countries to buy gadgets
+2017/05/10	AI Learning Gin Rummy, Part I
+2017/05/10	Crime Forecasting
+2017/05/10	Why we suck at medicine
+2017/05/10	Introducing the AI-Defined Infrastructure
+2017/05/10	Data-Driven Health: Live from the 2017 Health Technology Forum, Stanford School of Medicine
+2017/05/11	Are Tech Bootcamps Worth It? One Man’s Journey
+2017/05/11	How I got a score of 82.3% and ended up being in top 3% of Kaggle’s Titanic Dataset
+2017/05/11	To err is algorithm: Algorithmic fallibility and economic organisation
+2017/05/11	Algorithmic fails
+2017/05/11	Why I left my first job at an investment bank?
+2017/05/11	Item Response Model and Neural Networks?
+2017/05/11	Fast.ai Deep Learning Course Part1 Personal Learning Notes Sharing
+2017/05/11	M2M Day 191: Deconstructing a self-driving car model (based on my current knowledge)
+2017/05/11	Are Translators Worried About MT Taking Their Jobs? Yes and No
+2017/05/11	Alan Turing (1912–1954)
+2017/05/11	Our Project in Review
+2017/05/11	From my Mind to the World
+2017/05/12	Deep Learning #3: More on CNNs & Handling Overfitting
+2017/05/12	Lane Detection with Deep Learning (Part 2)
+2017/05/12	Why your Models need Maintenance
+2017/05/12	How to develop, deploy and scale a Data Science algorithm in one HOUR!
+2017/05/12	First they came for the horses: a tale of missing data
+2017/05/12	Welcome to the Hotel California of Artificial Intelligence
+2017/05/12	Cybersecurity: Definition, Duration, Devastation and Deception, Simon Smith eVestigator— Cyber Investigator & Master
+2017/05/12	Found This Week #54
+2017/05/13	What i have learned from the first term of Udacity Self driving car nanodegree program.
+2017/05/13	Image Classification in 5 Methods
+2017/05/13	My phone use in numbers and graphs
+2017/05/13	Where is Artificial Intelligence hiding in Autonomous Cars ?
+2017/05/13	My Cyberclone : Digitized Self
+2017/05/13	How to grow data
+2017/05/13	Weekly Selection
+2017/05/13	Why Do This?
+2017/05/13	a quasi-anti-market motivation
+2017/05/14	Boosting algorithm: XGBoost
+2017/05/14	XGBoost: Extreme Gradient Boosting
+2017/05/14	Vehicle Detection and Tracking
+2017/05/14	The Power of Artificial Intelligence (AI), Virtual and Augmented Reality (VR and AR) on Medical Imaging at GPU Tech…
+2017/05/14	The Ancient Game. And the AI
+2017/05/14	How my team won the People’s Choice Award at our first Hackathon
+2017/05/14	Clustering for everyday life — 1 of 2-
+2017/05/14	The future ain’t what it used to be…
+2017/05/15	Automatic Topic Clustering Using Doc2Vec
+2017/05/15	Retail Analytics Trends — 2017 and beyond
+2017/05/15	Analysing shopping behaviour of users using Machine Learning — Part 1
+2017/05/15	#1 — Artificial Intelligence: Introduction
+2017/05/15	Trump vs. Drumpf: How well can Natural Language Processing distinguish the President’s tweets from parody?
+2017/05/15	Kobe Through The Ages
+2017/05/15	Data Curious 15.05.2017: A roundup of data stories, datasets and visualisations from last week
+2017/05/15	The Evolving AI Assistants: heads up
+2017/05/16	Topic Modeling for The New York Times News Dataset
+2017/05/16	I’m a Data Scientist, why should I use the Cloud?
+2017/05/17	Train/Test Split and Cross Validation in Python
+2017/05/17	Decision Trees in Machine Learning
+2017/05/17	Using Open Source Prophet Package to Make Future Predictions in R
+2017/05/17	Building a machine learning ensemble classifier on NY taxi data to predict no tips vs generous tips with Python &…
+2017/05/17	Scraping Indeed and Predicting Salaries
+2017/05/17	M2M Day 197: A sad journey down the rabbit hole…
+2017/05/17	Shazam the High Line
+2017/05/18	My experience with Udacity Deep Learning Foundations Nanodegree
+2017/05/18	Motivation
+2017/05/18	Word to Vectors — Natural Language Processing
+2017/05/18	Creating a Spell Checker with TensorFlow
+2017/05/18	Tensorflow RMSD: Using Tensorflow for things it was not designed to do
+2017/05/18	Reduced Order Modeling using TensorFlow
+2017/05/18	Generative Models and GANs
+2017/05/18	Harbingers of a New Age
+2017/05/18	Sales Analytics: Improving Sales Strategy and Performance
+2017/05/18	Cross-device data provider evaluation for 1plusX Data Management Platform
+2017/05/19	Unsupervised Learning and Data Clustering
+2017/05/19	Cool Data Sets I’ve found
+2017/05/19	Using Docker to Set Up a Deep Learning Environment on AWS
+2017/05/19	The Limits of Analytics
+2017/05/19	Weekly Selection
+2017/05/19	Vehicle Detection and Tracking
+2017/05/20	Structure and automated workflow for a machine learning project — part 1
+2017/05/20	AI Learning Gin Rummy, Part II (Enter Google TensorFlow)
+2017/05/20	How can AI be your dietitian and prevent diabetes
+2017/05/20	Predicting Iowa Liquor Sales
+2017/05/20	Life’s Little Bets
+2017/05/21	MSE and Bias-Variance decomposition
+2017/05/21	What is machine learning and types of machine learning — Part-1
+2017/05/21	How to Build a New Media Company
+2017/05/21	Physics, TOEs and Machine Learning
+2017/05/22	How to calculate your company’s growth rate
+2017/05/22	Installing XGBoost on OSX
+2017/05/22	What House of Cards Got Right (and Wrong) About Data Science
+2017/05/22	Why Your Data Scientist Can’t Turn Your IoT Data Into Gold
+2017/05/22	Kaggle: Chicago West Nile Virus
+2017/05/22	Doing Data Science in a Data Illiterate Organization
+2017/05/22	Deep Learning Chapter 3: Probability and Information Theory
+2017/05/22	My Last Week of General Assembly’s Data Science Boot Camp
+2017/05/22	And the First Week of the Rest of My Life
+2017/05/22	The Data Behind Kobe’s Jump Shot
+2017/05/22	Data Curious 22.05.2017: A roundup of data stories, datasets and visualisations from last week
+2017/05/22	How AI Consulting can Hurt your Digital Transformation
+2017/05/22	DATA WARS
+2017/05/22	Data, Drugs, and Rock & Roll — minus the Rock & Roll
+2017/05/22	The Internet doesn’t want to help you
+2017/05/23	How to calculate churn rates across industries
+2017/05/23	Introducing MetaEyes: Image recognition & analysis for Instagram
+2017/05/23	How to optimize ad spend like a proper growth team, with examples
+2017/05/23	Exploratory data analysis into the relationship between different types of crime in London
+2017/05/23	Model Comparison on the Titanic Data Set
+2017/05/23	Chatbots that get smarter
+2017/05/23	Lessons from Using Spark to Process Large Amounts of Data — Part I
+2017/05/23	My journey with TensorFlow
+2017/05/23	FASHION DNA: STRUCTURAL FEATURE MAPPING IN THE WORLD OF RETAIL
+2017/05/23	How to Scale Your Growth Process in 8 Weeks — Blog III
+2017/05/23	Machine Learning : A path that must be travelled
+2017/05/24	How to conduct a proper root cause analysis
+2017/05/24	Building Spotify’s “Discover Weekly” with Spark
+2017/05/24	Data Science & Business Strategy
+2017/05/24	My deep learning job interview experience sharing (Part 2)
+2017/05/24	bigValley: Play God, in Python
+2017/05/24	Simon Smith from eVestigator shows the world data relating to the “WannaCry” source indicating links to India & Spain
+2017/05/24	AI eats future of software
+2017/05/24	How to get started with TickVault’s Python API
+2017/05/24	The One Thing That Is Better Than Being An Expert
+2017/05/24	interactive (natural) language learning
+2017/05/24	settings and model/algorithm core
+2017/05/25	Tutorial: Asynchronous Speech Recognition in Python
+2017/05/25	Musings at the Intersection of Data Science and Public Policy
+2017/05/25	Getting started with the deep learning stack
+2017/05/25	What Makes a Great UX of AI?
+2017/05/25	Predicting Moscow Home Prices
+2017/05/25	5 Ways Data Science Can Make You a Better Salesperson
+2017/05/25	Clustering for everyday life — 2 of 2-
+2017/05/25	The Value Of Data
+2017/05/26	Data Science is not in the SOL List. Will I still be eligible for PR?
+2017/05/26	Raspberry Pi 3 vs DragonBoard
+2017/05/26	Fast.ai: The TOC of Practical Deep Learning — Part 1
+2017/05/26	Stock2Vec — From ML to P/E
+2017/05/26	Predicting MLB Game Attendance
+2017/05/26	What is a “Data Engineer?”
+2017/05/26	5 Ways Data Visualizations can Lie
+2017/05/26	I trained a Word2Vec model on a strict diet of Fox News broadcasts
+2017/05/26	Predicting the Futures Market with the Commitments of Traders Report
+2017/05/26	Helping Treat Cervical Cancer with Neural Networks
+2017/05/26	4 Steps for Founders to Start Thinking Like a Data Scientist
+2017/05/26	The slipperiness of UX data
+2017/05/26	Graduation Rates
+2017/05/26	A Graphical Representation of Life
+2017/05/26	Weekly Selection
+2017/05/26	What does make America great? A scientist’s perspective
+2017/05/27	What is Bioinformatics?
+2017/05/27	Data Science for Beginners
+2017/05/27	Rise of Julia Programming Language(For Data-Science)
+2017/05/27	Everything you should know about Quantitative Finance(Almost Everything ;)
+2017/05/27	Little bit Effective ML for Quantitative Finance
+2017/05/27	The Man in the Machine
+2017/05/28	Is my Spotify music boring? An analysis involving music, data, and machine learning
+2017/05/28	Are UUIDs really unique?
+2017/05/28	AI is Essentially “Artificial Perception”
+2017/05/28	Dissecting the NBA Draft
+2017/05/28	Demystifying Artificial Intelligence for Everyone
+2017/05/28	Disruptive Machine Learning
+2017/05/28	AI Strategy Is About To Change — Where Will Companies Compete Next?
+2017/05/28	Setting up Deep learning Work Station in AWS
+2017/05/28	Why not my own machine
+2017/05/28	Applications of AI in Economics, Trading and Forecasting
+2017/05/28	Choices are easy when…
+2017/05/29	Activation functions and it’s types-Which is better?
+2017/05/29	What are Artificial Neural Networks ?
+2017/05/29	Covers Letters + Data Science = What You Need to Know
+2017/05/29	How to properly tell a story with data — and common pitfalls to avoid.
+2017/05/29	More Anomaly detection vs Ransomware
+2017/05/29	Strata London 2017
+2017/05/29	The Many Futures of Data Analysis
+2017/05/29	Data Curious 29.05.2017: A roundup of data stories, datasets and visualisations from last week
+2017/05/29	An App that uses A.I. to convert Graphic Designs Into Functioning Code.
+2017/05/29	Login Luster & Dreaming of Dashboards
+2017/05/30	Boosting the accuracy of your Machine Learning models
+2017/05/30	Tutorial: Data Wrangling and Mapping in R
+2017/05/30	Applying Artificial Intelligence to Help People Quit Smoking: Early Results
+2017/05/30	Transfer learning with PyTorch
+2017/05/30	Anything but bars: The 10 best alternatives to bar graphs
+2017/05/30	A Simple Neural Network
+2017/05/30	Data Science: Best Locations and Factors Which Increase Your Salary
+2017/05/30	Over 50 years of coding and still going
+2017/05/30	A little PDA for EDA
+2017/05/30	Let your self-driving car be free
+2017/05/31	Difference between Permutation and Combination
+2017/05/31	Building a realtime dashboard with Flink: The Backend
+2017/05/31	Machine Learning Introduction: Supervised vs Unsupervised (Part 1)
+2017/05/31	Opportunities And Obstacles For Deep Learning In Biology And Medicine
+2017/05/31	Artificial Intelligence is the Panacea to Today’s Marketing Challenges
+2017/05/31	Marketing Multi-Channel Attribution model with R (part 2: practical issues)
+2017/05/31	The Single Most Important Thing That Data Can Do For Your Startup
+2017/05/31	The computer knocking on your C-suite
+2017/06/01	Neuromorphic and Deep Neural Networks
+2017/06/01	Even for Data and Tech Jobs, a Cover Letter is the Best Way to Sell Your Human Skills
+2017/06/01	Convolutional Attention Model for Natural Language Inference
+2017/06/01	A Data Driven Guide to Becoming a Consistent Billionaire
+2017/06/01	Did You Really Think All Billionaires Were…
+2017/06/01	Could a Computational Social Scientist be Your Next Best Hire?
+2017/06/01	Predicting Bitcoin’s market cap — Early ML inroads to pre-processing[Part 1]
+2017/06/01	My ML career in 5 minutes..
+2017/06/02	Part 1: Using YouTube’s Python API for Data Science
+2017/06/02	Geospatial Operations at Scale with Dask and Geopandas
+2017/06/02	A casual intro to Machine Learning
+2017/06/02	Steering Control for self-driving car
+2017/06/02	Sentiment analysis : solutions and applications survey
+2017/06/02	18 Big Data tools you need to know
+2017/06/02	Machine Learning in Search Engine Advertising
+2017/06/02	Google Trends on Data Science
+2017/06/02	On measuring recurring users
+2017/06/02	Ensuring Utopia When All Our Jobs Are Gone
+2017/06/02	Chopstick Length Analysis
+2017/06/02	Overview
+2017/06/02	The Attributes You Need To Thrive In The Data Analysis World
+2017/06/02	Will Big Data destroy privacy ?
+2017/06/02	Are these Charleston rainstorms more severe?
+2017/06/03	Useful Keras features
+2017/06/03	How can I interrupt…
+2017/06/03	“Estimation and Inference of Heterogeneous Treatment Effects using Random Forests” paper review
+2017/06/03	Do College Memories Get Better Over Time?
+2017/06/03	Building Speech Recognition Using Open Stack
+2017/06/03	The old, repackaged and re-branded
+2017/06/03	Take Care of your Neurome
+2017/06/03	Weekly Selection
+2017/06/03	Neuromorphic and Deep Neural Networks
+2017/06/04	Ubuntu + Deep Learning Software Installation Guide
+2017/06/04	A n00bs guide to Apache Spark
+2017/06/04	Creating Your First Machine Learning Classifier with Sklearn
+2017/06/04	Detecting Bot Matches in Dota 2 Using Isolation Forests
+2017/06/04	Top 4 Overlooked Technologies
+2017/06/04	Data Munging, a perspective view
+2017/06/05	Cross-Validation in Machine Learning
+2017/06/05	Learning about Data Science — Building an Image Classifier (part 2)
+2017/06/05	Design Thinking is all about making better decisions
+2017/06/05	Want a job in data science? Be less enthusiastic and more skeptical.
+2017/06/05	Data Curious 05.06.2017: A roundup of data stories, datasets and visualizations from last week
+2017/06/05	Insight Building Blocks I: Algorithm to Identify Insights
+2017/06/05	You want to hire an AI team? Get in line. — Solving the supply and demand problem for AI talent.
+2017/06/05	#0025: Notes from London.AI8
+2017/06/06	Moneyball For Real Estate
+2017/06/06	The Indecisive Decision Tree — Story of an emotional algorithm (1/2)
+2017/06/06	Indian Institute for Human Settlements — Internship Journey so far.
+2017/06/06	Decision Tree Hugging
+2017/06/06	Web Scraping Indeed.com
+2017/06/06	RenovateAmes
+2017/06/07	Five Practical Use Cases Of Customer Sentiment Analysis For NPS
+2017/06/07	Welcoming Core ML
+2017/06/07	Deep learning concepts — PART 1
+2017/06/07	Activation functions
+2017/06/07	Shab Dev Story #01: Trying to find the matrix form of gradient descent via backprop
+2017/06/07	How data driven companies build customer personas
+2017/06/07	The Killer Groove: Shadow AI of Killer Instinct
+2017/06/07	What is Artificial Intelligence (AI)?
+2017/06/07	The unreasonable effectiveness of one neuron
+2017/06/07	How to make data driven decisions like a boss
+2017/06/07	We Know You Wanted See C2 Too
+2017/06/08	Identifying duplicate questions on Quora | Top 12% on Kaggle!
+2017/06/08	4 steps to conducting a proper root cause analysis
+2017/06/08	How data driven businesses approach scenario planning
+2017/06/08	Dream in Color
+2017/06/08	Introduction
+2017/06/08	Twitter Advertising
+2017/06/08	Introduction
+2017/06/08	Six types of data people you need to hire
+2017/06/08	General Assembly Graduate For Hire
+2017/06/08	Major money: Testing the impact of salary information on college major selection
+2017/06/08	MoMA and its artwork in data
+2017/06/09	Machine Learning in Human Resources — Applications and Trends
+2017/06/09	Introduction to text representation and similarity
+2017/06/09	Part 2: Using YouTube’s Python API for Data Science
+2017/06/09	Apache Spark: Hashing or Dictionary?
+2017/06/09	How I made a little money by running a lot
+2017/06/09	HowTo became a Computer Scientist
+2017/06/09	Creating Art with Conv Neural Nets
+2017/06/09	Sketching a Proof of Convergence for Covariance-Learning in Neural Networks
+2017/06/09	Business and Data Science — Managing Expectations
+2017/06/09	Found This Week #58
+2017/06/10	Types of Optimization Algorithms used in Neural Networks and Ways to Optimize Gradient Descent
+2017/06/10	Deep learning weekly piece: the differences between AI, ML, and DL
+2017/06/10	Structure and automated workflow for a machine learning project — part 2
+2017/06/10	Analyzing who spends more on haircuts, men or women?
+2017/06/10	How I Tackled My First Kaggle Challenge Using Deep Learning — Part 1
+2017/06/10	Can We Copy the Brain?
+2017/06/10	my story with Deep Learning and Neural Networks — part I
+2017/06/10	Kur, Keras, and Tensorflow
+2017/06/11	Core Machine Learning For iOS Developers
+2017/06/11	Uncertainty in deep learning and neural network? I do not feel that way!
+2017/06/11	Predicting Bitcoin’s market cap — Deploying the classifier[Part 2]
+2017/06/11	Making Pepper Walk, Understanding Softbank’s Purchase of Boston Dynamics
+2017/06/11	Data Science’s Dirty Little Secrets
+2017/06/11	The network of R/python questions on stackoverflow
+2017/06/11	Deep Learning Chapter 4: Numerical Computation
+2017/06/11	The Data Story-Teller
+2017/06/12	Object detection with neural networks — a simple tutorial using keras
+2017/06/12	If Taxi Trips were Fireflies: 1.3 Billion NYC Taxi Trips Plotted
+2017/06/12	Best Research articles on Deep Learning for Text classification (2015–2016)
+2017/06/12	Why Are People So Scared Of AI ?
+2017/06/12	From Fiction to Reality: A Beginner’s Guide to Artificial Neural Networks
+2017/06/12	Random Forest — The Democratic Leader of The Data Science World (2/2)
+2017/06/12	The (Decision) Tree of Life
+2017/06/12	Data Curious 12.06.2017: A roundup of data stories, datasets and visualizations from last week
+2017/06/12	June Edition: Self-Driving Cars
+2017/06/13	How to cluster your customer data — with R code examples
+2017/06/13	Adversarial examples in deep learning
+2017/06/13	RNN Training Tips and Tricks:
+2017/06/13	Monitoring Validation Loss vs. Training Loss
+2017/06/13	The Story of Data Driven Storytelling
+2017/06/13	Back To Our Regularly Scheduled “Programming”
+2017/06/13	5 Steps Towards Implementing a Data-Driven Business Model
+2017/06/13	Why using a context-manager is a better choice?
+2017/06/13	Becoming Data Driven Level 4: Using Data to Shape Your Organisation
+2017/06/13	Why Internet Of Materials - IoT?
+2017/06/13	Virtue Signals or News Reading? An exploration on why Senators follow each other on Twitter
+2017/06/13	You Can’t Make This Stuff Up… Or, Can You?
+2017/06/13	Transparent Data Mining for Big and Small Data
+2017/06/13	Building Bill of Materials analytics with the openBoM search dashboard
+2017/06/13	Bits and Bolts or Black Boxes of Doom?
+2017/06/14	Word2Vec (skip-gram model): PART 1 - Intuition.
+2017/06/14	Data Cleaning 101
+2017/06/14	Facebook Research just published an awesome paper on learning hierarchical representations
+2017/06/14	Poincaré Embeddings for Learning Hierarchical Representations
+2017/06/14	Summary of PixelRNN by Google Deepmind
+2017/06/14	Introduction:
+2017/06/14	Can Machine Learn the Concept of Sine
+2017/06/14	The Abuse of Power: The Pervasive Fallacy of Power Calculations for Data Analysis
+2017/06/14	Something from nothing: Where are we at with GANs?
+2017/06/14	DeepClassifyML Week 1 Part 2
+2017/06/15	Types of Machine Learning Algorithms You Should Know
+2017/06/15	Word2Vec (skip-gram model): PART 2 — Implementation in TF
+2017/06/15	How We Scraped Data off a Slack Group
+2017/06/15	Blind Spot problem in PixelCNN
+2017/06/15	How to become a data scientist, part 2: try to solve the problem
+2017/06/15	Why You Should Ignore Data Science Performance Measures
+2017/06/16	How to begin your own data science journey!
+2017/06/16	Predicting the Venture Capital Landscape
+2017/06/16	Introduction
+2017/06/16	Precipitation with the InsightR R package
+2017/06/16	Weekly Selection
+2017/06/16	Object detection with neural networks — a simple tutorial using keras
+2017/06/16	Artificial Intelligence is going to change the future
+2017/06/16	A not normal man looking for an interesting number
+2017/06/17	Create a model to predict house prices using Python
+2017/06/17	Deep learning weekly piece: what’s a neural network?
+2017/06/17	Prototyping a Recommendation System
+2017/06/17	Dude, Where’s My Car? Looking back at Udacity SDCND Term 2
+2017/06/17	DeepClassifyML Week 2 Part 1
+2017/06/17	Statistics Is Freaking Hard : WTF Is Time Series — Part 1
+2017/06/17	Venture Ideation — The Revolution of Data and Scale
+2017/06/18	Introducing Deep Learning and Neural Networks — Deep Learning for Rookies (1)
+2017/06/18	GANGogh: Creating Art with GANs
+2017/06/18	Part 2 — How I Tackled My First Kaggle Challenge Using Deep Learning
+2017/06/18	Data Visualization of Elite Swimmers’ Competition Results (Part 1 — Datasets)
+2017/06/18	Data Visualization of Elite Swimmers’ Competition Results (Part 2 — Design)
+2017/06/18	Measure the quality of your decisions, and not just your data
+2017/06/18	Each Reaction on Facebook makes it richer.
+2017/06/18	The 10 principles of intelligent agent design
+2017/06/18	Data Visualization of Elite Swimmers’ Competition Results (Part 3—Insights)
+2017/06/19	How to implement Deep Learning in R using Keras and Tensorflow
+2017/06/19	Notes on the Cramer GAN
+2017/06/19	When Agile Meets Machine Learning
+2017/06/19	Data Mining 101 — Dimensionality and Data reduction
+2017/06/19	Redefining Basketball Positions with Unsupervised Learning
+2017/06/19	How to think about combinatorics like a data scientist
+2017/06/19	Reading Traffic Signs with Human Like Accuracy
+2017/06/19	The world’s first protein database for Machine Learning and AI
+2017/06/19	How AI is changing Trust and Safety
+2017/06/19	Exploring NLP/AWS/BigData: Part 1
+2017/06/19	Data Curious 19.06.2017: A roundup of data stories, datasets and visualizations from last week
+2017/06/19	SAS Customer Intelligence 360 — Turn Data into Experience
+2017/06/19	Regression to the Nice
+2017/06/20	PyTorch vs TensorFlow — spotting the difference
+2017/06/20	The Data Science Renaissance
+2017/06/20	How Not to Sort by Popularity
+2017/06/20	Getting Started with Python for Data Analysis
+2017/06/20	The Surprising Longevity Of The Z-Score
+2017/06/20	Cyber Security: Sparse coding and anomaly detection
+2017/06/20	HR ANALYTICS FOR EMPLOYEE ENGAGEMENT STRATEGY AND MORE
+2017/06/20	House of Cards vs Seinfeld
+2017/06/20	DeepClassifyML Week 2 Part 2
+2017/06/20	WHAT I WANT FROM AI
+2017/06/20	What’s New in Quantified Self?
+2017/06/21	Sentiment analysis using RNNs(LSTM)
+2017/06/21	Generative Adversarial Networks- History and Overview
+2017/06/21	A Soft Introduction to Neural Networks
+2017/06/21	Data mining 101 — Cleaning data and Sum up
+2017/06/21	ROLLING THE DICE WITH ANALYTICS!
+2017/06/21	Conscious Machines Are Here. What’s Next?
+2017/06/21	Invasive Species Monitoring using Machine Learning
+2017/06/21	Machine Empathy: How Machine Learning Can Bring Real Insight to UX Design
+2017/06/21	Combining Empathy and Data…
+2017/06/21	Practical guide to Correlation measures
+2017/06/21	Learn Regression in R
+2017/06/21	A.I. COE…. NO!
+2017/06/21	Mining Social Media to Inform Haze Response
+2017/06/21	Investor network of influence
+2017/06/21	NTENT Chief Technology Officer Dr. Ricardo Baeza-Yates Describes the Internet as a “Living Organ”
+2017/06/22	Building a Real-Time Object Recognition App with Tensorflow and OpenCV
+2017/06/22	6 ways people are making money with machine learning
+2017/06/22	Ethics in Machine Learning
+2017/06/22	Steering Self Driving Car without LIDAR
+2017/06/22	Insights on Churn Prediction Complexity
+2017/06/22	Tutorial: How We Productized Bayesian Revenue Estimation with Stan
+2017/06/22	Fear in the Age of Machine Learning
+2017/06/22	A gentle introduction to reinforcement learning or what to do when you don’t know what to do
+2017/06/22	Experiences in Using R and Python in Production
+2017/06/22	About choosing your optimization algorithm carefully
+2017/06/22	DeepClassifyML Week 2 Part 3
+2017/06/22	What’s in the Box?! — Chipy Mentorship, pt. 3
+2017/06/22	Machine learning for IT operations
+2017/06/23	Sequence to sequence model: Introduction and concepts
+2017/06/23	Hidden Markov models for time series classification — basic overview
+2017/06/23	Applying Machine Learning to DevOps
+2017/06/23	Clustering and Collaborative Filtering — Using word embeddings
+2017/06/23	Big Data and Data Science
+2017/06/23	GANs with Attention
+2017/06/23	How Remi started
+2017/06/23	Data Science in the Age of Trump
+2017/06/23	Finance meet A.I
+2017/06/23	Turning Data into Dollars ?
+2017/06/23	#0028: Notes from CognitionX 2017
+2017/06/23	Are We Opting Into Global Surveillance?
+2017/06/23	Weekly Selection
+2017/06/23	Notes on the Cramer GAN
+2017/06/24	How to deploy Machine Learning models with TensorFlow. Part 1 — make your model ready for serving.
+2017/06/24	Recommending GitHub Repositories with Google BigQuery and the implicit library
+2017/06/24	Predicting Amazon sales using Deep Learning
+2017/06/24	Introduction
+2017/06/24	The dangers of AI in health care: risk homeostasis and automation bias
+2017/06/24	Survey says…this is the ideal work/life balance
+2017/06/24	Characterizing Scientific Impact with PageRank — Part I
+2017/06/24	One must have chaos to be able to give birth to a dancing star
+2017/06/25	Exploring Activation Functions for Neural Networks
+2017/06/25	Simple NLP Search in Your Application — Step-by-Step Guide in Scala
+2017/06/25	Deep Learning Chapter 6: Deep Feedforward Networks
+2017/06/25	A Pickup Line Generator with Tensorflow
+2017/06/25	How to Make Goodreads.com Top 400 List?
+2017/06/25	A Standard Error
+2017/06/26	How to deploy Machine Learning models with TensorFlow. Part 2— containerize it!
+2017/06/26	How to build a data science pipeline
+2017/06/26	Autoencoders — Introduction and Implementation in TF.
+2017/06/26	Introduction and Concepts:
+2017/06/26	A New Beginning To Deep Learning
+2017/06/26	Introducing PDPbox
+2017/06/26	You Don’t Have To Be Guru At Math To Get Started In Machine Learning
+2017/06/26	Machine Learning Picks 21 Start-ups to Watch
+2017/06/26	Artificial Intelligence, Revealed by Facebook
+2017/06/26	Data Curious 26.06.2017: A roundup of data stories, datasets and visualizations from last week
+2017/06/26	Man vs. Machine at the America’s Cup
+2017/06/27	Multi-Layer Neural Networks with Sigmoid Function— Deep Learning for Rookies (2)
+2017/06/27	GAN — Introduction and Implementation — PART1: Implement a simple GAN in TF for MNIST handwritten digit generation
+2017/06/27	How to Hire an AI Consultant
+2017/06/27	Deep learning drops : breaking captcha
+2017/06/27	The truth about Bayesian priors and overfitting
+2017/06/27	Andrew Ng launching deeplearning.ai — To explore the frontier of AI
+2017/06/28	Identifying Traffic Signs with Deep Learning
+2017/06/28	Batch Normalization
+2017/06/28	GANS — PART2: DCGANs (deep convolution GANS) for generating images
+2017/06/28	Hacking Data Art at an AI Genomic Hackathon
+2017/06/28	Common Sense Analytics
+2017/06/28	KISS (Keep It Simple Stupid)
+2017/06/29	Functional programming for deep learning
+2017/06/29	GANs N’ Roses
+2017/06/29	What Does Your Team Fortress 2 Hat Say About You?
+2017/06/29	The IPO Model
+2017/06/29	The New System of Intelligence: Building an IoT Learning Loop
+2017/06/29	Data Scientist Seeking Data Scientist
+2017/06/29	Characterizing Scientific Impact with PageRank — Part II
+2017/06/29	Which voters does Jeremy Corbyn appeal to?
+2017/06/30	Audio processing in TensorFlow
+2017/06/30	An implementation of the Short Time Fourier Transform
+2017/06/30	keras: Deep Learning in R
+2017/06/30	Udacity Self-Driving Car Nanodegree Project 10 — Model Predictive Control
+2017/06/30	Talking with AI about your unconscious bias is better than you’d think.
+2017/06/30	Introducing Weacast
+2017/06/30	Why Weacast ?
+2017/06/30	Exploring The Frontiers Of Knowledge
+2017/06/30	Artificial Intelligence
+2017/06/30	Help us make artificial intelligence for shopify
+2017/06/30	Weekly Selection
+2017/06/30	Why Prediction is the Essence of Intelligence
+2017/06/30	Goodbye Insecurities and Hello Neighbor, Artificial Intelligence Just Moved In!
+2017/07/01	Technical Debt in Machine Learning
+2017/07/01	How to deploy Machine Learning models with TensorFlow. Part 3— into the Cloud!
+2017/07/01	Introduction to Neural Networks
+2017/07/01	A Simple Introduction To Data Structures: Part One – Linked Lists
+2017/07/01	Banking on the Facts – what is an expert opinion worth?
+2017/07/02	Reducing Dimensionality from Dimensionality Reduction Techniques
+2017/07/02	I have data. I need insights. Where do I start?
+2017/07/02	Data Mining Friends for Fun & Profit*
+2017/07/02	Is Machine Learning Ready to Scale?
+2017/07/02	The touch of Machine Learning
+2017/07/02	As I start learning Data Science
+2017/07/02	Mapping travel time to places in Singapore
+2017/07/02	Some notes on job boards and machine learning
+2017/07/03	Neural Networks - Innumerable Architectures, One Fundamental Idea!
+2017/07/03	“Bayesian Additive Regression Trees” paper summary
+2017/07/03	I. Context
+2017/07/03	From Scikit-learn to TensorFlow: Part 2
+2017/07/03	Predicting 90+ Wines with Classification & Regression Trees
+2017/07/03	Artificial Intelligence Genesis: Literally.
+2017/07/03	Will Machine Learning Disrupt the Marketing Industry?
+2017/07/03	Data Curious 03.07.2017: A roundup of data stories, datasets and visualizations from last week
+2017/07/03	Word Embedding Based Insights on ICC Champions Trophy 2017
+2017/07/03	Wait… You Called Me! Rant About Tech Recruiting And Relocation Assistance
+2017/07/03	My Data Journey : Unit 5 — Text Analytics
+2017/07/03	A Convergence of Language with Code
+2017/07/03	Other side of the pond, other side of the road
+2017/07/03	Characterizing Scientific Impact with PageRank — Recommending Hiring Decisions
+2017/07/03	Scenarios for Construction
+2017/07/04	Face2face — A Pix2Pix demo that mimics the facial expression of the German chancellor
+2017/07/04	Water Pumps maintenance prediction : data-science illustrated
+2017/07/04	From Automatons to Deep Learning
+2017/07/04	Natural Language Processing with Quora
+2017/07/04	Machine Intelligence Summit 2017
+2017/07/04	July Edition: Taking a deep dive into ML applications
+2017/07/04	Spurious Statistical Significance: Why a large Design of Experiment could be dangerous
+2017/07/04	What happened to the missing migrants and who are they
+2017/07/05	4 Months of Machine & Deep Learning
+2017/07/05	The “black box” metaphor in machine learning
+2017/07/05	Introduction to PonyGE2 for Grammatical Evolution
+2017/07/05	Is DevOps Making Life for Data Scientists Better?
+2017/07/05	The Blind Date: Making Mobile Dating Platforms more Accessible to Individuals with Visual Impairments
+2017/07/05	Mechanical Turk Force Optimization with Automation & Machine Intelligence
+2017/07/05	Overview
+2017/07/05	The EDA of an Anime Recommender Engine
+2017/07/05	The Science of Risk Mitigation Within The Digital Enterprise
+2017/07/06	How to do text classification with CNNs, TensorFlow and word embedding
+2017/07/06	Preprocessing IoT Data: Linear Resampling
+2017/07/06	Visualizing Customer Feedback: Three Alternatives to Word Clouds
+2017/07/06	Non-AI approach for steering self-driving car
+2017/07/06	Making a Handwritten Digit Recogniser program using nearest neighbour classifier
+2017/07/06	It’s alive! Building general AI is the future
+2017/07/06	Who’s up to swap transit data?
+2017/07/07	Make your data speak for itself! Less is more (and people don’t read)
+2017/07/07	Reproducible Research: StarCraft Mining
+2017/07/07	Predicting The Functional Status of Pumps in Tanzania
+2017/07/07	Smart Public Transport
+2017/07/07	Dealing with Development Data Management
+2017/07/07	Top 15 finish in Indiahacks Machine Learning challenge
+2017/07/07	Machine Learning is Helping to Reinvent Companies through Digital Transformation
+2017/07/07	Weekly Selection
+2017/07/07	Functional programming for deep learning
+2017/07/08	Introduction to Genetic Algorithms — Including Example Code
+2017/07/08	How to train custom image classifier in 5 minutes
+2017/07/08	The role of luck in poker: How the number of hands played affects the variance
+2017/07/08	Conway’s Game Of Life in Blender
+2017/07/08	This talk will make you reconsider cognitive bias and develop a “thinking eye” like Galileo.
+2017/07/08	Which director makes the best films?
+2017/07/08	What is AI?
+2017/07/09	Learn Word2Vec by implementing it in tensorflow
+2017/07/09	Neural Representation of Logic Gates
+2017/07/09	Using Bagging and Boosting to Improve Classification Tree Accuracy
+2017/07/09	The Tragedy Of Our EMS System
+2017/07/09	A Beginner’s Guide to the World Within Data Science
+2017/07/09	Image Recognition on the Road
+2017/07/09	Custom Image Augmentation
+2017/07/09	What coding skills do devs want to develop
+2017/07/09	Revolution of Artificial Intelligence in Science
+2017/07/09	How do robots make decisions?
+2017/07/09	Teaching machines to speak and improvise blues jazz
+2017/07/09	A word cloud of words used in Abstract
+2017/07/09	Successful management isn’t a question of machine learning…
+2017/07/10	A Walkthrough of Convolutional Neural Network — Hyperparameter Tuning
+2017/07/10	Image Augmentation for Deep Learning
+2017/07/10	Smart Cities and Image Recognition
+2017/07/10	Histogram Equalization
+2017/07/10	Histogram
+2017/07/10	Convolution Neural Network
+2017/07/10	Introduction
+2017/07/10	K-Means Data Clustering
+2017/07/10	Object Detection, dinner with friends…
+2017/07/10	CityClass project #2
+2017/07/10	Moneyball for Design
+2017/07/10	From the data science team at Presenso: Seven best practices for applying cognitive computing to asset maintenance
+2017/07/10	Sorry, Watson, but I’m not impressed
+2017/07/10	Size isn’t everything
+2017/07/10	Customer Service in a World of Ambient Computing
+2017/07/10	Digital transformation is radically changing how people look for work, challenging companies to source candidates differently.
+2017/07/11	Is Google Tensorflow Object Detection API the easiest way to implement image recognition?
+2017/07/11	Image Augmentation for Deep Learning using Keras and Histogram Equalization
+2017/07/11	Memory, attention, sequences
+2017/07/11	From classic AI techniques to Deep Reinforcement Learning
+2017/07/11	Where to invest in Radiology AI
+2017/07/11	A metallurgical scientist’s approach to predicting NBA team success
+2017/07/11	Social networks, terrorism, and data privacy
+2017/07/11	Getting started with OpenAI gym
+2017/07/11	Reinforcement Learning at O’Reilly Artificial Intelligence Conference NY 2017
+2017/07/11	My Data Journey: Unit 6 — Clustering
+2017/07/11	Data Curious 10.07.2017: A roundup of data stories, datasets and visualizations from last week
+2017/07/11	How To Stay Competitive Online Without Brick-and-Mortar Data Mining
+2017/07/11	Quora x Unicorn Berlin
+2017/07/12	Neural Network to play a snake game
+2017/07/12	Using GANS for semi-supervised learning
+2017/07/12	Galaxy Zoo classification with Keras
+2017/07/12	How self-driving cars get from A to B?
+2017/07/12	Magical bugs and where to find them
+2017/07/12	Summary of — SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation
+2017/07/12	First Thoughts on Kaggle
+2017/07/12	We Must Be The Teachers
+2017/07/13	NLP — Extracting location from text
+2017/07/13	Visual Data and the ‘Killer App’ for AI
+2017/07/13	Tableau Analysis of General Assembly Tweets
+2017/07/13	Focusing on Consumer Data & Ai Driven Applications to Eliminate Discount Saturation.
+2017/07/14	Gradient descent algorithms and adaptive learning rate adjustment methods
+2017/07/14	About Neural Networks and Deep Learning
+2017/07/14	TensorFlow Object Detection in videos, avoiding pizza, donuts and cakes
+2017/07/14	Deep learning concepts — PART 2
+2017/07/14	Loss function choice: MSE versus Cross-Entropy:
+2017/07/14	Project Topher : Facebook page reaction prediction program
+2017/07/14	Singapore: An Autonomous Innovation Center
+2017/07/14	What does ancient Roman military has in common with data analysis?
+2017/07/14	Recruitment will start boiling but this is how you do a great meal
+2017/07/14	Weekly Selection
+2017/07/14	Is Google Tensorflow Object Detection API the easiest way to implement image…
+2017/07/15	An Overview of ResNet and its Variants
+2017/07/15	Introduction To Machine Learning
+2017/07/15	So You’re Going To Manage a Data Science Team
+2017/07/15	Tuning PID Controller Parameters with Backpropagation
+2017/07/15	Building and testing a simple deep learning object detection application
+2017/07/15	Love thy k — nearest neighbors
+2017/07/15	Using Voronoi tessellations/diagrams to visualize 1-NN
+2017/07/15	Grouping Content with Content Groupings
+2017/07/16	Probabiliy theory basics
+2017/07/16	Simple Convolutional Neural Network for Genomic Variant Calling with TensorFlow
+2017/07/16	AI/Machine Learning in…
+2017/07/16	Data Science Simplified Part 2: Key Concepts of Statistical Learning
+2017/07/16	Artificial Intelligence Explained Part 1
+2017/07/16	Machine Learning In Nigeria, Today ?
+2017/07/16	Analyze public discourse on refugees with cleanNLP
+2017/07/16	Best Bookshelf: Data Visualization Adapting Real World Objects with D3.js
+2017/07/16	Making a robot learn how to move — Intro
+2017/07/16	Re-coding your own neurome
+2017/07/17	Deep Learning #4: Why You Need to Start Using Embedding Layers
+2017/07/17	Visual Attention Model in Deep Learning
+2017/07/17	Abstract
+2017/07/17	Build your own self driving (toy) car
+2017/07/17	Building a Bayesian deep learning classifier
+2017/07/17	How to train a Machine Learning model in 5 minutes
+2017/07/17	Denoising Autoencoders explained
+2017/07/17	Aggregation and Grouping
+2017/07/17	Setting Up My First Amazon Web Services (AWS) Virtual Server for Data Analytics
+2017/07/17	Data Curious 17.07.2017: A roundup of data stories, datasets and visualizations from last week
+2017/07/17	Is this a taco? A machine learning experiment with Custom Vision
+2017/07/17	Data Mining — Mind the Gaps
+2017/07/17	Instagram #LifeInScience series.
+2017/07/18	How to train Tensorflow models
+2017/07/18	Big Data Analytics: Its Technologies and Tools
+2017/07/18	Analyzing & Visualizing Terrorist Attacks in Pakistan & India (2002–2015)
+2017/07/18	Microsoft Azure Machine Learning
+2017/07/18	What is Machine Learning?
+2017/07/18	Describe A Time You Failed
+2017/07/18	Observations from Census Data
+2017/07/18	Dealing with Data Disasters: Simple Fixes
+2017/07/18	Find Music You Like By Using Data Science
+2017/07/19	How to deploy a Machine Learning model on AWS Lambda
+2017/07/19	Python Programming in 15 min Part 1
+2017/07/19	Unleash the value of PROCESS MINING
+2017/07/19	My two cents on what makes a good data scientist nowadays?
+2017/07/19	Can a deep neural network compose music?
+2017/07/19	Making a robot learn how to move, part 1 — Evolutionary algorithms
+2017/07/19	Soon or Later You Will Face This Problem
+2017/07/19	Thoughts on Adversarial Discriminative Domain Adaptation
+2017/07/19	Montreal painted by Huang Gongwang: Neural Style Networks
+2017/07/19	Which cat breed is this? A more complex test case for the cognitive computing
+2017/07/19	AI: Learning to Learn as Humans Do.
+2017/07/19	Clone a human driver’s behavior and mimic it for autonomous vehicle applications
+2017/07/19	All we need is love… or not?
+2017/07/20	How to Version Control your Machine Learning task — I
+2017/07/20	Predicting Logic’s Lyrics With Machine Learning
+2017/07/20	Master The Skill of Text Analytics And Be Successful
+2017/07/20	Introduction
+2017/07/20	Neural networks with optimal accuracy and speed in their predictions
+2017/07/20	The Semiotics of Trump
+2017/07/20	Approximating dynamic models of industrial robots with neural networks
+2017/07/20	Burning GPU while training DL model? These commands can cool it down.
+2017/07/20	The Role of Machine Learning in Making EHRs Worth It
+2017/07/20	5 e-commerce business challenges AI driven personalized marketing can solve
+2017/07/20	5 Machine Learning trivia that embody fluke, persistance & observation.
+2017/07/20	Statistics Is Freaking Hard : WTF Is Time Series — Part 3
+2017/07/21	How to define a Fitness Function in a Genetic Algorithm?
+2017/07/21	SELU — Make FNNs Great Again (SNN)
+2017/07/21	Bayesian Neural Networks with Random Inputs for Model Based Reinforcement Learning
+2017/07/21	Probability calibration for boosted trees
+2017/07/21	Game of Thrones Season Premiere Twitter Analysis
+2017/07/21	Using Data to Nudge Users Towards Your Ideal UX
+2017/07/21	Classifying Crisis Reports
+2017/07/21	On the Horizon: The Future of Marketing — and my test to see if it’s here.
+2017/07/21	Apple Wants Your Phone to See, too
+2017/07/21	Weekly Selection
+2017/07/21	An Overview of ResNet and its Variants
+2017/07/22	An Introduction to different Types of Convolutions in Deep Learning
+2017/07/22	Data Science Simplified Part 3: Hypothesis Testing
+2017/07/22	Python Programming in 15 min Part 2
+2017/07/22	Control Flow
+2017/07/22	Tflearn: Solving XOR with a 2x2x1 feed forward neural network in Tensorflow
+2017/07/22	Using FastText And SVD To Visualise Word Embeddings Instantly
+2017/07/22	A Basic Model for Machine Learning — an overview
+2017/07/22	Machine Learning application in IoT
+2017/07/22	Neural Networks In Action
+2017/07/22	State Government Policy On Opiate Abuse Treatment May Drive People to Google Shopping: a Data Visualization.
+2017/07/22	Start your data exploration with questions
+2017/07/22	Visualizing Everything I Know
+2017/07/22	A Computational Approach to Dickens’ Dynamic Character Networks
+2017/07/23	Machine Learning, NLP: Text Classification using scikit-learn, python and NLTK.
+2017/07/23	Ethics in Web Scraping
+2017/07/23	Artificial Intelligence: Understanding the Hype
+2017/07/23	Experiments with the CM1K Neural Net Chip
+2017/07/23	How does machine learning work? Like a brain!
+2017/07/23	Experiencing the “Science” in Data Science
+2017/07/23	Neural Networks: a Mixture of Experts with Attention
+2017/07/23	What do managers need to know about data science?
+2017/07/23	TensorFlow Object Detection, an overview of Facebook publications
+2017/07/23	5 Key Concerns of a Chief Data officer (CDO)
+2017/07/23	How fast can a Mercedes Benz car be tested and released? — A Kaggle Competition
+2017/07/24	[Learning Note] Single Shot MultiBox Detector with Pytorch — Part 1
+2017/07/24	SymSpell vs. BK-tree: 100x faster fuzzy string search & spell checking
+2017/07/24	ConvNets Series. Image Processing: Tools of the Trade
+2017/07/24	Visualising temperatures in Amsterdam as a heatmap in R — Part I
+2017/07/24	Neural Networks: Error-Prediction Layers
+2017/07/24	The Paradox of Deductive Reason in Data Science, Featuring Donald Trump’s Twitter Account
+2017/07/24	Data Curious 24.07.2017: A roundup of data stories, datasets and visualizations from last week
+2017/07/24	Machine learning introduction with linear regression and Gradient decent PART 1
+2017/07/24	Beyond the Bot
+2017/07/24	Kaggle Planet Challenge: Solution Outline
+2017/07/25	How do we teach a machine to program itself ? — NEAT learning.
+2017/07/25	Top 10 sectors making use of Big Data analytics
+2017/07/25	Metrics & Random Processes in Classification
+2017/07/25	The UK desperately needs a Radiology Artificial Intelligence Incubator
+2017/07/25	Organizing vs. Creating
+2017/07/26	AutoEncoders are Essential in Deep Neural Nets
+2017/07/26	[Learning Note] Single Shot MultiBox Detector with Pytorch — Part 2
+2017/07/26	Neural Networks and The Future of 3D Procedural Content Generation
+2017/07/26	How to setup Deep Learning environment on AWS GPU instance
+2017/07/26	Setting up our goal
+2017/07/26	Tensorflow Object Detection API — ECG analysis
+2017/07/26	Genetic Programming applied to AI Heuristic Optimization
+2017/07/26	Introduction
+2017/07/26	Sentence Simplification with Seq2Seq
+2017/07/26	Tensor2Tensor and One Model to Learn them all
+2017/07/26	Effect of Feature Standardization on Linear Support Vector Machines
+2017/07/26	When AI meets 3000-year-old Chinese Palmistry
+2017/07/26	Using Big Data to Identify Bike-Sharing Customers
+2017/07/26	AI: Track Me
+2017/07/26	Learning Distributions over Rewards leads to State-of-the-art in RL
+2017/07/26	How to take advantage of AI: 4 signs you’re ready to make the jump
+2017/07/27	Impact Of Artificial Intelligence And Machine Learning on Trading And Investing
+2017/07/27	SQL Tutorial: How To Write Better Queries
+2017/07/27	How To Survive Corporate Politics as A Data Scientist
+2017/07/27	[Learning Note] Single Shot MultiBox Detector with Pytorch — Part 3
+2017/07/27	Extracting Keywords From Short Text
+2017/07/27	My First Kaggle Competition
+2017/07/27	Python Programming in 15 min Part 3
+2017/07/27	Errors and Exception
+2017/07/27	Digital Marketing: The analytical edge
+2017/07/27	Implementing Supervised Learning Algorithm by Sklearn — Linear Regression
+2017/07/27	How Does a Computer Draw a Smooth Line?
+2017/07/27	Machine Intelligence in the Travel & Transportation Industry
+2017/07/27	Generalization in AI Systems
+2017/07/27	the anti-democratization of crowd based restaurant reviews
+2017/07/28	How to train your own Object Detector with TensorFlow’s Object Detector API
+2017/07/28	DIY AI: An old school matrix NN
+2017/07/28	Neural Networks: Problems & Solutions
+2017/07/28	Exploring the census income dataset using bubble plot
+2017/07/28	Visualising temperatures in Amsterdam as a heatmap in R — Part II
+2017/07/28	FADL2 L8: ‘Neural’ Artistic Style Transfer
+2017/07/28	When not to use Deep Learning ?
+2017/07/28	Here’s what I learned from writing, coding and designing my own longform data-driven feature story
+2017/07/28	Concrete Issues in AI Safety
+2017/07/28	Weekly Selection
+2017/07/28	How to train your own Object Detector with TensorFlow’s Object Detector API
+2017/07/28	Survival of the Fastest
+2017/07/28	Home Alone? Redefining privacy with Alexa, Echo and HomePod at home
+2017/07/29	Learning Rate Schedules and Adaptive Learning Rate Methods for Deep Learning
+2017/07/29	Shallow Understanding on Bayesian Optimization
+2017/07/29	What is a Decision Tree?
+2017/07/29	How to calculate statistical power for your meta-analysis
+2017/07/29	Optimizing ads yield in a multi-exchange scenario using reinforcement learning
+2017/07/29	The different roles in the data ecosystem
+2017/07/29	The promise of AI (A16z mini moocs)
+2017/07/29	Who are the homeless
+2017/07/30	Reinforcement Learning w/ Keras + OpenAI: DQNs
+2017/07/30	A wizard’s guide to Adversarial Autoencoders: Part 1, Autoencoder?
+2017/07/30	Data Science Simplified Part 4: Simple Linear Regression Models
+2017/07/30	In defense of Cheap Data Science
+2017/07/30	When Machine Learning meets Big Data
+2017/07/30	3 Things You Didn’t Know About Simple Linear Regression
+2017/07/30	Machine Learning: Goodbye Society as We Know It
+2017/07/31	Reinforcement Learning w/ Keras + OpenAI: Actor-Critic Models
+2017/07/31	A non-NLP application of Word2Vec
+2017/07/31	Pytorch Implementation of Perceptual Losses for Real-Time Style Transfer
+2017/07/31	Teaching code review to university students
+2017/07/31	Automated latitude/longitude fetcher using selenium
+2017/07/31	Milestones of Deep Learning
+2017/07/31	Data Curious 31.07.2017: A roundup of data stories, datasets and visualizations from last week
+2017/07/31	7 snarky tips for safety in data science
+2017/08/01	How to Become a Data Scientist (Part 1/3)
+2017/08/01	Can you hear me now? Far-field voice
+2017/08/01	Advanced Lane Detection for Autonomous Vehicles using Computer Vision techniques
+2017/08/01	A simple method to predict player performance using Fantasy Football data
+2017/08/01	A look over Game of Thrones
+2017/08/01	The insignificance of significance
+2017/08/01	IoT Development : A game of Orchestration
+2017/08/01	The Future of AI: Redefining How We Imagine
+2017/08/02	Deep Learning with Tensorflow: Part 2 — Image classification
+2017/08/02	Web scraping tutorial in R
+2017/08/02	Spam Classifier in Python from scratch
+2017/08/02	Setup and use Jupyter (IPython) Notebooks on AWS
+2017/08/02	Deep Learning with Tensorflow: Part 1 — theory and setup
+2017/08/02	Ensemble Methods in Machine Learning: What are They and Why Use Them?
+2017/08/02	Detecting facial features using Deep Learning
+2017/08/02	KMeans Clustering for Classification
+2017/08/02	Background
+2017/08/02	5 Radiology Artificial Intelligence companies to build and invest in (and none of them interpret medical images)
+2017/08/02	Support Vector Machines — A Brief Overview
+2017/08/02	Detecting bats by recognising their sound with Tensorflow
+2017/08/02	Learning Rate Scheduler
+2017/08/02	Using scikit-learn to find bullies
+2017/08/02	Know Your Data | Part 1
+2017/08/02	Collision Detection System using CoreML
+2017/08/02	Walking you through my experience with IAS
+2017/08/02	3 ways data quality impacts Predictive Analytics
+2017/08/02	Labelling instagram photos with Google Vision API
+2017/08/02	Our Feeble Human Brains are Terrible at Objective Analytics
+2017/08/02	Secure Data Marketplace and Distributed Deep Learning
+2017/08/03	12 situations data scientists will totally relate to
+2017/08/03	Political Partisanship: A look at the data
+2017/08/03	Sentiment Analysis of Transliterated Texts in Hindi and Marathi Languages
+2017/08/03	High Resolution Weather Data with R
+2017/08/03	Intro To Tensorflow
+2017/08/04	The mostly complete chart of Neural Networks, explained
+2017/08/04	Deep Learning with Tensorflow: Part 3 — Music and text generation
+2017/08/04	A Gentle Introduction To Neural Networks Series — Part 1
+2017/08/04	How to Price an AI Project
+2017/08/04	Beginner’s guide to Data Science — Python + Docker
+2017/08/04	Autoencoders — Bits and Bytes of Deep Learning
+2017/08/04	Which States are the Most Vegan? And, Which States aren’t (but really want to be)?
+2017/08/04	The Price is Right: Pricing Strategy — Part 1
+2017/08/04	Learn Spark for Big Data Analytics in 15 mins！
+2017/08/04	When Fitbit says “Your data belongs to you!”…
+2017/08/04	Python Data Visualization Tools
+2017/08/04	Hate Hadoop? Then You’re Doing It Wrong
+2017/08/04	How the Big Girls Build Machine Learning Products: A Talk Powered by Women in Product (Part I)
+2017/08/04	Who Wants a Global Solution for Music Data and Rights Management?
+2017/08/04	The Zuckerberg and Musk Dilemma
+2017/08/04	Weekly Selection
+2017/08/04	SQL Tutorial: How To Write Better Queries
+2017/08/04	The power of Artificial Intelligence across Facebook
+2017/08/05	Regression Models with multiple target variables
+2017/08/05	Data Science Simplified Part 5: Multivariate Regression Models
+2017/08/05	Building a real time object recognizer for iOS
+2017/08/05	Sudoku and Doing Your Best Work
+2017/08/05	Run or Walk (Part 1): Detecting Motion Activity with Machine Learning and Core ML
+2017/08/05	TensorFlow Photo x-Ray Object Detection with App Engine
+2017/08/05	Spark Machine Learning in Clojure
+2017/08/06	Numpy VS Tensorflow: speed on Matrix calculations
+2017/08/06	Where’s my Depth First Search Machine Learning?
+2017/08/06	How to create New Features using Clustering!!
+2017/08/06	A Data Science Career Survival Guide
+2017/08/06	We need to talk about ‘data’
+2017/08/06	Guide Your Next Property Investment in Africa with Data Science
+2017/08/07	Romance Novels, Generated by Artificial Intelligence
+2017/08/07	The truth behind Facebook AI inventing a new language
+2017/08/07	A wizard’s guide to Adversarial Autoencoders: Part 2, Exploring latent space with Adversarial Autoencoders.
+2017/08/07	Multi-state LSTMs for categorical features
+2017/08/07	The New Hot Take: Machine Learning is Racist
+2017/08/07	Book Review: Weapons of Math Destruction (Cathy O’Neil)
+2017/08/07	Data Curious 07.08.2017: A roundup of data stories, datasets and visualizations from last week
+2017/08/07	Wrestling the bad bots in e-commerce, the DIY recipe
+2017/08/08	Applied Deep Learning - Part 1: Artificial Neural Networks
+2017/08/08	Overview
+2017/08/08	What I’ve learned from studying Robotics in Japan for two weeks
+2017/08/08	How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020
+2017/08/08	Text Analytics is Not Rocket Science, Learn Them Now! — 7 Text Analytics Courses to Start
+2017/08/08	SQL: The one technical skill all non-technicals need to know
+2017/08/08	How dental clinics are solving their cancellation epidemic
+2017/08/09	What are Hyperparameters ? and How to tune the Hyperparameters in a Deep Neural Network?
+2017/08/09	Artificial Intelligence and the Rise of Economic Inequality
+2017/08/09	Google Object Detection API to detect Brand Logos Part 1
+2017/08/09	Low Precision Inference with TensorRT
+2017/08/09	Deep Learning at scale :- Accurate, Large Mini batch SGD:
+2017/08/09	Planning the path for a Self-Driving Car on a Highway
+2017/08/09	Classifying Marketplace Inventory at Scale With Machine Learning
+2017/08/09	Data Science Simplified Part 6: Model Selection Methods
+2017/08/09	Using Recurrent Neural Networks for Track Detection In Noise
+2017/08/09	Motivation
+2017/08/09	A brief introduction to Reinforcement Learning and Value functions
+2017/08/09	Creating a search engine for 18,000 Pitchfork album reviews
+2017/08/09	The duality of data: What qualitative data can do that Big Data cannot
+2017/08/09	My 1st Machine Learning Project PT1
+2017/08/09	Selling Analytics to your Stakeholders
+2017/08/09	A data-driven guide on choosing who to fly with
+2017/08/09	Machine Learning as a Service
+2017/08/10	Language Models: Spellchecking and Autocorrection
+2017/08/10	The Present and Future of Quantum Computing for AI
+2017/08/10	The Complete Guide on Learning Deep Learning
+2017/08/10	A Dummies’ Intro to Bioinformatics
+2017/08/10	Attention models in NLP a quick introduction
+2017/08/10	Machine Learning Meets Fantasy Football — Part 2
+2017/08/10	Data Science
+2017/08/10	How Big Data Can Impact Creativity in the Near Future
+2017/08/10	AI plays Asphalt using Neural Network.
+2017/08/10	Weekly Selection
+2017/08/10	Can you hear me now? Far-field voice
+2017/08/11	Number plate detection with Supervisely and Tensorflow (Part 1)
+2017/08/11	Deep Learning with Tensorflow: Part 4 — face classification and video inputs
+2017/08/11	Deep Learning — Andrew Ng Coursera Specialization
+2017/08/11	Deep Learning on the DigitalOcean Stack? Not Quite Yet
+2017/08/11	Starting off in Bioinformatics — DNA Nucleotides and Strands
+2017/08/11	Deep Learning Chapter 10: Sequence Modeling: Recurrent and Recursive Nets
+2017/08/11	How to build a dynamic garden using machine learning
+2017/08/11	On Being a Civic Data Scientist
+2017/08/11	‘Dear customer, I can feel you’ — from emotion detection to MVP
+2017/08/11	The first machine learning program I have made.
+2017/08/11	The Human Project
+2017/08/12	Data Mining
+2017/08/12	A little preface
+2017/08/12	TensorFlow : No idea where to begin?
+2017/08/12	Machine Reasoning: distinguishing features
+2017/08/13	Thoughts after taking the Deeplearning.ai courses
+2017/08/13	Pandas tips and tricks
+2017/08/13	Pandas Ufuncs and why they are so much better than apply command
+2017/08/13	Finding Similar Images using Autoencoders
+2017/08/13	Magic with Data | Titanic Survival Prediction
+2017/08/13	Practically Managing A Data Science Team
+2017/08/13	Instinct: neuro-evolution on steroids
+2017/08/13	Speeding up your code (1): the example of the mean shift clustering in Poincaré ball space
+2017/08/13	Summarizing Tweets in a Disaster
+2017/08/13	Starting off in Bioinformatics — Turning DNA sequences into Protein sequences
+2017/08/13	Deep learning weekly piece: testing autonomous driving (virtually)
+2017/08/13	Neural Network Benchmarks
+2017/08/13	Visualizing energy mix around the world
+2017/08/13	Be more profitable with a smarter sales report
+2017/08/14	An Intuitive Guide to Deep Network Architectures
+2017/08/14	Decision Trees and Random Forests for Classification and Regression pt.1
+2017/08/14	Highlights:
+2017/08/14	Run or Walk (Part 2): Collecting Device Motion Data the Right Way
+2017/08/14	“Career Change”: Wait, what?
+2017/08/14	Data Science Simplified Part 7: Log-Log Regression Models
+2017/08/14	Low Budgets and High Expectations: Machine Learning Startups
+2017/08/14	Patterns of Enterprise AI Architecture
+2017/08/14	Starting out with Haskell Tensor Flow
+2017/08/14	Nearest Neighbour Classifier
+2017/08/14	Data Curious 14.08.2017: A roundup of data stories, datasets and visualizations from last week
+2017/08/14	August Edition: When art meets data science
+2017/08/14	The inertia to unlearn is lethal, even more is a deep dive to a shallow pond
+2017/08/14	Collaborative Filtering for Morphing Applications
+2017/08/14	The Metrics of Meaning
+2017/08/14	Change with purpose: why I decided to join Neva
+2017/08/14	New path, same mission
+2017/08/15	Handwritten digit recognition with MNIST on iOS with Keras
+2017/08/15	Or: How to use a Keras deep learning neural…
+2017/08/15	Random Forest Learning-Essential Understanding
+2017/08/15	Deep learning and machine learning
+2017/08/15	AI + eSports: Thoughts on the Future
+2017/08/15	Digital Economics
+2017/08/15	Differentiable Neural Computers (DNCs) — Nature article thoughts
+2017/08/15	How to make devices smart
+2017/08/15	How I Learned to Stop Worrying and Love the Error
+2017/08/16	Training road scene segmentation on Cityscapes with Supervisely, Tensorflow and UNet
+2017/08/16	Boosting in Machine Learning and the Implementation of XGBoost in Python
+2017/08/16	Variational Auto Encoders
+2017/08/16	Gradient Descent, Back-Prop and derivatives
+2017/08/16	DrinkBots, New Technologies, and Ageism in Silicon Valley
+2017/08/16	Keep It Simple Stupid: Lesson in Model Selection
+2017/08/16	Tips for effective data science talks
+2017/08/16	AI and Creating the World’s Ultimate Chocolate Chip Cookies
+2017/08/16	Statistics is Freaking Hard: WTF is Activation function
+2017/08/16	77 paths to “Totality” and how I got there
+2017/08/16	Dealing with Dirty Data in your Learning Systems
+2017/08/16	How the Big Girls Build Machine Learning Products (Part II)
+2017/08/16	Multivariant Linear Regrssion The Code!!!
+2017/08/16	What AI means for Marketing!
+2017/08/17	Linear Regression: The Easier Way
+2017/08/17	5 Data Science, AI and Machine Learning Podcasts to Listen to Now
+2017/08/17	4 Things We Did Not Know About Text Analysis with SAP HANA
+2017/08/17	FaceApp; or, How I Learned to Stop Worrying and Love the Machines
+2017/08/17	Is machine learning open-ended?
+2017/08/17	In recent years, there have been some incredible achievements from…
+2017/08/17	Could Machine Learning & AI Lead to Less Job in Future?
+2017/08/17	Taxi to Funkhaus
+2017/08/17	Open-ended learning relies on nonphysical phenomena
+2017/08/17	Logical Units for Data
+2017/08/17	Machines Learn to Discover Drugs and Medicines
+2017/08/18	Radial Basis Functions Neural Networks — All we need to know
+2017/08/18	Starting off in Bioinformatics — RNA Transcription and Translation
+2017/08/18	Data Mining
+2017/08/18	Map Your Big Data Journey: Five Key Phases to Watch For
+2017/08/18	Failure to launch: IT, we have a (self-service) problem!
+2017/08/18	Found This Week #68
+2017/08/18	Weekly Selection
+2017/08/19	The 3 popular courses on DeepLearning
+2017/08/19	A wizard’s guide to Adversarial Autoencoders: Part 3, Disentanglement of style and content.
+2017/08/19	The Problem with Back-Propagation
+2017/08/19	Genre Essentials — Building an Album Recommender System
+2017/08/19	The Idea
+2017/08/19	Gradient Descent with Free Monads
+2017/08/19	Tensor Flow Object Detection over Telegram Bot, my breakfast, fruits and an interactive conversation
+2017/08/19	Data Science Simplified Part 8: Qualitative Variables in Regression Models
+2017/08/20	How Do Machine Learning Algorithms Learn Bias?
+2017/08/20	A Survey of Deep Learning Frameworks
+2017/08/20	Important resources if you are working with Neural Style Transfer or Deep Photo Style Transfer
+2017/08/20	Unsupervised Learning of Gaussian Mixture Models on a SELU auto-encoder (Not another MNIST)
+2017/08/20	Deep Learning: Regularization Notes
+2017/08/20	Introduction to Recurrent Neural Network
+2017/08/20	How to Scrape Javascript Rendered Pages with ParseHub
+2017/08/20	Events
+2017/08/20	How Can I Write Better Articles on AI?
+2017/08/20	A textual portrait of alien spaceships
+2017/08/21	YOLO — You only look once, real time object detection explained
+2017/08/21	Linear Regression in Python
+2017/08/21	[Lecture] How to build a recognition system (Part 1): best practices
+2017/08/21	[Lecture] Evolution: from vanilla RNN to GRU & LSTMs
+2017/08/21	Artificial intelligence: what it is and how the technology can be used in a business environment
+2017/08/21	COUNTLESS — High Performance 2x Downsampling of Labeled Images Using Python and Numpy
+2017/08/21	Curated list Machine Learning and NLP resources for healthcare
+2017/08/21	Data Curious 21.08.2017: A roundup of data stories, datasets and visualizations from last week
+2017/08/21	Why Alphabet’s AI Cannot Identify Hate Speech
+2017/08/21	The Dangers of Claims Based on Claims
+2017/08/21	AI Consulting & The Reverse Marshmallow Experiment
+2017/08/21	Avinash Kaushik On Machine Learning And Artificial Intelligence For Marketing — This Week’s Six Pixels Of Separation…
+2017/08/21	Is it good? I like what’s good
+2017/08/21	School holidays, machine learning and robots that are learning to “see”
+2017/08/22	Visualizing your Exploratory Data Analysis
+2017/08/22	Making a robot learn how to move, part 2 – reinforcement learning in the real, wild world
+2017/08/22	“Galvanizing” my skills
+2017/08/22	What Is Idiosyncratic Alpha?
+2017/08/22	People are talking about “reproducibility crises” and “p-values” and I feel like I should understand but my eyes are…
+2017/08/22	Connecting the dots for a Deep Learning App …
+2017/08/22	Computer vision concepts and terminology
+2017/08/22	Root Cause Analysis or Six Sigma DMAIC
+2017/08/22	Vaccines and Data Science a Future?
+2017/08/22	Are physicians worried about computers machine learning their jobs?
+2017/08/22	How creative partnerships are set to transform Syracuse one block at a time
+2017/08/22	Has Your Data Been Corrupted?
+2017/08/22	A Systematic Approach to Deriving Unknown Rules
+2017/08/22	Inside Phosphorus: Meet Roman Shraga, Data Scientist!
+2017/08/23	Recognising Traffic Signs With 98% Accuracy Using Deep Learning
+2017/08/23	Secret Sauce behind the beauty of Deep Learning: Beginners guide to Activation Functions
+2017/08/23	MongoDB vs Pandas
+2017/08/23	Teaching data science is broken
+2017/08/23	5 Essential Steps to get your Predictive Analytics initiative right.
+2017/08/23	Tracking for Good
+2017/08/23	How to Explore US University Ranks 2017 at the Command-line? (Part I — Data Preview)
+2017/08/23	Unsupervised analysis of current and potential trends in metabolomics through data mining of abstracts
+2017/08/23	Exploring the Data Jungle
+2017/08/23	The (Unchanging) Statistics of Deadly Quarrels
+2017/08/24	Data Correlation can make or break your Machine Learning Project
+2017/08/24	Version Control for Jupyter Notebook
+2017/08/24	What is Machine Learning?
+2017/08/24	Build Neural Network From Scratch — Part 2
+2017/08/24	All the news
+2017/08/24	Image Tagging with Keras in TensorFlow 1.3
+2017/08/24	Examining FiveThirtyEight’s Soccer Power Index Ratings
+2017/08/24	Machine Learning : What & Why Part 2
+2017/08/24	My First Step For Deep Learning Adventure With Udacity And Coursera
+2017/08/24	Framing the hunt…
+2017/08/24	A ghost in the neural network?
+2017/08/24	Machine Learning 101 | TELUS’ Data Scientist Explains
+2017/08/24	From buyer personas to career personas in data science
+2017/08/24	Is That AI in Your Pocket?
+2017/08/24	‘HEROES’: The Future of IT Infrastructure
+2017/08/25	DenseNet
+2017/08/25	Sizing Up: Market Sizing for Your Business
+2017/08/25	Self Driving Cars, The Most Hyped Thing Since…The Segway?
+2017/08/25	Big Data will be biased, if we let it
+2017/08/25	CDN — Content Delivery Networks
+2017/08/25	What?
+2017/08/25	GSoC-2017 : Working on Anomaly Detection at CERN-HSF
+2017/08/25	Data Visualization with D3.js & Dimple
+2017/08/25	What Makes Automatic Emotion Detection So Powerful?
+2017/08/25	Creative Artificial Intelligence in Music: Genius Innovation for Sync and Other Fascinating Use Cases
+2017/08/25	Artificial Intelligence is Child’s Play
+2017/08/25	Weekly Selection
+2017/08/26	Linear Regression with example
+2017/08/26	What is machine learning and Linear Regression for layman
+2017/08/26	Machine Learning Part 3 : Logistic Regression
+2017/08/26	Assemble an amazing deep learning machine at home for less than $1,500
+2017/08/26	Machine Learning : Decision Tree using Spark For Layman
+2017/08/26	Objective
+2017/08/26	Solving “only 1% can answer this” Problems With Machine Learning
+2017/08/26	Are Racist Landlords Discriminating Against Latinos in LA?
+2017/08/26	Finding the Percent of Colleges in the US University Ranks 2017 at the Command-line (Part II — grep and wc)
+2017/08/26	The ‘vendor flamability acid test’
+2017/08/27	Contextual Bandits and Reinforcement Learning
+2017/08/27	Fantasy Football + Artificial Intelligence Cheat Sheet!
+2017/08/27	A wizard’s guide to Adversarial Autoencoders: Part 4, Classify MNIST using 1000 labels.
+2017/08/27	Neural network for satellite image segmentation
+2017/08/27	Object Localization in Overfeat
+2017/08/27	Moving into Data Science as a Career (Mathematical Models)
+2017/08/27	Data Science Simplified Part 9: Interactions and Limitations of Regression Models
+2017/08/27	Einstein Platform: Fuel for AI-enabled World
+2017/08/27	How to get Started with Metrics in 5 steps
+2017/08/27	Game Playing
+2017/08/28	Background removal with deep learning
+2017/08/28	Machine Learning 101 | Supervised, Unsupervised, Reinforcement & Beyond
+2017/08/28	A brief introduction to Neural Style Transfer
+2017/08/28	Taylor Swift vs Artificial Intelligence: Who’s Better?
+2017/08/28	Cross- Validation Code Visualization: Kind of Fun
+2017/08/28	Experiments on different loss configurations for style transfer
+2017/08/28	Meme search using pretrained word2vec
+2017/08/28	Summarizing Tweets in a Disaster (part II)
+2017/08/28	Data Curious 27.08.2017: A roundup of data stories, datasets and visualizations from last week
+2017/08/28	Job Postings — A Riddle…
+2017/08/28	13 great reasons why data analytics can boost your business growth
+2017/08/28	Why most companies are missing out on the data revolution (and what they can do to keep up)
+2017/08/28	GSoC 2017 : Eclipse plugin for Siddhi Documentation
+2017/08/28	WTF is agile risk analytics?
+2017/08/29	Software Architecture Patterns
+2017/08/29	Yet another text generation project
+2017/08/29	How to Level Up as a Data Scientist (Part 1)
+2017/08/29	TensorFlow + Jupyter Notebook + Nvidia DIY Setup
+2017/08/29	The way I’m learning Data Science (and why I think you should use it)
+2017/08/29	Geospatial Data — A Datum Primer
+2017/08/29	A Success/Failure method for Analytics
+2017/08/29	Global Terror and the EDA Visualization Rabbit Hole
+2017/08/29	Instagram user activity data provided for in-depth analytics by Snoopreport service
+2017/08/29	Daily Root Cause Analysis
+2017/08/30	T-test using Python and Numpy
+2017/08/30	Understanding the kernel trick.
+2017/08/30	How much mathematics does an IT engineer need to learn to get into data science/machine learning?
+2017/08/30	When Cross Validation Fails
+2017/08/30	Practical techniques for getting style transfer to work
+2017/08/30	Predicting Home Prices in Ames, Iowa
+2017/08/30	Coursera — Machine Learning Review
+2017/08/30	Book Review: Data Science for Business
+2017/08/30	Checking out dimensionality reduction with t-SNE
+2017/08/30	How to build data products that increase user engagement
+2017/08/30	4 things to know before you start using Google for your Web Analytics
+2017/08/30	11 Ecommerce Marketing Trends You Need to Know Right Now [Updated November 2017]
+2017/08/30	Exploring the US University Ranks 2017 at the Command-line (Part III — cut, sort and uniq)
+2017/08/30	Shift left: empowerment as-a-service part 2 AI-driven automation
+2017/08/30	Better Software Product Roadmaps: Usage Analytics Use Cases
+2017/08/31	The 7 Steps of Machine Learning
+2017/08/31	DNA Sequence Data Analysis — Starting off in Bioinformatics
+2017/08/31	Humanities Graduates Should Consider Data Science
+2017/08/31	Which European Countries are Overrun with Tourists? A Data Story
+2017/08/31	What it Means to “Do” Math in Data Science
+2017/08/31	DIY (Part 1): How to Create Your Own .NET Bot
+2017/08/31	A Deep Dive into The Internet of Things
+2017/08/31	Telling Stories With Data is the New Business Acumen
+2017/08/31	What grocery shopping taught me about chatbots
+2017/08/31	Back to school with HR Analytics
+2017/08/31	Brand Building With Data
+2017/08/31	30 Things I learned at MLHC 2017
+2017/09/01	Applied Deep Learning - Part 2: Real World Case Studies
+2017/09/01	Overview
+2017/09/01	Neural Networks Part 2: Implementing a Neural Network function in python using Keras
+2017/09/01	Applied Text-Classification on Email Spam Filtering [Part 1]
+2017/09/01	Dating apps bet machine learning will help you find love
+2017/09/01	Getting Started With Behavioral Analytics
+2017/09/01	The Amazing Impact of Reinforcement Learning
+2017/09/01	Top 3 Skills : Which Works Best In People Management ?
+2017/09/01	Draw Conclusions Early With IncVisage
+2017/09/01	Weekly Selection
+2017/09/01	Background removal with deep learning
+2017/09/02	Pairwise Sequence Alignment using Biopython
+2017/09/02	Scalable Web Development
+2017/09/02	Game theory — Minimax
+2017/09/02	Powerlifting Data and Exploratory Data Analysis Part 1
+2017/09/02	Why am I Chucking the Tensorflow Queue based Data Input Pipeline
+2017/09/02	Decoding AI
+2017/09/02	An Introduction…
+2017/09/03	A Beginners Guide to Natural Language Processing
+2017/09/03	Experiments with a new kind of convolution
+2017/09/03	Road scene understating using Deep Learning
+2017/09/03	Universal Basic Income Is Necessary Because Of This Unbelievably Unique Reason
+2017/09/03	A Data Science Exercise: how similar is Trump to other Presidents based on Inaugural Speeches?
+2017/09/03	What is the who, where, and when of an education in Data Science?
+2017/09/03	Good Enough Data Science
+2017/09/03	Attention Business Leaders: How Will You Be Disrupted?
+2017/09/04	10 Common Software Architectural Patterns in a nutshell
+2017/09/04	How To Apply Data Science To Real Business Problems
+2017/09/04	AI Planning Historical Developments
+2017/09/04	Run or Walk (Part 3): >99% Accuracy Neural Network Classifier for Detecting Motion Activity
+2017/09/04	Usage patterns of Dublin Bikes stations
+2017/09/04	Interactively analyse 100GB of JSON data with Spark
+2017/09/04	Our Artificial Intelligence Startup
+2017/09/04	5 Data Mining Techniques Businesses Need To Know About
+2017/09/04	Stories in Data: It’s Showtime Folks!
+2017/09/04	You Have Data. Here’s How To Use It To Beat 95% of the competition
+2017/09/04	“Cherchez la Tech” or how to increase your chances of spotting the Google of today
+2017/09/05	What metrics should be used for evaluating a model on an imbalanced data set? (precision + recall or ROC=TPR+FPR)
+2017/09/05	The Top 3 Ways Blockchain Matter in the Future
+2017/09/05	Doing EDA on a classification project? pandas.crosstab will change your life.
+2017/09/05	On-premise (DIY) vs Cloud GPU
+2017/09/05	How ‘deep’ should it be to be called Deep Learning?
+2017/09/05	New Yorkers Should Learn to Get Along With Rats Because They’re Not Leaving: A Data Visualization.
+2017/09/05	The Order of Musical Things
+2017/09/05	Track Your Website Statistics with Google Analytics Tracking Code
+2017/09/05	Are you ready to start tracking…
+2017/09/05	MLiterature: Regression Evaluations (R squared)
+2017/09/05	My Perspective On What It Takes To Be A Great Leader ?
+2017/09/05	September Edition: Image Recognition
+2017/09/05	Angling for a Raise? 3 Reasons a Professional Certification Can Get You There
+2017/09/06	Activation Functions: Neural Networks
+2017/09/06	5 methods to remove the ‘$’ from your data in Python, and the fastest one
+2017/09/06	Linear Regression
+2017/09/06	The Simply Deep, Yet Convoluted World of Supervised vs Unsupervised Learning
+2017/09/06	Elements of a Data Scientist’s Salary
+2017/09/06	Herding the wranglers
+2017/09/07	Linear Regression Using Gradient Descent in 10 Lines of Code
+2017/09/07	Word vectors for non-NLP data and research people
+2017/09/07	Plain and Simple Estimators
+2017/09/07	8 Years On, Amsterdam is Still Leading the Way as a Smart City
+2017/09/07	The Startup Capital of Europe is a Hub…
+2017/09/07	The first Ghost of Experimentation: It’s either significant or noise
+2017/09/07	The Limits of Data Science
+2017/09/07	Moving into Data Science as a Career (Data & IT Management)
+2017/09/07	Machine Learning Types #2
+2017/09/07	How old am I?
+2017/09/07	Chasing Statistical Ghosts in Experimentation
+2017/09/07	Introduction to Machine Learning #1
+2017/09/07	Finding the pattern of food
+2017/09/07	Concerning Climate
+2017/09/07	Crowdsourcing in Practice: Our Findings
+2017/09/07	Is Your Business Ready for Artificial Intelligence (AI)?
+2017/09/07	The most important part of machine learning is not the machine
+2017/09/07	Data visualization of trains connecting megacities of India
+2017/09/07	Basics of Hadoop
+2017/09/07	How can analytics and AI allow marketers to predict the future?
+2017/09/08	Running Jupyter Notebook on Google Cloud Platform in 15 min
+2017/09/08	Build and Setup Your Own Deep Learning Server From Scratch
+2017/09/08	Running Random Forests? Inspect the feature importances with this code.
+2017/09/08	Implementing K-Nearest Neighbors in scikit-learn
+2017/09/08	Computer Vision in Sports
+2017/09/08	Reinforcement learning .
+2017/09/08	Python Seaborn Cheat Sheet For Statistical Data Visualization
+2017/09/08	What is data science and what is it not?
+2017/09/08	Familiarization of Sequence to Sequence model in Deep Learning
+2017/09/08	3 Things you must know about Semantic Search Technology
+2017/09/08	Nigeria’s Most Stressed Out States
+2017/09/08	Weekly Selection
+2017/09/08	Configure Zeppelin with Big SQL
+2017/09/08	The Cure for Analytics Overload
+2017/09/09	What the Hell is Perceptron?
+2017/09/09	A Brief Review of FlowNet
+2017/09/09	Man Vs. Machine: Understanding the Perils of Artificial Intelligence
+2017/09/09	AI and predictive analytics: What does the future hold?
+2017/09/09	Where people are most interested in Data Visualization and Data Science
+2017/09/09	What is data science and How it helps companies to reinvent their business?
+2017/09/09	Concept of the Week: Let Artificial Intelligence tell you how good is your look
+2017/09/10	Under The Hood of Neural Network Forward Propagation — The Dreaded Matrix Multiplication
+2017/09/10	Artificial Intelligence Fundamentals : Making Machine Intelligent
+2017/09/10	Humans And Machines:
+2017/09/10	The mystery of True Positive, True Negative, False Positive and False Negative
+2017/09/10	Machine Learning Techniques Applied to Cyber Security
+2017/09/10	NEURAL NETWORKS DEMYSTIFIED 1: Classification Problems
+2017/09/10	Get Ready To Never Trust Anything On The Internet Ever Again
+2017/09/10	Visualizing the Indian Railways in 3D
+2017/09/10	How AI is Changing PR
+2017/09/10	Visualizing the pedestrian flow through IIT Bombay (Main gate)
+2017/09/11	Deep Learning for Object Detection: A Comprehensive Review
+2017/09/11	Scikit-Learn for Text Analysis of Amazon Fine Food Reviews
+2017/09/11	The Internet of Things — on Twitter
+2017/09/11	The future of AI: Deep Learning… or much more?
+2017/09/11	“…We aren’t in Kansas anymore” — Interviewing Struggles
+2017/09/11	How machine learning might help millennials buy a house and inherit the future
+2017/09/11	Using Statistics for Data Driven Decisions
+2017/09/11	The Future of Smart Storytelling
+2017/09/11	5 Powerful Lessons to Improve How Machine Learning Can Answer Critical Business Questions
+2017/09/11	Interesting stuff of AI, Machine learning, and Deep Learning 2017–09 #2
+2017/09/11	A List of Chip/IP for Deep…
+2017/09/11	Top 3 Keys to Leading a Successful Data Analytics Initiative
+2017/09/11	Reflecting the human side of Analytics: Humans of Analytics
+2017/09/11	7 THINGS YOU PROBABLY DIDN’T KNOW ABOUT AI
+2017/09/11	Preserving Our Better Legislators with Data
+2017/09/12	A Brief Overview of Outlier Detection Techniques
+2017/09/12	How To Ace Data Science Interviews: SQL
+2017/09/12	Data Science Jobs for Computer Science Students, Grads, and Software Engineers
+2017/09/12	How Organizations gain from a Technology driven Big Data strategy?
+2017/09/12	How can Small and Medium…
+2017/09/12	Future-Proof Your Startup: Data Network Effects in Healthcare
+2017/09/12	Mining the HEP-Inspire database
+2017/09/12	Distributional semantics — Reading between the lines
+2017/09/13	Logistic Regression using Python (scikit-learn)
+2017/09/13	Meet The Heroes Of Deep Learning
+2017/09/13	Deep Learning
+2017/09/13	PyTorch: First program and walk through
+2017/09/13	Understanding basics of machine learning through Super Mario
+2017/09/13	Understanding Google Analytics Reports
+2017/09/13	When was this poem written? My computer can tell you
+2017/09/13	The most difficult thing in data science: politics
+2017/09/13	Importance of Understanding the Differences Between Analytics, Analysis and Reporting
+2017/09/13	Data Curious 13.09.2017: A roundup of data stories, datasets and visualizations from last week
+2017/09/13	AI: An explanation from a parenting perspective
+2017/09/13	Scraping a list of Singapore Michelin-star restaurants
+2017/09/13	The Netrrobility is a Newsigation of Exactual¹
+2017/09/14	Scala vs Kotlin: Practical Considerations for the Pragmatic Programmer
+2017/09/14	How we deployed a scikit-learn model with Flask and Docker
+2017/09/14	Deep Learning II L9: Generative Models
+2017/09/14	Logistic Regression
+2017/09/14	Business Process Management Meets Data Science
+2017/09/14	Hi, we are The Data Science Interview!
+2017/09/14	Do You Know Which Customers Are Likely To Cancel Tomorrow? (Non-Technical Guide To Churn Prediction)
+2017/09/14	Coding in the open
+2017/09/14	Veterinary Data: Your Untapped Commodity
+2017/09/15	SQL Recap for Interviews
+2017/09/15	Event Driven Architecture Pattern
+2017/09/15	Databases — SQL and NoSQL
+2017/09/15	Compute vision: hard times with TFLearn
+2017/09/15	Berkeley RISECamp: Deploying Deep Distributed AI at Scale
+2017/09/15	The Shock of the New: Artificial Intelligence & The Future of Digital Marketing
+2017/09/16	Teaching Cars To Drive Using Deep Learning — Steering Angle Prediction
+2017/09/16	How I Built a Recommendation System for Fragrance
+2017/09/16	How to Compete for Zillow Prize at Kaggle
+2017/09/16	Data Science to evaluate ICOs
+2017/09/16	A manager’s day job isn’t in front of a screen…
+2017/09/17	The Ten Fallacies of Data Science
+2017/09/17	Jupyter Notebooks are Breathtakingly Featureless — Use Jupyter Lab
+2017/09/17	How Did We Build Book Recommender Systems in an Hour Part 1 — The Fundamentals
+2017/09/17	Full Stack Basics for Data Scientists and Other Non-Web Developers, Part 2: jQuery, D3, AJAX and Flask
+2017/09/18	Intro To Data Analysis For Everyone! Part 1
+2017/09/18	Life after a PhD: ❤️ the “option B”, leaving
+2017/09/18	Churn Prediction with Machine Learning
+2017/09/18	Data Science Simplified Part 10: An Introduction to Classification Models
+2017/09/18	10 hot trends of Big Data Analytics for 2017
+2017/09/18	How to use a machine learning model on iOS 11 using Core ML
+2017/09/18	3 “Hacks” That Could Change the World
+2017/09/18	Artificial Intelligence vs. Machine Learning
+2017/09/18	How long will PUBG last as number one in Twitch?
+2017/09/18	What Is Machine Learning, And How Can It Help Your Business?
+2017/09/18	Analytics Best Practices — Agile Data Science
+2017/09/18	[ML] Formal Framework — Preliminaries
+2017/09/18	Quarterbacks
+2017/09/19	ConvNets Series. Spatial Transformer Networks
+2017/09/19	Artificial Intelligence: Get your users to label your data
+2017/09/19	Neural Networks: Is Your Brain Like A Computer?
+2017/09/19	Fake News Classifier (using LSTMs)
+2017/09/19	Predicting Web Traffic on Wikipedia
+2017/09/19	Live Kaggle Competition
+2017/09/19	How we visualize data at Amino
+2017/09/19	Three Reasons Why Rapid Improvement Teams Are Good For Your Organization
+2017/09/19	The Genesis of Data Science
+2017/09/19	Is Your Organization Ready for Advanced Analytics?
+2017/09/19	How can you tell that your ready for advanced…
+2017/09/20	How Did We Build Book Recommender Systems in An Hour Part 2 — k Nearest Neighbors and Matrix Factorization
+2017/09/20	What Makes a Successful Kickstarter Campaign?
+2017/09/20	The toolkit for the modern data ninja
+2017/09/20	GENERATIVE ADVERSERIAL NETWORKS & SEMI-SUPERVISED LEARNING
+2017/09/20	INTRO
+2017/09/20	Hurricane Harvey InsurTech Case Study; visual intelligence is transforming claim response times.
+2017/09/20	Interesting stuff of AI, Machine learning, and Deep Learning 2017–09 #3
+2017/09/20	A List of Chip/IP for Deep…
+2017/09/20	Consulting? Why Consulting?
+2017/09/20	Music targeting: the new Eldorado for brands?
+2017/09/20	Data Curious 20.09.2017: A roundup of data stories, datasets and visualizations from last week
+2017/09/20	Machine Learning — Emerging Technologies Newsletter — September 19 2017
+2017/09/20	Third day around the sun (or one foot off the edge of the deep dive)
+2017/09/20	Considering the Craters of Mars
+2017/09/20	Generating Your Own Fashion Line in 1 Click
+2017/09/21	Difference between Batch Gradient Descent and Stochastic Gradient Descent
+2017/09/21	Using APIs & Google Sheets To Assess Fantasy Premier League Prospects
+2017/09/21	Visualizing your model using TensorBoard
+2017/09/21	10 Must-read Books on Data Science, Analytics, and Big Data
+2017/09/21	Use of Text Retrieval and Search Engines technology for tax classification
+2017/09/21	The use of the techniques of Information Retrieval and AI (Artificial Intelligence) to aid the fiscal classification (Text…
+2017/09/21	The Beginning of Something Great: The Vega Intelligent Design
+2017/09/21	Data Visualization Software for Business Impact
+2017/09/22	Building a Toy Detector with Tensorflow Object Detection API
+2017/09/22	Multiple Sequence Alignment using Clustal Omega and T-Coffee
+2017/09/22	10 Things to Think About Before Starting to Code Your Deep Neural Network
+2017/09/22	Do women have it easier on Twitch?
+2017/09/22	From Middle-Aged Mom To Coding Mentee: Reinvention through Tech
+2017/09/22	Normalized center loss for language modeling
+2017/09/22	Jupyter Notebook Cheat Sheet
+2017/09/22	Fibre optic neural network
+2017/09/22	Big data and the travel industry: How marketers can get more from their data
+2017/09/22	Vectors let you see what 3D Glasses can’t?
+2017/09/22	Weekly Selection
+2017/09/22	Top 9 Customer Experience Trends to Stay Competitive
+2017/09/23	Epoch vs Batch Size vs Iterations
+2017/09/23	Very simple Python script for extracting most common words from a story
+2017/09/23	What are the recurring topics in TED
+2017/09/24	Two cool features of Python NumPy: Mutating by slicing and Broadcasting
+2017/09/24	Create an Azure Machine Learning Web Service with Python and Azure DSVM
+2017/09/24	Academic ecosystem is damaged, here’s how we should restore it
+2017/09/24	Inter-rater agreement Kappas
+2017/09/24	Culture Mapping in the Age of Ambiguity
+2017/09/24	Machine Learning without Data Preparation == Cooking without Fire
+2017/09/24	Reflecting on wisdom, when experience is your teacher
+2017/09/24	Charting the UK Events Scene
+2017/09/25	A Gentle Introduction on Market Basket Analysis — Association Rules
+2017/09/25	PyTorch tutorial distilled
+2017/09/25	Solving the Multi-Armed Bandit Problem
+2017/09/25	DeepSchool.io: Deep Learning Learning
+2017/09/25	Soft Skills are the Decisive Factor in Hiring Great Data Scientists
+2017/09/25	Predicting Dengue Fever with Python: Look at the Weather
+2017/09/25	Sequence to Sequence Learning
+2017/09/25	Fraud analytics: Technology can make fraud detection affordable
+2017/09/25	Data Curious 25.09.2017: A roundup of data stories, datasets and visualizations from last week
+2017/09/25	Chapter 4: Azure Batch HPC, Learning 20 Million Ratings in 20 Seconds
+2017/09/25	Consulting — Trial by fire
+2017/09/25	10 online security blunders to avoid
+2017/09/26	How to choose effective MOOCs for machine learning and data science?
+2017/09/26	Using Scrapy to Build your Own Dataset
+2017/09/26	How to train a Tensorflow face object detection model
+2017/09/26	Understanding a TensorFlow program in simple steps.
+2017/09/26	10 Key Technologies that enable Big Data Analytics for businesses
+2017/09/26	The current trends in Artificial Intelligence
+2017/09/26	Intro To Data Analysis For Everyone, Part 2
+2017/09/26	Pour Another Coffee! — Why ALL Businesses Will Become Data Businesses
+2017/09/26	Moving into Data Science as a Career (Domain Expertise)
+2017/09/26	Data Analyst through Self-Directed Learning
+2017/09/26	What data science concepts should be more widely known and why?
+2017/09/27	Interactive Visualizations In Jupyter Notebook
+2017/09/27	The Only Theorem Data Scientists Need To Know
+2017/09/27	Machine Learning Is Disrupting the Accounting Industry
+2017/09/27	Quantum Machine Learning
+2017/09/27	Finding the Characteristics of TED talks
+2017/09/27	A Driverless World
+2017/09/27	Reducing Skills Gap in the City of New York
+2017/09/27	The Rise of Artificial Intelligence in Creative Marketing Roles
+2017/09/28	Stan vs PyMc3 (vs Edward)
+2017/09/28	What are Product Recommendation Engines? And the various versions of them?
+2017/09/28	What is product…
+2017/09/28	Training an Agent to beat Grid World
+2017/09/28	How five businesses are using AI and big data today
+2017/09/28	Sentiment analysis on US Twitter Airline dataset — 1 of 2
+2017/09/28	Estimators revisited: Deep Neural Networks
+2017/09/28	Understanding How Machines Understand Us
+2017/09/28	Is this the first computer visualization?
+2017/09/28	Find Out What Celebrities Tweet About the Most
+2017/09/28	Did National Anthem Protests Cause Your Area Sports Team to Lose?: A Statistical Analysis
+2017/09/28	Marketing Multi-Channel Attribution model based on Sales Funnel with R
+2017/09/28	Machine learning and visual search: Who is getting it right?
+2017/09/29	Building A Logistic Regression in Python, Step by Step
+2017/09/29	Image Captioning in Deep Learning
+2017/09/29	Do Data Science Faster
+2017/09/29	Speeding up your code (3): batches and multithreading
+2017/09/29	Exploring Data Science as a hobby
+2017/09/29	Amsterdam’s Environmental Saviour: The Circular Economy
+2017/09/29	Saving Energy And Reducing CO2 Is Not Enough…
+2017/09/29	Strongly-Typed Recurrent Neural Networks
+2017/09/29	Language Independent Document Clustering
+2017/09/29	The Occupation of TED speakers
+2017/09/29	A grad’s view: Solving real problems
+2017/09/29	Weekly Selection
+2017/09/30	Deep Learning in Finance
+2017/09/30	[Learning Note] Dropout in Recurrent Networks — Part 2
+2017/09/30	How can data spur innovation?
+2017/10/01	Jupyter Data Science Stack + Docker in under 15 minutes
+2017/10/01	Discovering similarities across my Spotify music using data, clustering and visualization
+2017/10/01	How I got ~98% prediction accuracy with Kaggles Titanic Competition
+2017/10/01	Sequence to sequence tutorial
+2017/10/01	Mississippi: Dental Opioid Epicenter of 2014
+2017/10/01	Quick notes on Strata 2017 NYC
+2017/10/01	I now understand why tensorflow is a big deal
+2017/10/01	The Complete Guide to Superfluous ‘Holidays’
+2017/10/01	Sunday Morning Insight: The Demise of Cassini and the Rise of Artificial InteIligence
+2017/10/02	ML notes: why the Least Square Error?
+2017/10/02	How Does a Recommendation Engine Really Work?
+2017/10/02	Data Science Simplified Part 11: Logistic Regression
+2017/10/02	Learning Data Science — Part 1: MOOC, Youtube, Ted
+2017/10/02	Recsys 2017
+2017/10/02	It Only Takes One Line of Code to Run Regression
+2017/10/02	Weather Data, Plot, and Code
+2017/10/02	Train AI to Play Snake in Your Browser
+2017/10/02	Beginner Python Hacks
+2017/10/02	Is Airbnb pushing locals away from city centers? A study with k-nearest neighbours
+2017/10/02	25 Lights
+2017/10/02	Meeting Challenges in pursuing a career in Deep Learning
+2017/10/02	Solving the Hunter-Prey problem as a single-agent problem
+2017/10/02	First weekend at Applied Data Science 2017
+2017/10/02	Diamonds in the Rough…Call to Action
+2017/10/02	AI shalt not kill
+2017/10/03	Applied Deep Learning - Part 3: Autoencoders
+2017/10/03	Overview
+2017/10/03	Creating an IOS app with Core ML from scratch!
+2017/10/03	How to choose a Data Science Job.
+2017/10/03	[Learning Note] Dropout in Recurrent Networks — Part 3
+2017/10/03	Setting up your Visual Studio Code Tools for AI
+2017/10/03	Move Your Cursor with Webcam Using Tensorflow Object Detection API
+2017/10/03	What I learned about Convnet from Fast.ai lesson 4
+2017/10/03	Data Does Not Have Intrinsic Value
+2017/10/03	Sentiment analysis on US Twitter Airline dataset — 2 of 2
+2017/10/03	Data Curious 02.10.2017: A roundup of data stories, datasets and visualizations from last week
+2017/10/03	The art of value creation
+2017/10/03	Not So Fast: Analytics, Disruption, and Organizational Change
+2017/10/03	Sentiment Analysis: Justin Trudeau’s Tweets
+2017/10/04	How data scientists can convince doctors that AI works
+2017/10/04	What I Learned From Analyzing and Visualizing Traffic Accidents Data
+2017/10/04	Overview
+2017/10/04	The Time Has Come to Use Artificial Intelligence In Governance
+2017/10/04	How Much is Your Web Analytics Data Worth?
+2017/10/04	October Edition: Text Understanding
+2017/10/04	Many models in many languages
+2017/10/04	Use of t-SNE to reduce the dimensionality of metabolomics datasets
+2017/10/04	Buffett’s Success
+2017/10/04	Marvelous Women
+2017/10/05	The YCombinator application procedure or How we almost made it — part 2 (of 2)
+2017/10/05	A Gentle Introduction to the Discussion on Algorithmic Fairness
+2017/10/05	The second Ghost of Experimentation: The fallacy of session based metrics
+2017/10/05	5 Advantages Recommendation Engines can Offer to Businesses
+2017/10/05	Pokemon Generation Gap? (Python Data Analysis) — Part 1: cleaning, EDA
+2017/10/05	If You Want To Increase Risk of Death By Firearm, Don’t Regulate Guns. Oh, wait, that’s bad…
+2017/10/05	Big data for training models in the cloud
+2017/10/05	The Data-Product-Scientist-Manager
+2017/10/05	The #$%! of Dimensionality
+2017/10/05	Trends out of 2017’s Big Data Ignite
+2017/10/05	Bitcoin: What’s the Math?
+2017/10/06	Teaching Cars To See — Advanced Lane Detection Using Computer Vision
+2017/10/06	[Big4 Tech Interview Question] Derive the Linear Regression
+2017/10/06	A Visual Introduction to Neural Networks
+2017/10/06	How Happy is Your Country? — Happy Planet Index Visualized
+2017/10/06	User Experience with Machine Learning
+2017/10/06	The Top 25 Coolest Data Science Terms
+2017/10/06	Veterinary Data: Animal Data Abound!
+2017/10/06	How Google is using AI to unite software with its new hardware
+2017/10/06	Interesting Probability Problem: Self-correcting Random Walks
+2017/10/06	Weekly Selection
+2017/10/07	Batch normalization in Neural Networks
+2017/10/07	L1 and L2 Regularization Methods
+2017/10/07	Applied Deep Learning - Part 3: Autoencoders
+2017/10/07	Overview
+2017/10/07	Find Your Best Customers with Customer Segmentation in Python
+2017/10/07	Overview
+2017/10/07	Basic Probability Theory and Statistics
+2017/10/07	15 Stunning Data Visualizations (And What You Can Learn From Them)
+2017/10/07	Decision Tree Ensembles- Bagging and Boosting
+2017/10/07	Deep Learning Specialization by Andrew Ng — 21 Lessons Learned
+2017/10/07	Linear Regression in Python; Predict The Bay Area’s Home Prices
+2017/10/07	Motivation
+2017/10/07	Welcome to Deep Reinforcement Learning Part 1 : DQN
+2017/10/08	PyTorch vs. TensorFlow: 1 month summary
+2017/10/08	Some tricks learned from Kaggle StateFarm Competition
+2017/10/08	DFL > DNF > DNS?
+2017/10/09	Understanding Events with Artificial Intelligence
+2017/10/09	Dare to Be Different in the Data Science Community
+2017/10/09	Exploring Derive Column By Example in Azure Machine Learning Workbench
+2017/10/09	Digital Analytics Data Quality and Web Analysts
+2017/10/10	Basic Probability Theory and Statistics
+2017/10/10	Simple explanation of Semi-Supervised Learning and Pseudo Labeling
+2017/10/10	How to Train your Self-Driving Car to Steer
+2017/10/10	Computer Vision and Why It is so Difficult
+2017/10/10	Introduction to Tensorflow as a Computational Framework
+2017/10/10	Introduction to data augmentation and pseudo-labeling
+2017/10/11	How Young is Too Young to Date?
+2017/10/11	How Old is Too Old? How Young is Too Young?
+2017/10/11	Over-fitting and Regularization
+2017/10/11	Learning Maths for Machine Learning and Deep Learning
+2017/10/11	Learning to walk with evolutionary algorithms applied to a bio-mechanical model
+2017/10/11	Game of Thrones Word Embeddings, does R+L = J ? — part 1
+2017/10/11	Intro To Data Analysis For Everyone; Part 3!
+2017/10/11	Tale of 1000 Crunchbase Startups
+2017/10/11	Introduction
+2017/10/11	Artificial Intelligence: Hyperparameters
+2017/10/11	Game of Thrones Word Embeddings, does R+L = J ? — part 2
+2017/10/11	The Greatest Fallacy of Data Science
+2017/10/11	The Myth
+2017/10/11	Learning on an Empty Stomach: Data Study on School Free Meal Programs in Orange County, California
+2017/10/11	World Mental Health Day Data Visualization: Veterans & Mental Illness
+2017/10/12	Collecting Data Science Cheat Sheets
+2017/10/12	Building a Translation System In Minutes
+2017/10/12	Google Object Detection API to detect Brand Logos Part 2
+2017/10/12	Predicting College Acceptance with AI
+2017/10/12	What I have understood about Machine Learning so far
+2017/10/12	Five ways fashion brands are using AI for personalization
+2017/10/12	Can Artificial Intelligence Help You Find Love: Understanding The Business of Matchmaking
+2017/10/12	Learning Data Science — Part 2: Podcasts, Blogs
+2017/10/12	Business Intuition in Data Science
+2017/10/13	L1 and L2 Regularization Methods
+2017/10/13	Find Your Best Customers with Customer Segmentation in Python
+2017/10/13	Overview
+2017/10/13	What Are the Qualities of a Great Data Science Manager?
+2017/10/13	From webdev to computer vision and machine learning
+2017/10/13	Vehicle Detection and Tracking From a Front-Face Camera
+2017/10/13	Introducing the Investor Cluster Score™ — a measure of the signal produced by a startup’s capitalization table.
+2017/10/13	Probabilistic Graphical Models — Introduction
+2017/10/13	Hacking Hippocampus: the Next Frontier for Machine Learning and beyond…
+2017/10/13	Weekly Selection — Oct 13, 2017
+2017/10/14	Why OpenMined is Becoming a Role Model for Open-Source Projects
+2017/10/14	The Art of Making Intelligent Machines
+2017/10/14	Forecasting the Future
+2017/10/15	Best Python libraries for Machine Learning and Data Science : (Part -1)
+2017/10/15	JupyterLab is the data science UI we have been looking for
+2017/10/15	A Case for LightGBM
+2017/10/15	Adversarial predictive networks
+2017/10/15	Analytics’ contribution to Well-Being : Big Data and « Technologies of the Self »
+2017/10/16	Coding up a Neural Network classifier from scratch
+2017/10/16	Model overviews and code from scratch
+2017/10/16	Smart Cities: Ordinary Citizens Were The Missing Link All Along
+2017/10/16	A single tweet from a student in Seoul…
+2017/10/16	Data Curious 16.10.2017: A roundup of data stories, datasets and visualizations from last week
+2017/10/16	“This is your final warning!”
+2017/10/17	Decision Tree Ensembles- Bagging and Boosting
+2017/10/17	Squeeze-and-Excitation Networks
+2017/10/17	Support vector machines ( intuitive understanding ) — Part#1
+2017/10/17	Why Is Everyone Talking About Artificial Intelligence?
+2017/10/17	Rock Solid Predictions — Predicting…Rocks?
+2017/10/17	Prologue — Rollin’ in the field
+2017/10/17	[Note] Statistical Inference: The Big Picture
+2017/10/17	DYK flexdashboard solves Data Scientists’ javascript illiteracy
+2017/10/17	Myths in Knowledge Extraction and Big Data Analysis over User-generated Content
+2017/10/18	Join us as an Editorial Associate
+2017/10/18	Support vector machines ( intuitive understanding ) — Part#2
+2017/10/18	Wordcloud Web App In 40 Lines of R
+2017/10/18	AI twitter bot that trolls trump
+2017/10/19	How Business-Friendly is Your Country? — Linear Regression in Python
+2017/10/19	Motivation
+2017/10/19	Don’t be Fooled by Fake Stats
+2017/10/19	Exploring Comments on Reddit
+2017/10/20	Batch normalization in Neural Networks
+2017/10/20	Welcome to Deep Reinforcement Learning Part 1 : DQN
+2017/10/20	Teaching a Variational Autoencoder (VAE) to draw MNIST characters
+2017/10/20	Improving Airbnb Yield Prediction with Text Mining
+2017/10/20	Introduction
+2017/10/20	The beauty of column-oriented data
+2017/10/20	Deep Gray Matter (DGM) Segmentation using 3D Convolutional Neural Network: application to QSM (Part 1)
+2017/10/20	Games by ANGELINA: The AI Game Designer
+2017/10/20	Celebrating 1 Year of Towards Data Science
+2017/10/20	Make a forecast system of the French national energy consumption
+2017/10/20	Mathematician, The History by Numbers
+2017/10/20	Weekly Selection — Oct 20, 2017
+2017/10/21	A brief introduction to Slow Feature Analysis
+2017/10/22	Linear Regressions: What to do when you want to open a new liquor store in Iowa
+2017/10/23	One Bubble Chart, Comparing 10 Data Visualization Tools
+2017/10/23	Introduction
+2017/10/23	7 Recommendations for Data Science Leaders (in the Game Industry)
+2017/10/23	Why Hospitals Need Better Data Science
+2017/10/23	Natural Language Generation at Google Research
+2017/10/23	What I learned about Artificial Intelligence in Silicon Valley
+2017/10/23	Artificial Intelligence: Consequences
+2017/10/24	Introduction to the Telegram API
+2017/10/24	Artificial Intelligence Applications: Data Science Meets Procurement
+2017/10/24	Ready…set…AI — preparing NHS medical imaging data for the future
+2017/10/24	Simulating product usage data with Pandas
+2017/10/24	The Do’s and Don’ts of Chart Making
+2017/10/25	Deep Learning Specialization by Andrew Ng — 21 Lessons Learned
+2017/10/25	Linear Regression in Python; Predict The Bay Area’s Home Prices
+2017/10/25	Motivation
+2017/10/25	Dog Breed Classification: hands-on approach
+2017/10/25	Teaching Cars To See — Vehicle Detection Using Machine Learning And Computer Vision
+2017/10/25	Overview of GANs (Generative Adversarial Networks) - Part I
+2017/10/25	Role of Data Analytics in the Oil Industry
+2017/10/25	Notes on Deep Reinforcement Model for Abstractive Summarization — Salesforce AI Research (Paper of the day — PoD; Dare I say Summary)
+2017/10/25	10 DevOps Trends You Need to Know About — Part 2
+2017/10/25	Men vs Women: Comparing Medium’s most popular stories by Gender
+2017/10/25	Do Filters Dream of Convolutional Cats?
+2017/10/26	Segmenting, localizing and counting object instances in an image
+2017/10/26	How AI is transforming Finance Industry?
+2017/10/26	Risk Assessment
+2017/10/26	Going Sideways in Neural Networks
+2017/10/26	Let’s learn it deep before we play it Deep
+2017/10/26	Humans are handy to have around
+2017/10/27	Distributed training in the cloud: Cloud Machine Learning Engine
+2017/10/27	TensorBoard: Visualizing Learning
+2017/10/27	Why TensorBoard?
+2017/10/27	Analytics 4.0: it’s all about taking better decisions
+2017/10/27	Will AI kill captchas ?
+2017/10/27	Weekly Selection — Oct 27, 2017
+2017/10/28	A beginner introduction to TensorFlow (Part-1)
+2017/10/28	Smart way of storing data
+2017/10/28	Why AI is Supercharging Mankind's Ability to Solve Problems
+2017/10/28	Lean Dashboards: Data Inclusion & Exclusion Principles
+2017/10/29	Mixed Effects Random Forests in Python
+2017/10/29	Using Data Science To Reduce Healthcare Costs
+2017/10/29	Rust off the grid: Introduction to Rust Programming Language.
+2017/10/29	Your Smarter Analytics Strategy
+2017/10/29	Data Science in Start-ups?
+2017/10/29	7 Retail Analytics Trends Shaping the Industry (Infographic)
+2017/10/29	Holding Effective Analytics Meetings with Product Teams
+2017/10/30	45 Ways to Activate Your Data Science Career
+2017/10/30	A Data Science Workflow
+2017/10/30	Exploring, Clustering and Mapping Toronto’s Crimes
+2017/10/31	15 Stunning Data Visualizations (And What You Can Learn From Them)
+2017/10/31	Principles of Artificial Intelligence & Machine Learning
+2017/10/31	Transforming a Cat into an Art by Convolutional Layers
+2017/10/31	Artistic Style Transfer
+2017/10/31	PGGAN Creates Realistic Faces
+2017/10/31	IMDb Score Prediction
+2017/10/31	A quick look at the evolving list of top 100 venture capitalists
+2017/11/01	How to Reduce Image Noises by Autoencoder
+2017/11/01	Serving TensorFlow model in Scala
+2017/11/01	Artificial Intelligence as Magic
+2017/11/01	Data-driven lingerie shopping
+2017/11/01	A History of RTS AI Research
+2017/11/01	Metadata Management as a Strategic Imperative
+2017/11/01	Autonomous Drones : Logistics Fit For The Future
+2017/11/01	3 Methods how to update R on RStudio (for Windows & Mac)
+2017/11/01	Future Labs AI Summit Cliff Notes
+2017/11/02	Introduction to Bayesian Thinking: from Bayes theorem to Bayes networks
+2017/11/02	Clustering — Unsupervised Learning
+2017/11/02	Natural Language Processing in Artificial Intelligence is almost human-level accurate. Worse yet, it gets smart!
+2017/11/02	Creating Sandbox Environments for R with Docker
+2017/11/02	Finally, the EU is giving you control of your banking data
+2017/11/02	Open Banking: Friend of consumer and…
+2017/11/02	Here’s How Data Analytics Can Help Community Banks
+2017/11/02	Data Curious 02.11.2017: A roundup of data stories, datasets and visualizations from last week
+2017/11/03	Understanding Generative Adversarial Networks
+2017/11/03	How To Win Sudoku
+2017/11/03	Becoming a Machine Learning Engineer | Step 5: Build a Portfolio
+2017/11/03	Machine Learning Meets Fashion
+2017/11/03	10 Ways to Take Your Boss on a Journey Through the Data
+2017/11/03	Machine Learning Quick Reference Card
+2017/11/03	Self-driving cars — should we buckle up because of hackers?
+2017/11/03	A Graph of Medium’s Tags
+2017/11/03	Constructing your own Recurrent Neural Network
+2017/11/03	Using Google Data Studio
+2017/11/03	Weekly Selection — Nov 3, 2017
+2017/11/04	Implementing a Generative Adversarial Network (GAN/DCGAN) to Draw Human Faces
+2017/11/04	Understanding objective functions in neural networks.
+2017/11/04	10 Years of Data Science Visualizations
+2017/11/04	Steering away from end-to-end deep learning
+2017/11/04	or Hybrid Software 1.0 and 2.0
+2017/11/05	Analyse the migration of scientific researchers
+2017/11/05	Google Colaboratory — Simplifying Data Science Workflow
+2017/11/05	Here are 9 email newsletters about data… I think you’ll like at least 4 of them
+2017/11/06	Predict Employee Turnover With Python
+2017/11/06	Naive Bayes in Machine Learning
+2017/11/06	Decision Trees and Random Forests for Classification and Regression pt.2
+2017/11/06	Highlights:
+2017/11/06	5 Must-Have Data Visualizations for B2B Executives
+2017/11/07	How to get clinical AI tech approved by regulators
+2017/11/07	Artificial Intelligence and Bad Data
+2017/11/07	The Map of Data Science
+2017/11/07	Test Me
+2017/11/08	Applied Deep Learning - Part 4: Convolutional Neural Networks
+2017/11/08	Overview
+2017/11/08	Making Your Own Spotify Discover Weekly Playlist
+2017/11/08	Dissecting startup failure rates by stage
+2017/11/08	AI scientists: How can companies deal with the shortage of talent?
+2017/11/08	From Neuroscience To Computer Vision
+2017/11/08	What’s the point? Visual Data Reporting
+2017/11/08	Boys & Low-Income Students in NYC More Likely Than Their Peers to Fail State Math Tests
+2017/11/09	Which Python package manager should you use?
+2017/11/09	Generative Adversarial Networks — Part II
+2017/11/09	The spring of self-driving cars.
+2017/11/09	SOPR: Public Relations and The Sniper Mind Challenge
+2017/11/10	Face Recognition: Understanding LBPH Algorithm
+2017/11/10	Convolutional Neural Network — I
+2017/11/10	How to Create a Pre-Configured Virtual Machine for AI Development in Azure
+2017/11/10	No-Hassle Machine Learning Experiments with Azure Notebooks
+2017/11/10	Visualizing Success in Data Science — Landing that Dream Job
+2017/11/10	Weekly Selection — Nov 10, 2017
+2017/11/11	7 Takeaways from MLconf SF
+2017/11/11	When Machine Learning tries to predict the performance of Machine Learning…
+2017/11/11	Data comes in different shapes and sizes
+2017/11/12	The “A [?]” iPhone Bug Spread Like a Virus
+2017/11/12	A practitioner's guide to PyTorch
+2017/11/12	Hinton++
+2017/11/12	Notes on The 10 Principles of Applied AI — How to implement AI in Software (Georgian Partners white paper)
+2017/11/12	GloVe + Fun - Boring
+2017/11/13	Up-sampling with Transposed Convolution
+2017/11/13	Estimating an Optimal Learning Rate For a Deep Neural Network
+2017/11/13	Diary of a Data Scientist at Booking.com
+2017/11/13	The Softmax Function, Neural Net Outputs as Probabilities, and Ensemble Classifiers
+2017/11/13	Understanding Bidirectional RNN in PyTorch
+2017/11/13	A Summary of Udacity A/B Testing Course
+2017/11/13	LDA2vec: Word Embeddings in Topic Models
+2017/11/13	Custom Optimizer in TensorFlow
+2017/11/13	Introduction
+2017/11/14	Applying Andrew Ng’s 1st Deep Neural Network to the Titanic Survival dataset
+2017/11/14	Having Fun with Deep Convolutional GANs
+2017/11/14	PoetBot: a Telegram chat-bot for poem recommendation
+2017/11/14	Run or Walk (Part 4): Using Keras Neural Network Classifier in iOS with Core ML
+2017/11/14	Which are the Key Skills in Data Science?
+2017/11/14	4 Ways Data Visualization Can Improve Sales and Marketing Alignment
+2017/11/14	Blockchain: Blueprint for a New Economy by Melanie Swan [Book Review]
+2017/11/15	Regularization in Machine Learning
+2017/11/15	InfoGAN — Generative Adversarial Networks Part III
+2017/11/15	Essential Algorithms Every ML Engineer Needs to Know
+2017/11/15	The missing part of the Machine Learning revolution
+2017/11/15	5 things I learned training an AI model on every NBA player
+2017/11/15	November Edition: Speech Recognition
+2017/11/15	About managers who love aggregations a bit too much
+2017/11/16	Predict Customer Churn with R
+2017/11/16	Data Mining Tools
+2017/11/16	Overview of Udacity Artificial Intelligence Engineer Nanodegree, Term 1
+2017/11/16	Building a dashboard for interactive cohort analysis
+2017/11/16	Facial Recognition & Adversarial Attack
+2017/11/16	What design brings to AI
+2017/11/17	Seven Clean Steps To Reshape Your Data With Pandas Or How I Use Python Where Excel Fails
+2017/11/17	Wrangling data with Pandas
+2017/11/17	What is Transfer Learning?
+2017/11/17	10 Tricks to Appear Smart During Data Science Meetings
+2017/11/17	Small Victories: Building a Web App with Django and AWS and Building Confidence
+2017/11/17	Robots Are Wrong Too—Confusion Mapping for the Worst Case
+2017/11/17	Explaining Paradoxical Trends in Data
+2017/11/17	Digitalisation strategy as community effort
+2017/11/17	Weekly Selection — Nov 17, 2017
+2017/11/18	Understanding SSD MultiBox — Real-Time Object Detection In Deep Learning
+2017/11/18	Is Santa Claus Real?
+2017/11/18	Trump, in his own words
+2017/11/18	Engineering Awareness: Paradise Papers
+2017/11/19	Computer Vision by Andrew Ng — 11 Lessons Learned
+2017/11/19	Understanding Neural Networks Using Excel
+2017/11/19	Can We Please Stop Using Word Clouds
+2017/11/19	Shaping up E-Commerce with Machine Learning
+2017/11/19	Data Preparation and Exploration
+2017/11/19	Optimal Tooling for Machine Learning and AI
+2017/11/19	Psychology of Sharing on Social Media: Attention, Emotion and reaction
+2017/11/19	Proto-analysis of Boston Globe Traffic on Facebook
+2017/11/20	Why you should forget ‘for-loop’ for data science code and embrace vectorization
+2017/11/20	Transfer Learning using differential learning rates
+2017/11/20	Reinforcement Learning: The quirks
+2017/11/20	Artificial Intelligence: A Catalyst for a Better World…with Great Music
+2017/11/20	Why future AI should be a Teacher and not an Oracle
+2017/11/20	Health Apps : From Lifesaving To Life-Threatening
+2017/11/21	5 Data Storytelling Tips for Creating More Persuasive Charts and Graphs
+2017/11/21	What to Expect Interviewing for a Data Analyst Internship
+2017/11/21	How to build recurring web spider jobs using Scrapy, ScrapingHub, and Amazon S3
+2017/11/21	Should all decisions be data-driven? Interview with a Data Scientist Sergey Bryl’
+2017/11/21	Principal Component Analysis- Intro
+2017/11/21	Three Common Mistakes With Company-level Dashboards
+2017/11/21	22 nuggets of wisdom to structure your machine learning project
+2017/11/21	Machine Learning: Use Small Words
+2017/11/21	Why everyone is a Data Scientist
+2017/11/21	Join the #AIforEveryone initiative
+2017/11/22	Docker for Data Science
+2017/11/22	KOLMOGOROV–SMIRNOV TEST
+2017/11/22	Functions with R and rvest: A Laymen’s Guide
+2017/11/22	Thoughts on JAMA’s “Adapting to Artificial Intelligence” by Jha and Topol
+2017/11/22	8 things I’ve learnt being a data guy
+2017/11/22	IMA MAG AGE
+2017/11/22	Welcome, Machine Learning
+2017/11/23	Demystifying “Matrix Capsules with EM Routing.”
+2017/11/23	Fun with small image data-sets
+2017/11/23	Is there a relationship between countries’ wealth or spending on schooling and its students’ performance in PISA?
+2017/11/23	Probability Part 1: Probability for Everyone a.s.
+2017/11/24	Structured Deep Learning
+2017/11/24	Beautiful Data Science Presentations
+2017/11/24	How to Improve my ML Algorithm? Lessons from Andrew Ng’s experience — I
+2017/11/24	Weekly Selection — Nov 24, 2017
+2017/11/25	Why Your Organization Shouldn’t Be Afraid of AI
+2017/11/26	Serving TensorFlow Models. Serverless
+2017/11/27	Machine learning fundamentals (I): Cost functions and gradient descent
+2017/11/27	How do we ‘train’ neural networks ?
+2017/11/27	I. Introduction
+2017/11/27	Finding Magic: The Gathering archetypes with Latent Dirichlet Allocation
+2017/11/27	Social network data: Twitter vs FB vs Google vs everyone else
+2017/11/27	Fun with small image data-sets (Part 2)
+2017/11/28	Pre-Processing in Natural Language Machine Learning
+2017/11/28	How to Level Up as a Data Scientist (Part 2)
+2017/11/28	AI Adoption In Procurement: 3-Step Journey
+2017/11/28	Medium Analytics: A Wishlist
+2017/11/29	How to host an R Shiny App on AWS cloud in 7 simple steps
+2017/11/29	How to make SGD Classifier perform as well as Logistic Regression using parfit
+2017/11/29	The Non-Coder’s Guide to Chatbots
+2017/11/29	Clustering spatial data without ML to find homogeneous areas
+2017/11/29	Sweet or Cheat? Build a Sneaker Rater after finishing Andrew Ng’s 2nd Course
+2017/11/29	Product Analytics Bias and KPIs
+2017/11/29	Deep Learning with DigitalOcean: Redux
+2017/11/29	Best Practices for Applying Data Science in Consulting — Intro and Data Collection
+2017/11/29	Bishop’s PRML book: review and insights, chapters 4–6
+2017/11/30	What makes a country prosperous?
+2017/11/30	Today I Built a Neural Network During My Lunch Break with Keras
+2017/11/30	AWS SageMaker: AI’s Next Game Changer
+2017/11/30	Generating Digits and Sounds with Artificial Neural Nets
+2017/11/30	3 Expert Data Visualization Tips for Grabbing Readers’ Attention
+2017/11/30	How to Improve my ML Algorithm? Lessons from Andrew Ng’s experience — II
+2017/11/30	R Formula Tutorial For Beginner
+2017/11/30	5 Reasons Why AI Will Have a Larger Impact Than Most People Expect
+2017/12/01	How to Build a Real-time Hand-Detector using Neural Networks (SSD) on Tensorflow
+2017/12/01	Nightmare on ML Street: the dark potential of AI in radiology
+2017/12/01	Analytics Jobs at Startups and How to Find Them
+2017/12/01	New Segmentation Paradigm
+2017/12/01	Best Practices for Applying Data Science in Consulting — Scoping and Expectations
+2017/12/01	Introduction
+2017/12/01	Weekly Selection — Dec 1, 2017
+2017/12/02	How Recurrent Neural Networks work
+2017/12/02	How to Find Wally with a Neural Network
+2017/12/02	Understanding how Convolutional Neural Network (CNN) perform text classification with word embeddings
+2017/12/02	Complex Event Processing with Flink on realtime Twitter data
+2017/12/03	Word embeddings: exploration, explanation, and exploitation (with code in Python)
+2017/12/03	Best and Worst Times to Rent by City
+2017/12/04	Napoleon was the Best General Ever, and the Math Proves it.
+2017/12/04	Ranking Every* General in the History of…
+2017/12/04	Solving A Simple Classification Problem with Python — Fruits Lovers’ Edition
+2017/12/04	Stochastic Gradient Descent with momentum
+2017/12/04	The 4 Deep Learning Breakthroughs You Should Know About
+2017/12/04	SQL in a Nutshell: Part 1 — Basic Real-World Scenarios
+2017/12/04	Deep Learning & Medical Diagnosis
+2017/12/04	Quest to understand Machine Learning in Production & Notes Part I
+2017/12/04	Motivation
+2017/12/04	10 Funny Graphs That Perfectly Explain Everyday Life
+2017/12/04	Use Python to collect image tags using AWS’ Reverse Image Search Engine, Rekognition
+2017/12/04	Using XGBoost to Predict Blood Donations without writing any code using Dataiku
+2017/12/05	PCA using Python (scikit-learn)
+2017/12/05	Data science with Python: Turn your conditional loops to Numpy vectors
+2017/12/05	kegra: Deep Learning on Knowledge Graphs with Keras
+2017/12/05	Photoshop 2.0
+2017/12/05	Building and Leveraging an Event-Based Data Model for Analyzing Online Data
+2017/12/05	Data For Black Lives: the inaugural conference held at MIT
+2017/12/05	I support vector machines and so should you.
+2017/12/05	December Edition: Deep Learning
+2017/12/05	5 Takeaways from Big Data Spain 2017
+2017/12/05	Strengthening General Assembly’s Career Program
+2017/12/06	About Train, Validation and Test Sets in Machine Learning
+2017/12/06	Introduction to Kaggle Kernels
+2017/12/06	Ensemble Learning in Machine Learning | Getting Started
+2017/12/06	Candid thoughts on “The Simulation Hypothesis” from Top AI Researchers
+2017/12/06	Twitter Emoji Analysis: An Airbnb Story
+2017/12/07	Another Twitter sentiment analysis with Python — Part 1
+2017/12/07	How to Generate Music using a LSTM Neural Network in Keras
+2017/12/07	Machine Learning with Python: Easy and robust method to fit nonlinear data
+2017/12/07	Using Word2vec for Music Recommendations
+2017/12/07	Data Driven Product Management
+2017/12/07	How I created a classifier to determine the potential popularity of a song.
+2017/12/07	des.ai.gn — Augmenting human creativity with artificial intelligence
+2017/12/07	Optimization Problem
+2017/12/07	Using the metrics behind the Neural Networks for predicting software evolution
+2017/12/07	Don’t Ignore Bears: The Pitfalls of Summarizing Data with Medians
+2017/12/07	How I use machine learning to save time
+2017/12/07	Distributed representation of anything
+2017/12/08	Accuracy Paradox
+2017/12/08	How OpenMined uses your idle consoles to train the next generation of AI
+2017/12/08	Machine Learning Bit by Bit — Univariate Gradient Descent
+2017/12/08	Learning and performing in the real world
+2017/12/08	How Data Science leads to better decision-making
+2017/12/08	25 Lights
+2017/12/08	Weekly Selection — Dec 8, 2017
+2017/12/09	How to Become a Data Scientist
+2017/12/10	A very simple demo of interactive controls on Jupyter notebook
+2017/12/10	Working with Missing Data in Machine Learning
+2017/12/10	Getting Started with Reinforcement Q Learning
+2017/12/11	Hierarchical softmax and negative sampling: short notes worth telling
+2017/12/11	Using Object detection for a Smarter Retail Checkout Experience
+2017/12/11	Predicting Employee Turnover
+2017/12/11	Introduction
+2017/12/11	MangaGAN
+2017/12/11	Machine Translation to Shakespearian English
+2017/12/11	Make a massive, searchable online clothing store quickly with machine learning
+2017/12/11	Why You Should Still Consider Good Old Fashioned For-Loops in R
+2017/12/11	VideoFi — Annotating videos and finding insights simplified
+2017/12/11	Artificial Intelligence is Probably Safe
+2017/12/12	Youtube Views Predictor
+2017/12/12	Female CEOs Have a Higher Median Pay, But Is It Related to Their Gender?
+2017/12/12	Quest to understand Machine Learning in Production & Notes Part II
+2017/12/12	How to Tell Stories and Weave a Cohesive Narrative With Data
+2017/12/12	Grow Your Own Experts
+2017/12/12	Enhancing Human Perception with ML, AI, IR and NLP
+2017/12/13	Ensembling ConvNets using Keras
+2017/12/13	Automatic Speaker Recognition using Transfer Learning
+2017/12/13	TensorFlow Object Detection with Docker from scratch
+2017/12/13	Graph Representation Learning
+2017/12/14	What is the most effective way to structure a data science team?
+2017/12/14	Leaving my VC job to learn about Data Science and Machine Learning
+2017/12/14	Why your analytics project will fail to deliver exponential value
+2017/12/14	How Large Enterprise Can Leverage Artificial Intelligence / Machine Learning
+2017/12/15	Algorithms are the New Drugs
+2017/12/15	How a simple algorithm classifies texts with moderate accuracy
+2017/12/15	The drivers of AI Business Transformation
+2017/12/15	Weekly Selection — Dec 15, 2017
+2017/12/15	The Present: A Data Science Christmas Story
+2017/12/16	Understanding GRU networks
+2017/12/16	Building a Similar Images Finder without any training!
+2017/12/16	Interactive Machine Learning: Make Python ‘Lively’ Again
+2017/12/16	The use of advanced regression techniques for home value prediction
+2017/12/16	Could Reinforcement Learning Use More Supervision?
+2017/12/16	NIPS 2017 symposium and workshop: interpretable and Bayesian machine learning
+2017/12/16	Brain in a Vat
+2017/12/17	How Docker Can Help You Become A More Effective Data Scientist
+2017/12/17	Machine Learning for Diabetes
+2017/12/17	How I used machine learning to classify emails and turn them into insights (part 2).
+2017/12/17	The problem with p-values
+2017/12/17	The Art of Learning Data Science
+2017/12/17	A Bit Beyond Gradient Descent: Mini-Batch, Momentum, and Some Dude Named Yuri Nesterov
+2017/12/17	Automate the Boring Task : Chatbots in Enterprise Software
+2017/12/17	Autoencoder Zoo – Image correction with TensorFlow
+2017/12/18	Another Twitter sentiment analysis with Python-Part 2
+2017/12/18	WTF is Sensor Fusion? The good old Kalman filter
+2017/12/18	Interactive Data Science with Jupyter Notebooks
+2017/12/18	Recommender Engine — Under The Hood
+2017/12/18	Using pyspark with Jupyter on a local computer
+2017/12/18	Understanding the Hyperparameters of a Simple Time Series Model
+2017/12/18	Geek Christmas: 10 best books to entertain a Data Scientist
+2017/12/18	2018 Predictions for AI
+2017/12/18	Velocious Vehicles and How to Track Them
+2017/12/18	The great divide in AI
+2017/12/18	Become a Patron
+2017/12/18	What’s that Image ?
+2017/12/18	What AI mostly needs is expectation management
+2017/12/18	Thoughts on networks, communications, blockchains, and a space-age internet
+2017/12/18	Introduction
+2017/12/18	The Data-Driven Future of Media and Entertainment
+2017/12/19	Battle of the Deep Learning frameworks — Part I: 2017, even more frameworks and interfaces
+2017/12/19	How To Ace Data Science Interviews: Statistics
+2017/12/19	Implementing a Trie in Python (in less than 100 lines of code)
+2017/12/19	Introduction
+2017/12/19	Clustering using K-means algorithm
+2017/12/19	Machine Learning Bit by Bit — Multivariate Gradient Descent
+2017/12/19	Stranger Things: Five lessons for analyzing and communicating data
+2017/12/19	Overarching trends and applications at NIPS 2017 (with links!)
+2017/12/19	Do more guns reduce violent crime rate? (Part I: Data Visualization)
+2017/12/20	Top Algorithms and Data Structures You Really Need To Know
+2017/12/20	Market Mix Modeling (MMM) — 101
+2017/12/20	Two months exploring deep learning and computer vision
+2017/12/20	Auto-Regressive Generative Models (PixelRNN, PixelCNN++)
+2017/12/20	ChatBots vs Reality: how to build an efficient chatbot, with wise usage of NLP
+2017/12/20	Gradient descent vs. neuroevolution
+2017/12/20	Food Ingredient Reverse-Engineering Through Gradient Descent
+2017/12/20	Universal Style Transfer
+2017/12/20	How to Make Technical Data Simple and Beautiful
+2017/12/20	Introducing the Capital Concentration Index™
+2017/12/20	What Can Agents Learn Through Self Play?
+2017/12/20	Applications for Machine Learning in Modern Business
+2017/12/21	Gradient Descent Algorithm and Its Variants
+2017/12/21	Separating the Art of Medicine from Artificial Intelligence
+2017/12/21	How I completed Udacity’s Machine Learning ND in just over one month
+2017/12/21	Machine learning fundamentals (II): Neural networks
+2017/12/21	Audio features for web-based ML
+2017/12/21	DataViz Case Study: Seven Subtly Different Ways to Plot College Enrollment
+2017/12/22	A Zero-Math Introduction to Markov Chain Monte Carlo Methods
+2017/12/22	Simulating Text With Markov Chains in Python
+2017/12/22	Only Numpy: Vanilla Recurrent Neural Network Deriving Back propagation Through Time Practice — part 1/2
+2017/12/22	Meet Artificial Neural Networks
+2017/12/22	Working as a Data Scientist at Scout24
+2017/12/22	Alpha Release of Numericcal Platform
+2017/12/22	Jupyter Notebook Shortcuts
+2017/12/22	What is Jupyter Notebook?
+2017/12/22	Weekly Selection — Dec 22, 2017
+2017/12/22	The 3 Tragedies of the CMO…and their Happy Endings.
+2017/12/23	What if I told you database indexes could be learned?
+2017/12/23	Data Mining in Brief
+2017/12/23	How to Create a Codenames Bot Part 1: Word2vec
+2017/12/23	A Pair of Text Analysis Explorations
+2017/12/23	The Why and How of Python Properties
+2017/12/24	Docker for Data Science
+2017/12/24	How to visualize distributions
+2017/12/24	How to Dockerize an R Shiny App — Part 1
+2017/12/24	Intro to PCFGs, left-most derivations, Chomsky NF, CKY algorithm and many other scary words becoming simple
+2017/12/25	Neural Networks with Google CoLaboratory | Artificial Intelligence Getting started
+2017/12/25	The Science of Predicting a Hit Song!
+2017/12/26	One-Shot Learning: Face Recognition using Siamese Neural Network
+2017/12/26	The promise of AI in audio processing
+2017/12/26	How does the [current] best question answering model work?
+2017/12/26	Stylometric Analysis: Satoshi Nakamoto
+2017/12/26	Abstract:
+2017/12/26	Gender Inference from Character Sequences in Multinational First Names
+2017/12/26	Out of Core Genomics
+2017/12/27	Random Forest in Python
+2017/12/27	Semi-supervised learning with Generative Adversarial Networks (GANs)
+2017/12/27	Neural Machine Translator with Less than 50 lines of Code + Guide
+2017/12/27	After Deep Learning: 4 Months a Data Engineer at Format
+2017/12/27	Part Two on Consistent Billionaires: Introducing the Surprise
+2017/12/28	Various Implementations of Collaborative Filtering
+2017/12/28	Collaborative Filtering and Embeddings — Part 1
+2017/12/28	Another Twitter sentiment analysis with Python — Part 3 (Zipf’s Law, data visualisation)
+2017/12/28	Collaborative Filtering and Embeddings — Part 2
+2017/12/28	Deep Learning Magic: Small Business Type
+2017/12/29	Training and Visualising Word Vectors
+2017/12/29	Basic Time Series Analysis and Trading Strategy with Bitcoin Price Data
+2017/12/29	Tesla: Stock Price Prediction
+2017/12/29	An Introduction to GPU Optimization
+2017/12/29	Using Integer Linear Programming to Solve Sudoku Puzzles
+2017/12/29	Introducing pydqc
+2017/12/29	Looking at German Traffic Signs
+2017/12/29	Warmest greetings and best wishes for the new year
+2017/12/29	Tom Reads Papers: DeepLoco
+2017/12/29	Weekly Selection — Dec 29, 2017
+2017/12/30	The top 5 best Chatbot and Natural Language Processing Tools to Build Ai for your Business
+2017/12/30	Probability concepts explained: Introduction
+2017/12/30	do GANs really model the true data distribution, or are they just cleverly fooling us?
+2017/12/30	Why is there life? And what does it have to do with AI?
+2017/12/30	GPU Optimized dynamic programming
+2017/12/31	10 Machine Learning Algorithms You need to Know
+2017/12/31	The Three Types of A/B Tests
+2017/12/31	How I built a REST endpoint based Computer Vision task using Flask
