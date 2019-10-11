@@ -1,34 +1,17 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul 17 19:58:04 2017
 
-@author: arellave
-"""
+def longest_increasing_subsequence(x):
+    counter = [1]*len(x)
 
-#Longest Increasing subsequence in an array
-
-
-def LongestIncreasingSubsequence(A):
-    x=len(A)
-    LIS=[]
-    LIS.append(1 if A[0]>0 else 0)
-    for i in range(1,x):
-        maximum = 0
-        ans = 0
-        for j in range(0,i):
-#            print ("i=",i,"j=",j,"LIS[",j,"]=",LIS[j]
-            maximum = max(maximum,LIS[j])
-            if (A[i]>A[j]):
-                ans = maximum + 1
-            else:
-                ans =LIS[i-1] 
-        LIS.append(ans)
-    print (LIS)
-    
-
-A=[1,2,1,4,0,6]
-LongestIncreasingSubsequence(A)
+    for i in range(len(x)):
+        for j in range(i):
+            if x[j]<x[i]:
+                counter [i] = max(counter[i],counter[j]+1)
 
 
-A=[-1,-2,-1,-4,-0,-6]
-LongestIncreasingSubsequence(A)
+    return counter
+
+
+if __name__ == "__main__":
+    x = [10,9,2,5,3,7,101,180]
+    print(max(longest_increasing_subsequence(x)))
+
