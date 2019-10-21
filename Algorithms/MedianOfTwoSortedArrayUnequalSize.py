@@ -41,12 +41,5 @@ def median_of_two_array(x,y):
             low = partition_x +1
 
 
-
-
-
-if __name__ == "__main__":
-    x = [1,3,8,9,15]
-    y = [7,11,18,19,21,25]
-
-    print (median_of_two_array(x,y))
+print (median_of_two_array([1,3,8,9,15],[7,11,18,19,21,25]))
 

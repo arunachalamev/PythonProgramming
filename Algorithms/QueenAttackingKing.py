@@ -22,9 +22,7 @@ def queensAttacktheKing(queens, king):
     return result
 
 
+queens =  [[0,1],[1,0],[4,0],[0,4],[3,3],[2,4]]
+king = [0,0]
+print (queensAttacktheKing(queens,king))
 
-if __name__ == "__main__":
-    queens =  [[0,1],[1,0],[4,0],[0,4],[3,3],[2,4]]
-    king = [0,0]
-
-    print (queensAttacktheKing(queens,king))
