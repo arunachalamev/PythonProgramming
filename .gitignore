@@ -7,4 +7,5 @@
 /PythonProgramming.pyproj.user
 /PythonProgramming.sln
 /Algorithms/.vscode/*
-/PythonProgramming/.vscode/*
+/PythonProgramming/.vscode/*.json
+
