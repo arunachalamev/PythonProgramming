@@ -1,8 +1,10 @@
 #  O(n) algorithm to determine if there exist increasing triplet in a given array
 # Idea is to break array in to 3 segment using 2 threshold and find if there is a number in all segment
+import math
+
 def increasingTriplet(nums):
-    threshold1 = 1000
-    threshold2 = 1000
+    threshold1 = math.inf
+    threshold2 = math.inf
 
     for x in nums:
         if x <= threshold1:
