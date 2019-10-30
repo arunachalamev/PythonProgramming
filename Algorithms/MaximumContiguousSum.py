@@ -8,8 +8,8 @@ Created on Tue Jul 18 10:14:50 2017
 
 
 def MaxContSum(A):
-    sum_ending_here = 0;
-    max_sum_ending_here = 0;
+    sum_ending_here = 0
+    max_sum_ending_here = 0
     for i in A:
         sum_ending_here = sum_ending_here + i
         if sum_ending_here < 0:
