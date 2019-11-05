@@ -53,6 +53,8 @@ def countUniVal(root,count):
 
 
 def countUniValSubTree(root):
+    # To make the variable pass by reference - we use List
+    # If it is a normal variable, then it will be pass by value and internal states wont be maintained
     count = [0]
 
     countUniVal(root,count)
