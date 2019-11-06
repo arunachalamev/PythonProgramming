@@ -16,16 +16,20 @@ def maxNonAdjacementSum(nums):
 
 # Linear time algorithm - O(N)
 def maxNonAdjacementSum2(nums):
-    previousInclusive = 0
-    previousExclusive = 0
+    prevOne, prevTwo, res = 0,0,0
 
-    for x in nums:
-        temp = previousInclusive 
-        previousInclusive = max(previousExclusive+x, previousInclusive)
+    for i in range(len(nums)):
+        if i == 0:
+            res = nums[0]
+        elif i == 1:
+            res = max(nums[0],nums[1])
+        else:
+            res = max(prevOne, nums[i]+prevTwo)
+        
+        prevTwo = prevOne
+        prevOne = res
 
-        previousExclusive = temp
-
-    return max(previousExclusive,previousInclusive) 
+    return res
 
 
 print (maxNonAdjacementSum2([2,4,6,2,5]))
@@ -33,5 +37,6 @@ print (maxNonAdjacementSum2([5,1,1,5,5]))
 print (maxNonAdjacementSum2([4,1,1,4,2,1]))
 
 
+assert maxNonAdjacementSum2([2,4,6,2,5])==13
 
 
