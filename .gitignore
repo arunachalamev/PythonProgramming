@@ -9,4 +9,5 @@
 /Algorithms/.vscode/*
 /PythonProgramming/.vscode/*.json
 /.vscode/*
+/Algorithms/test.py
 
