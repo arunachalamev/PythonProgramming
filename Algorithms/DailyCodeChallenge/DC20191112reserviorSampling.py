@@ -1,4 +1,7 @@
 
+# Given a stream of elements too large to store in memory, 
+# pick a random element from the stream with uniform probability.
+
 import  random
 count = 0
 res = 0
