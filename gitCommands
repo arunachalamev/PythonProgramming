@@ -1,0 +1,11 @@
+// git log commands to beautify the output in oneline
+
+
+//arunachalamev   Thu Nov 14 11:25:42 2019 -0800  length of longest path from dir structure
+git log --pretty=format:"%an%x09%ad%x09%s"
+
+//* 5dfe5ae - length of longest path from dir structure (2 hours ago) <arunachalamev>
+git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an> %Creset' --abbrev-commit
+
+//<2019-11-14>    arunachalamev           length of longest path in dir structure (2 hours ago)
+git log --date=format:"%Y-%m-%d" --pretty=format:" %C(bold blue)<%ad>%Creset %x09 %C(yellow)%an%Creset %x09 %x09 %s %Cgreen(%cr)" -n 10
