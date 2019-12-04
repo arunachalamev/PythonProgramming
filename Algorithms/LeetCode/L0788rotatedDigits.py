@@ -33,3 +33,16 @@ print (rotatedDigits(10)) #4
 
 # There are four good numbers in the range [1, 10] : 2, 5, 6, 9.
 # Note that 1 and 10 are not good numbers, since they remain unchanged after rotating.
+
+
+
+def rotatedDigits2(N):
+    ans = 0
+    # For each x in [1, N], check whether it's good
+    for x in range(1, N+1):
+        S = str(x)
+        # Each x has only rotateable digits, and one of them
+        # rotates to a different digit
+        ans += (all(d not in '347' for d in S)
+                and any(d in '2569' for d in S))
+    return ans
