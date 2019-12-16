@@ -16,3 +16,5 @@ def NumOfWaysCoinChange(amount, coins):
 
 
 print (NumOfWaysCoinChange(5,[1,2,3]))
+print (NumOfWaysCoinChange(3,[2]))
+print (NumOfWaysCoinChange(10,[10]))
