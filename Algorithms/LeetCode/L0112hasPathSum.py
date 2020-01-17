@@ -35,3 +35,30 @@ def hasPathSum1(root, sum):
         return sum == 0
     return hasPathSum(root.left, sum) or hasPathSum(root.right, sum)
 
+#https://leetcode.com/problems/path-sum-ii/
+#       5
+#      / \
+#     4   8
+#    /   / \
+#   11  13  4
+#  /  \    / \
+# 7    2  5   1
+
+# O/P , given sum = 22
+# [
+#    [5,4,11,2],
+#    [5,8,4,5]
+# ]
+
+def hasPathSum2(root, sum, ls, res):
+    if not root.left and not root.right and sum == root.val:
+        ls.append(root.val)
+        res.append(ls)
+    if root.left:
+        hasPathSum2(root.left, sum-root.val, ls+[root.val], res)
+    if root.right:
+        hasPathSum2(root.right, sum-root.val, ls+[root.val], res)
+
+res= []
+print(hasPathSum2(tree,sum,[],res))
+
