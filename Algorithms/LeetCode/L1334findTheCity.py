@@ -12,7 +12,7 @@ def findTheCity(n,edges,dist_threshold):
     for k in range(n):
         for i in range(n):
             for j in range(n):
-                dist[[i][j] = min (dist[i][j], dist[i][k]+ dist[k][j])
+                dist[i][j] = min (dist[i][j], dist[i][k]+ dist[k][j])
 
     best_reached = float('inf')
     for u in range(n):
@@ -21,3 +21,6 @@ def findTheCity(n,edges,dist_threshold):
             ans = u
             best_reached = reached
     return ans
+
+
+print (findTheCity(4,[[0,1,3],[1,2,1],[1,3,4],[2,3,1]],4))
