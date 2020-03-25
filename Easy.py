@@ -340,7 +340,6 @@ def isSymmetric(root):
             return False
         return p.val == q.val and isMirror(p.left,q.right) and isMirror(p.right,q.left)
     return isMirror(root,root)
-
 # print(isSymmetric(TreeNode(1,TreeNode(2),TreeNode(3))))
 
 def maxDepth(root):
@@ -463,4 +462,111 @@ def singleNumer(nums):
     for x in nums:
         ans ^= x
     return ans
-print (singleNumer([4,1,2,1,2]))
+# print (singleNumer([4,1,2,1,2]))
+
+def hasCycle(head):
+    if head is None or head.next is None:
+        return False
+    slow, fast = head, head.next
+    while (slow != fast):
+        if fast is None or fast.Next is None:
+            return False
+        slow = slow.next
+        fast = fast.next.next
+    return True
+
+def getIntersectionNode(headA, headB):
+    if headA is None or headB is None:
+        return None
+    pA, pB = headA, headB
+    while pA is not pB:
+        pA = headB if pA is None else pA.next
+        pB = headA if pB is None else pB.next
+    return pA
+
+def twoSumAscending(nums,target):
+    i, j = 0, len(nums)-1
+    while i<j:
+        temp = nums[i] + nums[j]
+        if temp < target: i += 1
+        elif temp > target: j -= 1
+        else: return (i+1,j+1)
+    return None
+# print (twoSumAscending([2,7,11,15],9))
+
+def convertToTitle(n):
+    temp = 'ZABCDEFGHIJKLMNOPQRSTUVWXY'
+    result = []
+    if n<26: return temp[n%26]
+    while n>1:
+        rem, n  = n % 26, n // 26
+        result.append(temp[rem])
+    return ''.join(result[::-1])
+# print (convertToTitle(26))
+
+
+def P189_rotate(nums,k):
+    def _reverse(array, start, end):
+        while start < end:
+            array[start], array[end] = array[end], array[start]
+            start, end = start + 1, end - 1
+    if k <= 0: return nums
+    k, n = k % len(nums) , len(nums) - 1
+    _reverse(nums, 0, n-k)
+    _reverse(nums, n-k+1, n)
+    _reverse(nums, 0, n)
+    return nums
+# print (P189_rotate([1,2,3,4,5,6,7],3))
+
+def P191_hammingWeight(n):
+    c =0
+    while n: 
+        n = n & (n-1)
+        c += 1
+    return c
+def P191_hammingWeightRecursive(n,count):
+    if n == 0:
+        return count
+    else:
+        return P191_hammingWeightRecursive(n & n-1,count+1)
+# print (P191_hammingWeightRecursive(5,0))
+
+def P202_isHappy(n):
+    def get_next(n):
+        total_sum = 0
+        while n > 0:
+            n, digit = divmod(n,10)
+            total_sum += digit ** 2
+        return total_sum
+    seen = set()
+    while n != 1 and n not in seen:
+        seen.add(n)
+        n = get_next(n)
+    return n==1
+# print (P202_isHappy(19))
+
+def P206_reverseListIterative(head):
+    prev, curr = None, head
+    while curr != None:
+        nextTemp = curr.next
+        curr.next = prev
+        prev = curr
+        curr = nextTemp
+    return prev
+def P206_reverseListRecursive(head):
+    if head is None or head.next is None: return head
+    p = P206_reverseListRecursive(head.next)
+    head.next.next = head
+    head.next = None
+    return p
+
+def P226_invertTree(root):
+    if root is None:
+        return
+    else:
+        left, right = P226_invertTree(root.left), P226_invertTree(root.right)
+        root.left, root.right = right, left
+        return root
+
+
+
